@@ -1,0 +1,7810 @@
+# Bronwyn Dengler , 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://www.kde-look.org/content/show.php?"
+"content=94106\n"
+"POT-Creation-Date: 2011-11-23 08:57+0100\n"
+"PO-Revision-Date: 2008-12-22 17:47+0100\n"
+"Last-Translator: Bronwyn Dengler  <ruans@kr8.co.za>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: utf8\n"
+"X-Generator: Lokalize 0.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet/configdialog/dlgaddcity.cpp:149
+msgid "distance:"
+msgstr ""
+
+#: applet/configdialog/dlgaddcity.cpp:181
+msgid "The applet was not able to contact the server, please try again later."
+msgstr ""
+
+#: applet/configdialog/dlgaddcity.cpp:187
+msgid "Ion has rejected invalid or malformed command."
+msgstr ""
+
+#: applet/configdialog/dlgaddcity.cpp:192
+msgid ""
+"The place '%1' is not valid. The weather-service is not able to find this "
+"place."
+msgstr ""
+
+#: applet/configdialog/dlgaddcity.cpp:197
+msgid "The applet was not able to contact the server, due to an unknown error."
+msgstr ""
+
+#: applet/configdialog/dlgaddcity.cpp:223
+msgid "You have to enter a city to search for."
+msgstr ""
+
+#: applet/configdialog/dlgaddcity.cpp:231
+msgctxt "Progress dialog caption"
+msgid "Please wait..."
+msgstr ""
+
+#: applet/configdialog/dlgaddcity.cpp:232
+msgctxt "Progress dialog description"
+msgid "%1 is retrieving the list of cities from the internet, please wait."
+msgstr ""
+
+#: applet/configdialog/dlgtimezone.cpp:35
+msgctxt "yaWP Settings Dialog"
+msgid "%1 Settings"
+msgstr ""
+
+#: applet/configdialog/dlgtimezone.cpp:38
+msgid "Select the timezone for <b>%1</b>."
+msgstr ""
+
+#: applet/configdialog/yawpconfig.cpp:101
+msgid "Locations"
+msgstr ""
+
+#: applet/configdialog/yawpconfig.cpp:102
+msgid "Settings"
+msgstr ""
+
+#: applet/configdialog/yawpconfig.cpp:103
+msgid "Panel"
+msgstr ""
+
+#: applet/configdialog/yawpconfig.cpp:104
+msgid "Theme"
+msgstr "Tema"
+
+#: applet/configdialog/yawpconfig.cpp:140
+#: applet/configdialog/yawpconfig.cpp:162
+msgid "Celsius"
+msgstr ""
+
+#: applet/configdialog/yawpconfig.cpp:141
+#: applet/configdialog/yawpconfig.cpp:163
+msgid "Fahrenheit"
+msgstr ""
+
+#: applet/configdialog/yawpconfig.cpp:143
+#: applet/configdialog/yawpconfig.cpp:166
+#: applet/configdialog/yawpconfig.cpp:170
+msgid "Kilometers Per Hour"
+msgstr ""
+
+#: applet/configdialog/yawpconfig.cpp:144
+#: applet/configdialog/yawpconfig.cpp:167
+#: applet/configdialog/yawpconfig.cpp:171
+msgid "Meters Per Second"
+msgstr ""
+
+#: applet/configdialog/yawpconfig.cpp:145
+#: applet/configdialog/yawpconfig.cpp:168
+#: applet/configdialog/yawpconfig.cpp:172
+msgid "Miles Per Hour"
+msgstr ""
+
+#: applet/configdialog/yawpconfig.cpp:146
+#: applet/configdialog/yawpconfig.cpp:174
+msgid "Knots"
+msgstr ""
+
+#: applet/configdialog/yawpconfig.cpp:147
+#: applet/configdialog/yawpconfig.cpp:175
+msgid "Beaufort Scale"
+msgstr ""
+
+#: applet/configdialog/yawpconfig.cpp:149
+#: applet/configdialog/yawpconfig.cpp:177
+msgid "Kilopascals"
+msgstr ""
+
+#: applet/configdialog/yawpconfig.cpp:150
+#: applet/configdialog/yawpconfig.cpp:178
+msgid "Inches HG"
+msgstr ""
+
+#: applet/configdialog/yawpconfig.cpp:151
+#: applet/configdialog/yawpconfig.cpp:179
+msgid "Millibars"
+msgstr ""
+
+#: applet/configdialog/yawpconfig.cpp:152
+#: applet/configdialog/yawpconfig.cpp:180
+msgid "Hectopascals"
+msgstr ""
+
+#: applet/configdialog/yawpconfig.cpp:154
+msgid "Millimeters HG"
+msgstr ""
+
+#: applet/configdialog/yawpconfig.cpp:156
+msgid "Torr (Millimeter HG)"
+msgstr ""
+
+#: applet/configdialog/yawpconfig.cpp:159
+#: applet/configdialog/yawpconfig.cpp:182
+msgid "Kilometers"
+msgstr ""
+
+#: applet/configdialog/yawpconfig.cpp:160
+#: applet/configdialog/yawpconfig.cpp:183
+msgid "Miles"
+msgstr ""
+
+#: applet/configdialog/yawpconfig.cpp:189
+msgid "%1 minutes"
+msgstr ""
+
+#: applet/configdialog/yawpconfig.cpp:222
+msgid ""
+"Your system does not have any weather-engine. %1 is useless without at least "
+"one weatherengine."
+msgstr ""
+
+#: applet/configdialog/yawpconfig.cpp:625
+msgid "Error"
+msgstr ""
+
+#: applet/configdialog/yawpconfig.cpp:626
+msgid "City %1 already exists in the list and can not be added again."
+msgstr ""
+
+#: applet/configdialog/yawpconfig.cpp:639
+msgid "No city has been selected to delete."
+msgstr ""
+
+#: applet/configdialog/yawpconfig.cpp:646
+msgid "Do you really want to delete city %1?"
+msgstr ""
+
+#: applet/configdialog/yawpconfig.cpp:701
+msgid "None"
+msgstr ""
+
+#: applet/configdialog/yawpconfig.cpp:702
+msgid "Crossfade"
+msgstr ""
+
+#: applet/configdialog/yawpconfig.cpp:703
+msgid "Scanline blend"
+msgstr ""
+
+#: applet/configdialog/yawpconfig.cpp:704
+msgid "Flip vertically"
+msgstr ""
+
+#: applet/configdialog/yawpconfig.cpp:705
+msgid "Flip horizontally"
+msgstr ""
+
+#: applet/configdialog/yawpconfig.cpp:710
+msgid "Roll in vertically"
+msgstr ""
+
+#: applet/configdialog/yawpconfig.cpp:711
+msgid "Roll out vertically"
+msgstr ""
+
+#: applet/configdialog/yawpconfig.cpp:712
+msgid "Roll in horizontally"
+msgstr ""
+
+#: applet/configdialog/yawpconfig.cpp:713
+msgid "Roll out horizontally"
+msgstr ""
+
+#: applet/configdialog/yawpconfig.cpp:714
+msgid "Slide in vertically"
+msgstr ""
+
+#: applet/configdialog/yawpconfig.cpp:715
+msgid "Slide out vertically"
+msgstr ""
+
+#: applet/configdialog/yawpconfig.cpp:716
+msgid "Slide in horizontally"
+msgstr ""
+
+#: applet/configdialog/yawpconfig.cpp:717
+msgid "Slide out horizontally"
+msgstr ""
+
+#: applet/configdialog/yawpconfig.cpp:718
+msgid "Open vertically"
+msgstr ""
+
+#: applet/configdialog/yawpconfig.cpp:719
+msgid "Close vertically"
+msgstr ""
+
+#: applet/configdialog/yawpconfig.cpp:720
+msgid "Open horizontally"
+msgstr ""
+
+#: applet/configdialog/yawpconfig.cpp:721
+msgid "Close horizontally"
+msgstr ""
+
+#: applet/painter/desktoppainter.cpp:214
+msgid "Connecting..."
+msgstr "Konnekteer..."
+
+#: applet/painter/desktoppainter.cpp:387
+msgid "No forecast information available"
+msgstr ""
+
+#: applet/painter/desktoppainter.cpp:469
+msgid "Forecast details"
+msgstr ""
+
+#: applet/painter/desktoppainter.cpp:496 applet/painter/desktoppainter.cpp:575
+msgid "No detail information available"
+msgstr ""
+
+#: applet/painter/desktoppainter.cpp:534
+msgid "Last update:"
+msgstr ""
+
+#: applet/painter/desktoppainter.cpp:538
+msgid "*** Not updated yet ***"
+msgstr ""
+
+#: applet/painter/desktoppainter.cpp:546
+msgid "Observation Periode:"
+msgstr ""
+
+#: applet/painter/desktoppainter.cpp:560 applet/weatherdataprocessor.cpp:818
+msgid "night"
+msgstr ""
+
+#: applet/painter/desktoppainter.cpp:631
+msgctxt "High degrees"
+msgid "H: %1"
+msgstr ""
+
+#: applet/painter/desktoppainter.cpp:637
+msgctxt "Low degrees"
+msgid "L: %1"
+msgstr ""
+
+#: applet/painter/desktoppainter.cpp:895
+msgid "Cached"
+msgstr ""
+
+#: applet/utils.cpp:66
+msgctxt "Error message"
+msgid ""
+"Plasmoid %1 could not find an application to open URL <a href=\"%2\">%2</a>."
+msgstr ""
+
+#: applet/utils.cpp:68
+msgctxt "Caption for Error Message"
+msgid "Plasmoid %1 Error"
+msgstr ""
+
+#: applet/utils.cpp:200 po/rc.cpp:536 rc.cpp:536
+#, fuzzy
+msgctxt "Forecast description"
+msgid "and"
+msgstr "vind.."
+
+#: applet/weatherdataprocessor.cpp:214
+#, fuzzy
+msgid "Today"
+msgstr "Maan"
+
+#: applet/weatherdataprocessor.cpp:216
+#, fuzzy
+msgid "day"
+msgstr "Maan"
+
+#: applet/weatherdataprocessor.cpp:225
+msgid "Tonight"
+msgstr ""
+
+#: applet/weatherdataprocessor.cpp:227
+msgid "Nite"
+msgstr ""
+
+#: applet/weatherdataprocessor.cpp:229
+msgid "Night"
+msgstr ""
+
+#: applet/weatherdataprocessor.cpp:614
+msgctxt "UV Index Low"
+msgid "Low"
+msgstr ""
+
+#: applet/weatherdataprocessor.cpp:616
+msgctxt "UV Index Moderate"
+msgid "Moderate"
+msgstr ""
+
+#: applet/weatherdataprocessor.cpp:618
+msgctxt "UV Index High"
+msgid "High"
+msgstr ""
+
+#: applet/weatherdataprocessor.cpp:620
+msgctxt "UV Index Very High"
+msgid "Very High"
+msgstr ""
+
+#: applet/weatherdataprocessor.cpp:622
+msgctxt "UV Index Extreme"
+msgid "Extreme"
+msgstr ""
+
+#: applet/weatherdataprocessor.cpp:813
+msgid "nt"
+msgstr ""
+
+#: applet/weatherdataprocessor.cpp:982
+#, fuzzy
+msgid "Dewpoint: %1"
+msgstr "Stad naam:"
+
+#: applet/weatherdataprocessor.cpp:988
+msgid "Pressure: %1 %2"
+msgstr ""
+
+#: applet/weatherdataprocessor.cpp:1005 applet/weatherdataprocessor.cpp:1006
+#: applet/weatherdataprocessor.cpp:1029 applet/weatherdataprocessor.cpp:1030
+msgid "N/A"
+msgstr ""
+
+#: applet/weatherdataprocessor.cpp:1021 applet/yawp.cpp:1270
+msgid "Real feel: %1 / %2"
+msgstr ""
+
+#: applet/weatherdataprocessor.cpp:1043 applet/yawp.cpp:1260
+msgid "Sunrise at %1, sunset at %2"
+msgstr ""
+
+#: applet/weatherdataprocessor.cpp:1050
+msgid "UV Index: %1 %2"
+msgstr ""
+
+#: applet/weatherdataprocessor.cpp:1058
+msgid "Visibility: %1 %2"
+msgstr ""
+
+#: applet/weatherservice.cpp:206
+msgid "Location"
+msgstr ""
+
+#: applet/weatherservice.cpp:207
+msgid "Provider"
+msgstr ""
+
+#: applet/weatherservice.cpp:208
+msgid "Last update"
+msgstr ""
+
+#: applet/weatherservice.cpp:209
+msgid "Timezone"
+msgstr ""
+
+#: applet/weatherservice.cpp:210
+msgid "Provider code"
+msgstr ""
+
+#: applet/weatherservice.cpp:244
+msgid "no update"
+msgstr ""
+
+#: applet/yawp.cpp:184
+msgid "&Refresh"
+msgstr ""
+
+#: applet/yawp.cpp:189
+msgid "&About"
+msgstr ""
+
+#: applet/yawp.cpp:197
+msgid "Show city"
+msgstr ""
+
+#: applet/yawp.cpp:203
+msgid "Open Forecast URL"
+msgstr ""
+
+#: applet/yawp.cpp:222
+msgid "Yet Another Weather Applet"
+msgstr ""
+
+#: applet/yawp.cpp:224
+msgid ""
+"Copyright (C) 2008-2010 Ruan Strydom\n"
+"Copyright (C) 2008-2010 Ezequiel R. Aguerre\n"
+"Copyright (C) 2008-2010 Pierpaolo Vittorini\n"
+"Copyright (C) 2008-2011 Marián Kyral\n"
+"Copyright (C) 2009-2011 Ulf Kreißig"
+msgstr ""
+
+#: applet/yawp.cpp:229
+msgid ""
+"This plasmoid shows for the selected place  current weather and forecast for "
+"4 days."
+msgstr ""
+
+#: applet/yawp.cpp:235 applet/yawp.cpp:254
+msgid "Ulf Kreißig"
+msgstr ""
+
+#: applet/yawp.cpp:236 applet/yawp.cpp:238 applet/yawp.cpp:240
+#: applet/yawp.cpp:242 applet/yawp.cpp:244
+msgid "Developer"
+msgstr ""
+
+#: applet/yawp.cpp:237
+msgid "Marián Kyral"
+msgstr ""
+
+#: applet/yawp.cpp:239
+msgid "Ezequiel R. Aguerre"
+msgstr ""
+
+#: applet/yawp.cpp:241
+msgid "Pierpaolo Vittorini"
+msgstr ""
+
+#: applet/yawp.cpp:243 applet/yawp.cpp:256
+msgid "Ruan Strydom"
+msgstr ""
+
+#: applet/yawp.cpp:255
+msgid "Complete rewrite!"
+msgstr ""
+
+#: applet/yawp.cpp:257
+msgid "Idea, graphics"
+msgstr ""
+
+#: applet/yawp.cpp:258
+msgid "AccuWeather.com"
+msgstr ""
+
+#: applet/yawp.cpp:259
+msgid "For the weather data"
+msgstr ""
+
+#: applet/yawp.cpp:260
+msgid "Thomas Luebking"
+msgstr ""
+
+#: applet/yawp.cpp:261
+msgid ""
+"Algorithm for animated page-changes is a slightly modified version from "
+"Bespin. (Qt4 Style)"
+msgstr ""
+
+#: applet/yawp.cpp:263
+msgid "das Gnu"
+msgstr ""
+
+#: applet/yawp.cpp:264
+msgid "German translation"
+msgstr ""
+
+#: applet/yawp.cpp:265
+msgid "Jesús Vidal Panalés"
+msgstr ""
+
+#: applet/yawp.cpp:266
+msgid "Spanish translation"
+msgstr ""
+
+#: applet/yawp.cpp:267
+msgid "Bribanick Dominique"
+msgstr ""
+
+#: applet/yawp.cpp:268
+msgid "French translation"
+msgstr ""
+
+#: applet/yawp.cpp:269
+msgid "Mihail Pisanov"
+msgstr ""
+
+#: applet/yawp.cpp:270
+msgid "Russian translation"
+msgstr ""
+
+#: applet/yawp.cpp:271
+msgid "Richard Frič"
+msgstr ""
+
+#: applet/yawp.cpp:272
+msgid "Slovak translation"
+msgstr ""
+
+#: applet/yawp.cpp:273
+msgid "Mihael Simonič"
+msgstr ""
+
+#: applet/yawp.cpp:274
+msgid "Slovenian translation"
+msgstr ""
+
+#: applet/yawp.cpp:275
+msgid "Maciej Bulik"
+msgstr ""
+
+#: applet/yawp.cpp:276
+msgid "Polish translation"
+msgstr ""
+
+#: applet/yawp.cpp:277
+#, fuzzy
+msgid "Hasan Kiran"
+msgstr "son"
+
+#: applet/yawp.cpp:278
+msgid "Turkish translation"
+msgstr ""
+
+#: applet/yawp.cpp:279
+msgid "All people reporting bugs, send feedback and new feature requests"
+msgstr ""
+
+#: applet/yawp.cpp:284
+msgctxt "NAME OF THE TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+#: applet/yawp.cpp:285
+msgctxt "EMAIL OF THE TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#: applet/yawp.cpp:1152
+msgid "yaWP Desktop Interface"
+msgstr ""
+
+#: applet/yawp.cpp:1236
+msgid "Forecast for %1 (%2)"
+msgstr ""
+
+#: applet/yawp.cpp:1241
+msgid "Day: "
+msgstr ""
+
+#: applet/yawp.cpp:1247
+msgid "Night: "
+msgstr ""
+
+#. i18n: file: applet/ui/dlgaddcity.ui:14
+#. i18n: ectx: property (windowTitle), widget (QDialog, DlgAddCity)
+#. i18n: file: applet/ui/yawplocationspage.ui:39
+#. i18n: ectx: property (text), widget (QPushButton, btnAddCity)
+#. i18n: file: applet/ui/dlgaddcity.ui:14
+#. i18n: ectx: property (windowTitle), widget (QDialog, DlgAddCity)
+#. i18n: file: applet/ui/yawplocationspage.ui:39
+#. i18n: ectx: property (text), widget (QPushButton, btnAddCity)
+#: build/applet/ui_dlgaddcity.h:99 build/applet/ui_yawplocationspage.h:102
+#: po/rc.cpp:3 po/rc.cpp:24 rc.cpp:3 rc.cpp:24
+#, fuzzy
+msgid "Add City"
+msgstr "Stad naam:"
+
+#. i18n: file: applet/ui/dlgaddcity.ui:36
+#. i18n: ectx: property (text), widget (QLabel, labelCity)
+#: build/applet/ui_dlgaddcity.h:100 po/rc.cpp:6 rc.cpp:6
+#, fuzzy
+msgid "City"
+msgstr "Stad naam:"
+
+#. i18n: file: applet/ui/dlgaddcity.ui:46
+#. i18n: ectx: property (text), widget (QPushButton, bttnFind)
+#: build/applet/ui_dlgaddcity.h:101 po/rc.cpp:9 rc.cpp:9
+#, fuzzy
+msgid "Find"
+msgstr "Vind.."
+
+#. i18n: file: applet/ui/dlgtimezone.ui:27
+#. i18n: ectx: property (text), widget (QLabel, labelPreselected)
+#: build/applet/ui_dlgtimezone.h:122 po/rc.cpp:12 rc.cpp:12
+msgid "Preselected"
+msgstr ""
+
+#. i18n: file: applet/ui/dlgtimezone.ui:37
+#. i18n: ectx: property (text), widget (QPushButton, btnShowAll)
+#: build/applet/ui_dlgtimezone.h:123 po/rc.cpp:15 rc.cpp:15
+msgid "Show all"
+msgstr ""
+
+#. i18n: file: applet/ui/dlgtimezone.ui:44
+#. i18n: ectx: property (text), widget (QLabel, labelAll)
+#: build/applet/ui_dlgtimezone.h:124 po/rc.cpp:18 rc.cpp:18
+msgid "All timezones"
+msgstr ""
+
+#. i18n: file: applet/ui/dlgtimezone.ui:54
+#. i18n: ectx: property (text), widget (QPushButton, btnShowPreselected)
+#: build/applet/ui_dlgtimezone.h:125 po/rc.cpp:21 rc.cpp:21
+msgid "Show preselected"
+msgstr ""
+
+#. i18n: file: applet/ui/yawplocationspage.ui:52
+#. i18n: ectx: property (text), widget (QPushButton, btnDeleteCity)
+#: build/applet/ui_yawplocationspage.h:103 po/rc.cpp:27 rc.cpp:27
+msgid "Delete City"
+msgstr ""
+
+#. i18n: file: applet/ui/yawplocationspage.ui:86
+#. i18n: ectx: property (text), widget (QPushButton, btnSetTimeZone)
+#: build/applet/ui_yawplocationspage.h:106 po/rc.cpp:30 rc.cpp:30
+msgid "Set Timezone"
+msgstr ""
+
+#. i18n: file: applet/ui/yawppanelpage.ui:31
+#. i18n: ectx: property (title), widget (QGroupBox, m_panelActual)
+#: build/applet/ui_yawppanelpage.h:255 po/rc.cpp:33 rc.cpp:33
+msgid "Actual weather"
+msgstr ""
+
+#. i18n: file: applet/ui/yawppanelpage.ui:52
+#. i18n: ectx: property (toolTip), widget (QRadioButton, radioActualTemp)
+#. i18n: file: applet/ui/yawppanelpage.ui:140
+#. i18n: ectx: property (toolTip), widget (QRadioButton, radioForecastTemp)
+#. i18n: file: applet/ui/yawppanelpage.ui:52
+#. i18n: ectx: property (toolTip), widget (QRadioButton, radioActualTemp)
+#. i18n: file: applet/ui/yawppanelpage.ui:140
+#. i18n: ectx: property (toolTip), widget (QRadioButton, radioForecastTemp)
+#: build/applet/ui_yawppanelpage.h:257 build/applet/ui_yawppanelpage.h:271
+#: po/rc.cpp:36 po/rc.cpp:57 rc.cpp:36 rc.cpp:57
+msgid "Show temperature only"
+msgstr ""
+
+#. i18n: file: applet/ui/yawppanelpage.ui:55
+#. i18n: ectx: property (text), widget (QRadioButton, radioActualTemp)
+#. i18n: file: applet/ui/yawppanelpage.ui:143
+#. i18n: ectx: property (text), widget (QRadioButton, radioForecastTemp)
+#. i18n: file: applet/ui/yawpsettingspage.ui:65
+#. i18n: ectx: property (text), widget (QLabel, label_temperatureSystem)
+#. i18n: file: applet/ui/yawppanelpage.ui:55
+#. i18n: ectx: property (text), widget (QRadioButton, radioActualTemp)
+#. i18n: file: applet/ui/yawppanelpage.ui:143
+#. i18n: ectx: property (text), widget (QRadioButton, radioForecastTemp)
+#. i18n: file: applet/ui/yawpsettingspage.ui:65
+#. i18n: ectx: property (text), widget (QLabel, label_temperatureSystem)
+#: build/applet/ui_yawppanelpage.h:259 build/applet/ui_yawppanelpage.h:273
+#: build/applet/ui_yawpsettingspage.h:375 po/rc.cpp:39 po/rc.cpp:60
+#: po/rc.cpp:137 rc.cpp:39 rc.cpp:60 rc.cpp:137
+msgid "Temperature"
+msgstr ""
+
+#. i18n: file: applet/ui/yawppanelpage.ui:71
+#. i18n: ectx: property (toolTip), widget (QRadioButton, radioActualIcon)
+#. i18n: file: applet/ui/yawppanelpage.ui:156
+#. i18n: ectx: property (toolTip), widget (QRadioButton, radioForecastIcon)
+#. i18n: file: applet/ui/yawppanelpage.ui:71
+#. i18n: ectx: property (toolTip), widget (QRadioButton, radioActualIcon)
+#. i18n: file: applet/ui/yawppanelpage.ui:156
+#. i18n: ectx: property (toolTip), widget (QRadioButton, radioForecastIcon)
+#: build/applet/ui_yawppanelpage.h:261 build/applet/ui_yawppanelpage.h:275
+#: po/rc.cpp:42 po/rc.cpp:63 rc.cpp:42 rc.cpp:63
+msgid "Show icon only"
+msgstr ""
+
+#. i18n: file: applet/ui/yawppanelpage.ui:74
+#. i18n: ectx: property (text), widget (QRadioButton, radioActualIcon)
+#. i18n: file: applet/ui/yawppanelpage.ui:159
+#. i18n: ectx: property (text), widget (QRadioButton, radioForecastIcon)
+#. i18n: file: applet/ui/yawppanelpage.ui:74
+#. i18n: ectx: property (text), widget (QRadioButton, radioActualIcon)
+#. i18n: file: applet/ui/yawppanelpage.ui:159
+#. i18n: ectx: property (text), widget (QRadioButton, radioForecastIcon)
+#: build/applet/ui_yawppanelpage.h:263 build/applet/ui_yawppanelpage.h:277
+#: po/rc.cpp:45 po/rc.cpp:66 rc.cpp:45 rc.cpp:66
+msgid "Icon"
+msgstr ""
+
+#. i18n: file: applet/ui/yawppanelpage.ui:87
+#. i18n: ectx: property (toolTip), widget (QRadioButton, radioActualBoth)
+#. i18n: file: applet/ui/yawppanelpage.ui:172
+#. i18n: ectx: property (toolTip), widget (QRadioButton, radioForecastBoth)
+#. i18n: file: applet/ui/yawppanelpage.ui:87
+#. i18n: ectx: property (toolTip), widget (QRadioButton, radioActualBoth)
+#. i18n: file: applet/ui/yawppanelpage.ui:172
+#. i18n: ectx: property (toolTip), widget (QRadioButton, radioForecastBoth)
+#: build/applet/ui_yawppanelpage.h:265 build/applet/ui_yawppanelpage.h:279
+#: po/rc.cpp:48 po/rc.cpp:69 rc.cpp:48 rc.cpp:69
+msgid "Show temperature and icon"
+msgstr ""
+
+#. i18n: file: applet/ui/yawppanelpage.ui:90
+#. i18n: ectx: property (text), widget (QRadioButton, radioActualBoth)
+#. i18n: file: applet/ui/yawppanelpage.ui:175
+#. i18n: ectx: property (text), widget (QRadioButton, radioForecastBoth)
+#. i18n: file: applet/ui/yawppanelpage.ui:90
+#. i18n: ectx: property (text), widget (QRadioButton, radioActualBoth)
+#. i18n: file: applet/ui/yawppanelpage.ui:175
+#. i18n: ectx: property (text), widget (QRadioButton, radioForecastBoth)
+#: build/applet/ui_yawppanelpage.h:267 build/applet/ui_yawppanelpage.h:281
+#: po/rc.cpp:51 po/rc.cpp:72 rc.cpp:51 rc.cpp:72
+msgid "Both"
+msgstr ""
+
+#. i18n: file: applet/ui/yawppanelpage.ui:125
+#. i18n: ectx: property (title), widget (QGroupBox, m_panelForecast)
+#: build/applet/ui_yawppanelpage.h:269 po/rc.cpp:54 rc.cpp:54
+msgid "Forecast"
+msgstr ""
+
+#. i18n: file: applet/ui/yawppanelpage.ui:187
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: build/applet/ui_yawppanelpage.h:282 po/rc.cpp:75 rc.cpp:75
+msgid "Days: "
+msgstr ""
+
+#. i18n: file: applet/ui/yawppanelpage.ui:203
+#. i18n: ectx: property (text), item, widget (QComboBox, comboForecastDays)
+#: build/applet/ui_yawppanelpage.h:285 po/rc.cpp:86 rc.cpp:86
+msgid "0"
+msgstr ""
+
+#. i18n: file: applet/ui/yawppanelpage.ui:208
+#. i18n: ectx: property (text), item, widget (QComboBox, comboForecastDays)
+#: build/applet/ui_yawppanelpage.h:286 po/rc.cpp:89 rc.cpp:89
+msgid "1"
+msgstr ""
+
+#. i18n: file: applet/ui/yawppanelpage.ui:213
+#. i18n: ectx: property (text), item, widget (QComboBox, comboForecastDays)
+#: build/applet/ui_yawppanelpage.h:287 po/rc.cpp:92 rc.cpp:92
+msgid "2"
+msgstr ""
+
+#. i18n: file: applet/ui/yawppanelpage.ui:218
+#. i18n: ectx: property (text), item, widget (QComboBox, comboForecastDays)
+#: build/applet/ui_yawppanelpage.h:288 po/rc.cpp:95 rc.cpp:95
+msgid "3"
+msgstr ""
+
+#. i18n: file: applet/ui/yawppanelpage.ui:223
+#. i18n: ectx: property (text), item, widget (QComboBox, comboForecastDays)
+#: build/applet/ui_yawppanelpage.h:289 po/rc.cpp:98 rc.cpp:98
+msgid "4"
+msgstr ""
+
+#. i18n: file: applet/ui/yawppanelpage.ui:228
+#. i18n: ectx: property (text), item, widget (QComboBox, comboForecastDays)
+#: build/applet/ui_yawppanelpage.h:290 po/rc.cpp:101 rc.cpp:101
+msgid "5"
+msgstr ""
+
+#. i18n: file: applet/ui/yawppanelpage.ui:199
+#. i18n: ectx: property (toolTip), widget (QComboBox, comboForecastDays)
+#: build/applet/ui_yawppanelpage.h:293 po/rc.cpp:78 rc.cpp:78
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+"REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'DejaVu Sans'; font-size:8pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">How many days of forecast "
+"will be shown.</p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"weight:600;\">Zero</span> means no forecasts</p></body></html>"
+msgstr ""
+
+#. i18n: file: applet/ui/yawppanelpage.ui:243
+#. i18n: ectx: property (text), widget (QCheckBox, checkCompactPanelLayout)
+#: build/applet/ui_yawppanelpage.h:300 po/rc.cpp:104 rc.cpp:104
+msgid "Use compact panel layout"
+msgstr ""
+
+#. i18n: file: applet/ui/yawppanelpage.ui:250
+#. i18n: ectx: property (text), widget (QCheckBox, checkInteractivePanelWeatherIcons)
+#: build/applet/ui_yawppanelpage.h:301 po/rc.cpp:107 rc.cpp:107
+msgid "Use interactive weather icons"
+msgstr ""
+
+#. i18n: file: applet/ui/yawppanelpage.ui:285
+#. i18n: ectx: property (title), widget (QGroupBox, groupBoxPanelTooltip)
+#: build/applet/ui_yawppanelpage.h:302 po/rc.cpp:110 rc.cpp:110
+msgid "Tooltip"
+msgstr ""
+
+#. i18n: file: applet/ui/yawppanelpage.ui:297
+#. i18n: ectx: property (text), widget (QRadioButton, radioSimpleTooltip)
+#: build/applet/ui_yawppanelpage.h:303 po/rc.cpp:113 rc.cpp:113
+msgid "Simple tooltip"
+msgstr ""
+
+#. i18n: file: applet/ui/yawppanelpage.ui:304
+#. i18n: ectx: property (text), widget (QRadioButton, radioExtendedTooltip)
+#: build/applet/ui_yawppanelpage.h:304 po/rc.cpp:116 rc.cpp:116
+msgid "Extended tooltip"
+msgstr ""
+
+#. i18n: file: applet/ui/yawppanelpage.ui:333
+#. i18n: ectx: property (text), widget (QCheckBox, checkTooltipPreview)
+#: build/applet/ui_yawppanelpage.h:305 po/rc.cpp:119 rc.cpp:119
+msgid "Show preview"
+msgstr ""
+
+#. i18n: file: applet/ui/yawppanelpage.ui:349
+#. i18n: ectx: property (text), widget (QCheckBox, checkTooltipThemeBackground)
+#: build/applet/ui_yawppanelpage.h:306 po/rc.cpp:122 rc.cpp:122
+#, fuzzy
+msgid "Show theme background"
+msgstr "Gebruik tema agtergrond"
+
+#. i18n: file: applet/ui/yawppanelpage.ui:362
+#. i18n: ectx: property (text), widget (QCheckBox, checkTooltipSateliteMap)
+#: build/applet/ui_yawppanelpage.h:307 po/rc.cpp:125 rc.cpp:125
+msgid "Show satelitemap"
+msgstr ""
+
+#. i18n: file: applet/ui/yawpsettingspage.ui:33
+#. i18n: ectx: property (text), widget (QLabel, label_distanceSystem)
+#: build/applet/ui_yawpsettingspage.h:373 po/rc.cpp:131 rc.cpp:131
+msgid "Distance"
+msgstr ""
+
+#. i18n: file: applet/ui/yawpsettingspage.ui:46
+#. i18n: ectx: property (text), widget (QLabel, label_pressureSystem)
+#: build/applet/ui_yawpsettingspage.h:374 po/rc.cpp:134 rc.cpp:134
+msgid "Pressure"
+msgstr ""
+
+#. i18n: file: applet/ui/yawpsettingspage.ui:85
+#. i18n: ectx: property (text), widget (QLabel, label_speedSystem)
+#: build/applet/ui_yawpsettingspage.h:376 po/rc.cpp:140 rc.cpp:140
+msgid "Speed"
+msgstr ""
+
+#. i18n: file: applet/ui/yawpsettingspage.ui:24
+#. i18n: ectx: attribute (title), widget (QWidget, tabUnitSystems)
+#: build/applet/ui_yawpsettingspage.h:377 po/rc.cpp:128 rc.cpp:128
+#, fuzzy
+msgid "Unit Systems"
+msgstr "Eenheid sisteem:"
+
+#. i18n: file: applet/ui/yawpsettingspage.ui:131
+#. i18n: ectx: property (text), widget (QLabel, label_pagechange)
+#: build/applet/ui_yawpsettingspage.h:378 po/rc.cpp:146 rc.cpp:146
+msgid "Page"
+msgstr ""
+
+#. i18n: file: applet/ui/yawpsettingspage.ui:157
+#. i18n: ectx: property (text), widget (QLabel, label_daynames)
+#: build/applet/ui_yawpsettingspage.h:379 po/rc.cpp:149 rc.cpp:149
+msgid "Dayformat"
+msgstr ""
+
+#. i18n: file: applet/ui/yawpsettingspage.ui:183
+#. i18n: ectx: property (text), widget (QLabel, label_detailchange)
+#: build/applet/ui_yawpsettingspage.h:380 po/rc.cpp:152 rc.cpp:152
+msgid "Details"
+msgstr ""
+
+#. i18n: file: applet/ui/yawpsettingspage.ui:206
+#. i18n: ectx: property (text), widget (QLabel, label_iconchange)
+#: build/applet/ui_yawpsettingspage.h:381 po/rc.cpp:155 rc.cpp:155
+#, fuzzy
+msgid "Weather icon"
+msgstr "Weer Berou"
+
+#. i18n: file: applet/ui/yawpsettingspage.ui:225
+#. i18n: ectx: property (text), widget (QLabel, label_duration)
+#: build/applet/ui_yawpsettingspage.h:382 po/rc.cpp:158 rc.cpp:158
+msgid "Transition duration"
+msgstr ""
+
+#. i18n: file: applet/ui/yawpsettingspage.ui:119
+#. i18n: ectx: attribute (title), widget (QWidget, tabAnimation)
+#: build/applet/ui_yawpsettingspage.h:384 po/rc.cpp:143 rc.cpp:143
+msgid "Animation"
+msgstr ""
+
+#. i18n: file: applet/ui/yawpsettingspage.ui:303
+#. i18n: ectx: property (toolTip), widget (QLabel, label_updateInterval)
+#: build/applet/ui_yawpsettingspage.h:386 po/rc.cpp:164 rc.cpp:164
+msgid "This is the normal update interval to update the weather data."
+msgstr ""
+
+#. i18n: file: applet/ui/yawpsettingspage.ui:306
+#. i18n: ectx: property (text), widget (QLabel, label_updateInterval)
+#: build/applet/ui_yawpsettingspage.h:388 po/rc.cpp:167 rc.cpp:167
+#, fuzzy
+msgid "Update interval"
+msgstr "Opdateer interval:"
+
+#. i18n: file: applet/ui/yawpsettingspage.ui:326
+#. i18n: ectx: property (toolTip), widget (QLabel, label_startDelay)
+#: build/applet/ui_yawpsettingspage.h:390 po/rc.cpp:170 rc.cpp:170
+msgid ""
+"If you do not want yaWP to update the weather information right on start , "
+"than you want to increase this value."
+msgstr ""
+
+#. i18n: file: applet/ui/yawpsettingspage.ui:329
+#. i18n: ectx: property (text), widget (QLabel, label_startDelay)
+#: build/applet/ui_yawpsettingspage.h:392 po/rc.cpp:173 rc.cpp:173
+#, fuzzy
+msgid "Start delay"
+msgstr "Son"
+
+#. i18n: file: applet/ui/yawpsettingspage.ui:354
+#. i18n: ectx: property (text), widget (QLabel, labelStartDelayUnit)
+#: build/applet/ui_yawpsettingspage.h:393 po/rc.cpp:176 rc.cpp:176
+msgid "minutes"
+msgstr ""
+
+#. i18n: file: applet/ui/yawpsettingspage.ui:363
+#. i18n: ectx: property (title), widget (QGroupBox, groupBoxTraverseLocationsPeriodically)
+#: build/applet/ui_yawpsettingspage.h:394 po/rc.cpp:179 rc.cpp:179
+msgid "Traverse to next location periodically"
+msgstr ""
+
+#. i18n: file: applet/ui/yawpsettingspage.ui:378
+#. i18n: ectx: property (text), widget (QLabel, labelTraverseLocation)
+#: build/applet/ui_yawpsettingspage.h:395 po/rc.cpp:182 rc.cpp:182
+msgid "Traverse to next location"
+msgstr ""
+
+#. i18n: file: applet/ui/yawpsettingspage.ui:406
+#. i18n: ectx: property (text), widget (QLabel, labelTraverseUnit)
+#: build/applet/ui_yawpsettingspage.h:396 po/rc.cpp:185 rc.cpp:185
+msgid "seconds"
+msgstr ""
+
+#. i18n: file: applet/ui/yawpsettingspage.ui:297
+#. i18n: ectx: attribute (title), widget (QWidget, tabUpdateBehaviour)
+#: build/applet/ui_yawpsettingspage.h:397 po/rc.cpp:161 rc.cpp:161
+msgid "Update behaviour"
+msgstr ""
+
+#. i18n: file: applet/ui/yawpthemepage.ui:27
+#. i18n: ectx: property (text), item, widget (QComboBox, comboTheme)
+#: build/applet/ui_yawpthemepage.h:177 po/rc.cpp:188 rc.cpp:188
+msgid "default"
+msgstr ""
+
+#. i18n: file: applet/ui/yawpthemepage.ui:32
+#. i18n: ectx: property (text), item, widget (QComboBox, comboTheme)
+#: build/applet/ui_yawpthemepage.h:178 po/rc.cpp:191 rc.cpp:191
+msgid "purple"
+msgstr ""
+
+#. i18n: file: applet/ui/yawpthemepage.ui:37
+#. i18n: ectx: property (text), item, widget (QComboBox, comboTheme)
+#: build/applet/ui_yawpthemepage.h:179 po/rc.cpp:194 rc.cpp:194
+msgid "green"
+msgstr ""
+
+#. i18n: file: applet/ui/yawpthemepage.ui:42
+#. i18n: ectx: property (text), item, widget (QComboBox, comboTheme)
+#: build/applet/ui_yawpthemepage.h:180 po/rc.cpp:197 rc.cpp:197
+msgid "black"
+msgstr ""
+
+#. i18n: file: applet/ui/yawpthemepage.ui:47
+#. i18n: ectx: property (text), item, widget (QComboBox, comboTheme)
+#: build/applet/ui_yawpthemepage.h:181 po/rc.cpp:200 rc.cpp:200
+msgid "blue"
+msgstr ""
+
+#. i18n: file: applet/ui/yawpthemepage.ui:52
+#. i18n: ectx: property (text), item, widget (QComboBox, comboTheme)
+#: build/applet/ui_yawpthemepage.h:182 po/rc.cpp:203 rc.cpp:203
+msgid "red"
+msgstr ""
+
+#. i18n: file: applet/ui/yawpthemepage.ui:57
+#. i18n: ectx: property (text), item, widget (QComboBox, comboTheme)
+#: build/applet/ui_yawpthemepage.h:183 po/rc.cpp:206 rc.cpp:206
+msgid "yellow"
+msgstr ""
+
+#. i18n: file: applet/ui/yawpthemepage.ui:62
+#. i18n: ectx: property (text), item, widget (QComboBox, comboTheme)
+#: build/applet/ui_yawpthemepage.h:184 po/rc.cpp:209 rc.cpp:209
+msgid "funky"
+msgstr ""
+
+#. i18n: file: applet/ui/yawpthemepage.ui:67
+#. i18n: ectx: property (text), item, widget (QComboBox, comboTheme)
+#: build/applet/ui_yawpthemepage.h:185 po/rc.cpp:212 rc.cpp:212
+msgid "naked"
+msgstr ""
+
+#. i18n: file: applet/ui/yawpthemepage.ui:78
+#. i18n: ectx: property (text), widget (QPushButton, btnCustomThemeFile)
+#: build/applet/ui_yawpthemepage.h:187 po/rc.cpp:215 rc.cpp:215
+msgid "Browse.."
+msgstr "Soek.."
+
+#. i18n: file: applet/ui/yawpthemepage.ui:98
+#. i18n: ectx: property (text), widget (QCheckBox, checkBoxUseCustomBackground)
+#: build/applet/ui_yawpthemepage.h:188 po/rc.cpp:218 rc.cpp:218
+#, fuzzy
+msgid "Use custom theme background"
+msgstr "Gebruik tema agtergrond"
+
+#. i18n: file: applet/ui/yawpthemepage.ui:108
+#. i18n: ectx: property (text), widget (QLabel, label_comboColor)
+#: build/applet/ui_yawpthemepage.h:189 po/rc.cpp:221 rc.cpp:221
+msgid "Main color:"
+msgstr ""
+
+#. i18n: file: applet/ui/yawpthemepage.ui:131
+#. i18n: ectx: property (text), widget (QLabel, label_comboLowerColor)
+#: build/applet/ui_yawpthemepage.h:190 po/rc.cpp:224 rc.cpp:224
+msgid "Alternative color:"
+msgstr ""
+
+#. i18n: file: applet/ui/yawpthemepage.ui:168
+#. i18n: ectx: property (text), widget (QCheckBox, checkBoxCustomTheme)
+#: build/applet/ui_yawpthemepage.h:191 po/rc.cpp:227 rc.cpp:227
+msgid "Custom theme"
+msgstr ""
+
+#. i18n: file: applet/ui/yawpthemepage.ui:175
+#. i18n: ectx: property (text), widget (QCheckBox, checkBoxUseCustomColor)
+#: build/applet/ui_yawpthemepage.h:192 po/rc.cpp:230 rc.cpp:230
+msgid "Use custom font colors"
+msgstr ""
+
+#. i18n: file: applet/ui/yawpthemepage.ui:182
+#. i18n: ectx: property (text), widget (QCheckBox, checkBoxDisableTextShadows)
+#: build/applet/ui_yawpthemepage.h:193 po/rc.cpp:233 rc.cpp:233
+msgid "Disable text shadows"
+msgstr ""
+
+#. i18n: file: applet/ui/yawpthemepage.ui:212
+#. i18n: ectx: property (text), widget (QLabel, label_comboShadowsColor)
+#: build/applet/ui_yawpthemepage.h:194 po/rc.cpp:236 rc.cpp:236
+msgid "Shadows color:"
+msgstr ""
+
+#: ions/ion_accuweather.cpp:929
+msgid "Supported by AccuWeather"
+msgstr ""
+
+#: ions/ion_google.cpp:563
+msgid "Supported by Google Weather Service"
+msgstr ""
+
+#: ions/ion_wunderground.cpp:1070
+msgid "Supported by Weather Underground Weather Station"
+msgstr ""
+
+#: po/rc.cpp:237 rc.cpp:237
+msgid "Mon"
+msgstr "Maan"
+
+#: po/rc.cpp:238 rc.cpp:238
+msgid "Tue"
+msgstr "Dins"
+
+#: po/rc.cpp:239 rc.cpp:239
+msgid "Wed"
+msgstr "Woens"
+
+#: po/rc.cpp:240 rc.cpp:240
+msgid "Thu"
+msgstr "Don"
+
+#: po/rc.cpp:241 rc.cpp:241
+msgid "Fri"
+msgstr "Vry"
+
+#: po/rc.cpp:242 rc.cpp:242
+msgid "Sat"
+msgstr "Sat"
+
+#: po/rc.cpp:243 rc.cpp:243
+msgid "Sun"
+msgstr "Son"
+
+#: po/rc.cpp:244 rc.cpp:244
+#, fuzzy
+msgctxt "Forecast for day"
+msgid "Monday"
+msgstr "Maan"
+
+#: po/rc.cpp:245 rc.cpp:245
+#, fuzzy
+msgctxt "Forecast for day"
+msgid "Tuesday"
+msgstr "Dins"
+
+#: po/rc.cpp:246 rc.cpp:246
+#, fuzzy
+msgctxt "Forecast for day"
+msgid "Wednesday"
+msgstr "Dins"
+
+#: po/rc.cpp:247 rc.cpp:247
+#, fuzzy
+msgctxt "Forecast for day"
+msgid "Thursday"
+msgstr "Dins"
+
+#: po/rc.cpp:248 rc.cpp:248
+#, fuzzy
+msgctxt "Forecast for day"
+msgid "Friday"
+msgstr "Vry"
+
+#: po/rc.cpp:249 rc.cpp:249
+#, fuzzy
+msgctxt "Forecast for day"
+msgid "Saturday"
+msgstr "Son"
+
+#: po/rc.cpp:250 rc.cpp:250
+#, fuzzy
+msgctxt "Forecast for day"
+msgid "Sunday"
+msgstr "Son"
+
+#: po/rc.cpp:251 rc.cpp:251
+msgctxt "Forecast description"
+msgid "a bit of afternoon snow"
+msgstr ""
+
+#: po/rc.cpp:252 rc.cpp:252
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a bit of evening snow"
+msgstr "weer berou"
+
+#: po/rc.cpp:253 rc.cpp:253
+msgctxt "Forecast description"
+msgid "a bit of ice"
+msgstr ""
+
+#: po/rc.cpp:254 rc.cpp:254
+msgctxt "Forecast description"
+msgid "a bit of ice early"
+msgstr ""
+
+#: po/rc.cpp:255 rc.cpp:255
+msgctxt "Forecast description"
+msgid "a bit of ice in the afternoon"
+msgstr ""
+
+#: po/rc.cpp:256 rc.cpp:256
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a bit of ice in the evening"
+msgstr "weer berou"
+
+#: po/rc.cpp:257 rc.cpp:257
+msgctxt "Forecast description"
+msgid "a bit of ice in the morning"
+msgstr ""
+
+#: po/rc.cpp:258 rc.cpp:258
+msgctxt "Forecast description"
+msgid "a bit of ice late"
+msgstr ""
+
+#: po/rc.cpp:259 rc.cpp:259
+msgctxt "Forecast description"
+msgid "a bit of ice on occasion"
+msgstr ""
+
+#: po/rc.cpp:260 rc.cpp:260
+msgctxt "Forecast description"
+msgid "a bit of ice on occassion"
+msgstr ""
+
+#: po/rc.cpp:261 rc.cpp:261
+msgctxt "Forecast description"
+msgid "a bit of ice this evening"
+msgstr ""
+
+#: po/rc.cpp:262 rc.cpp:262
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a bit of late-night rain"
+msgstr "son"
+
+#: po/rc.cpp:263 rc.cpp:263
+msgctxt "Forecast description"
+msgid "a bit of late-night snow"
+msgstr ""
+
+#: po/rc.cpp:264 rc.cpp:264
+msgctxt "Forecast description"
+msgid "a bit of morning rain"
+msgstr ""
+
+#: po/rc.cpp:265 rc.cpp:265
+msgctxt "Forecast description"
+msgid "a bit of morning snow"
+msgstr ""
+
+#: po/rc.cpp:266 rc.cpp:266
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a bit of p.m. snow"
+msgstr "weer berou"
+
+#: po/rc.cpp:267 rc.cpp:267
+msgctxt "Forecast description"
+msgid "a bit of rain"
+msgstr ""
+
+#: po/rc.cpp:268 rc.cpp:268
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a bit of rain late"
+msgstr "son"
+
+#: po/rc.cpp:269 rc.cpp:269
+msgctxt "Forecast description"
+msgid "a bit of snow"
+msgstr ""
+
+#: po/rc.cpp:270 rc.cpp:270
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a bit of snow early"
+msgstr "weer berou"
+
+#: po/rc.cpp:271 rc.cpp:271
+msgctxt "Forecast description"
+msgid "a bit of snow late"
+msgstr ""
+
+#: po/rc.cpp:272 rc.cpp:272
+msgctxt "Forecast description"
+msgid "a bit of snow toward dawn"
+msgstr ""
+
+#: po/rc.cpp:273 rc.cpp:273
+msgctxt "Forecast description"
+msgid "a blend of sun"
+msgstr ""
+
+#: po/rc.cpp:274 rc.cpp:274
+msgctxt "Forecast description"
+msgid "a blend of sunshine"
+msgstr ""
+
+#: po/rc.cpp:275 rc.cpp:275
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a brief afternoon shower"
+msgstr "weer berou"
+
+#: po/rc.cpp:276 rc.cpp:276
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a brief shower in the morning"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:277 rc.cpp:277
+msgctxt "Forecast description"
+msgid "a brief shower or two"
+msgstr ""
+
+#: po/rc.cpp:278 rc.cpp:278
+msgctxt "Forecast description"
+msgid "a brief t-storm"
+msgstr ""
+
+#: po/rc.cpp:279 rc.cpp:279
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a chance for showers"
+msgstr "weer berou"
+
+#: po/rc.cpp:280 rc.cpp:280
+msgctxt "Forecast description"
+msgid "a chance for snow or flurries"
+msgstr ""
+
+#: po/rc.cpp:281 rc.cpp:281
+msgctxt "Forecast description"
+msgid "a coating to an inch of snow"
+msgstr ""
+
+#: po/rc.cpp:282 rc.cpp:282
+msgctxt "Forecast description"
+msgid "a cold wind"
+msgstr ""
+
+#: po/rc.cpp:283 rc.cpp:283
+msgctxt "Forecast description"
+msgid "a couple of afternoon showers"
+msgstr ""
+
+#: po/rc.cpp:284 rc.cpp:284
+msgctxt "Forecast description"
+msgid "a couple of evening showers"
+msgstr ""
+
+#: po/rc.cpp:285 rc.cpp:285
+msgctxt "Forecast description"
+msgid "a couple of evening t-showers"
+msgstr ""
+
+#: po/rc.cpp:286 rc.cpp:286
+msgctxt "Forecast description"
+msgid "a couple of evening t-storms"
+msgstr ""
+
+#: po/rc.cpp:287 rc.cpp:287
+msgctxt "Forecast description"
+msgid "a couple of flurries late"
+msgstr ""
+
+#: po/rc.cpp:288 rc.cpp:288
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a couple of heavy t-storms"
+msgstr "weer berou"
+
+#: po/rc.cpp:289 rc.cpp:289
+msgctxt "Forecast description"
+msgid "a couple of morning showers"
+msgstr ""
+
+#: po/rc.cpp:290 rc.cpp:290
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a couple of morning t-showers"
+msgstr "weer berou"
+
+#: po/rc.cpp:291 rc.cpp:291
+msgctxt "Forecast description"
+msgid "a couple of morning t-storms"
+msgstr ""
+
+#: po/rc.cpp:292 rc.cpp:292
+msgctxt "Forecast description"
+msgid "a couple of p.m. t-showers"
+msgstr ""
+
+#: po/rc.cpp:293 rc.cpp:293
+msgctxt "Forecast description"
+msgid "a couple of p.m. t-storms"
+msgstr ""
+
+#: po/rc.cpp:294 rc.cpp:294
+msgctxt "Forecast description"
+msgid "a couple of showers"
+msgstr ""
+
+#: po/rc.cpp:295 rc.cpp:295
+msgctxt "Forecast description"
+msgid "a couple of showers late"
+msgstr ""
+
+#: po/rc.cpp:296 rc.cpp:296
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a couple of showers possible"
+msgstr "weer berou"
+
+#: po/rc.cpp:297 rc.cpp:297
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a couple of snow showers"
+msgstr "weer berou"
+
+#: po/rc.cpp:298 rc.cpp:298
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a couple of snow showers late"
+msgstr "weer berou"
+
+#: po/rc.cpp:299 rc.cpp:299
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a couple of strong t-storms"
+msgstr "weer berou"
+
+#: po/rc.cpp:300 rc.cpp:300
+msgctxt "Forecast description"
+msgid "a couple of t-showers"
+msgstr ""
+
+#: po/rc.cpp:301 rc.cpp:301
+msgctxt "Forecast description"
+msgid "a couple of t-showers early"
+msgstr ""
+
+#: po/rc.cpp:302 rc.cpp:302
+msgctxt "Forecast description"
+msgid "a couple of t-showers late"
+msgstr ""
+
+#: po/rc.cpp:303 rc.cpp:303
+msgctxt "Forecast description"
+msgid "a couple of t-storms"
+msgstr ""
+
+#: po/rc.cpp:304 rc.cpp:304
+msgctxt "Forecast description"
+msgid "a couple of t-storms early"
+msgstr ""
+
+#: po/rc.cpp:305 rc.cpp:305
+msgctxt "Forecast description"
+msgid "a couple of t-storms late"
+msgstr ""
+
+#: po/rc.cpp:306 rc.cpp:306
+msgctxt "Forecast description"
+msgid "a couple of thundershowers"
+msgstr ""
+
+#: po/rc.cpp:307 rc.cpp:307
+msgctxt "Forecast description"
+msgid "a couple of thunderstorms"
+msgstr ""
+
+#: po/rc.cpp:308 rc.cpp:308
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a damaging afternoon t-storm"
+msgstr "weer berou"
+
+#: po/rc.cpp:309 rc.cpp:309
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a dangerous thunderstorm"
+msgstr "weer berou"
+
+#: po/rc.cpp:310 rc.cpp:310
+msgctxt "Forecast description"
+msgid "a few afternoon showers"
+msgstr ""
+
+#: po/rc.cpp:311 rc.cpp:311
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a few clouds"
+msgstr "weer berou"
+
+#: po/rc.cpp:312 rc.cpp:312
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a few evening showers"
+msgstr "weer berou"
+
+#: po/rc.cpp:313 rc.cpp:313
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a few flurries late"
+msgstr "weer berou"
+
+#: po/rc.cpp:314 rc.cpp:314
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a few late-night flurries"
+msgstr "weer berou"
+
+#: po/rc.cpp:315 rc.cpp:315
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a few late-night showers"
+msgstr "weer berou"
+
+#: po/rc.cpp:316 rc.cpp:316
+msgctxt "Forecast description"
+msgid "a few late-night snowflakes"
+msgstr ""
+
+#: po/rc.cpp:317 rc.cpp:317
+msgctxt "Forecast description"
+msgid "a few morning showers"
+msgstr ""
+
+#: po/rc.cpp:318 rc.cpp:318
+msgctxt "Forecast description"
+msgid "a few showers"
+msgstr ""
+
+#: po/rc.cpp:319 rc.cpp:319
+msgctxt "Forecast description"
+msgid "a few showers in the evening"
+msgstr ""
+
+#: po/rc.cpp:320 rc.cpp:320
+msgctxt "Forecast description"
+msgid "a few showers in the morning"
+msgstr ""
+
+#: po/rc.cpp:321 rc.cpp:321
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a few showers late"
+msgstr "weer berou"
+
+#: po/rc.cpp:322 rc.cpp:322
+msgctxt "Forecast description"
+msgid "a few showers this afternoon"
+msgstr ""
+
+#: po/rc.cpp:323 rc.cpp:323
+msgctxt "Forecast description"
+msgid "a few showers this evening"
+msgstr ""
+
+#: po/rc.cpp:324 rc.cpp:324
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a few showers this morning"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:325 rc.cpp:325
+msgctxt "Forecast description"
+msgid "a few snowflakes"
+msgstr ""
+
+#: po/rc.cpp:326 rc.cpp:326
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a few strong morning t-storms"
+msgstr "weer berou"
+
+#: po/rc.cpp:327 rc.cpp:327
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a few strong p.m. t-storms"
+msgstr "weer berou"
+
+#: po/rc.cpp:328 rc.cpp:328
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a few strong t-storms early"
+msgstr "weer berou"
+
+#: po/rc.cpp:329 rc.cpp:329
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a few strong thunderstorms"
+msgstr "weer berou"
+
+#: po/rc.cpp:330 rc.cpp:330
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a few t-storms"
+msgstr "weer berou"
+
+#: po/rc.cpp:331 rc.cpp:331
+msgctxt "Forecast description"
+msgid "a flurry"
+msgstr ""
+
+#: po/rc.cpp:332 rc.cpp:332
+msgctxt "Forecast description"
+msgid "a flurry early"
+msgstr ""
+
+#: po/rc.cpp:333 rc.cpp:333
+msgctxt "Forecast description"
+msgid "a flurry in the p.m."
+msgstr ""
+
+#: po/rc.cpp:334 rc.cpp:334
+msgctxt "Forecast description"
+msgid "a flurry late"
+msgstr ""
+
+#: po/rc.cpp:335 rc.cpp:335
+msgctxt "Forecast description"
+msgid "a full day of sunshine"
+msgstr ""
+
+#: po/rc.cpp:336 rc.cpp:336
+msgctxt "Forecast description"
+msgid "a heavier t-storm"
+msgstr ""
+
+#: po/rc.cpp:337 rc.cpp:337
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a late-night shower"
+msgstr "weer berou"
+
+#: po/rc.cpp:338 rc.cpp:338
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a late-night t-storm in spots"
+msgstr "weer berou"
+
+#: po/rc.cpp:339 rc.cpp:339
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a late-night t-storm or two"
+msgstr "weer berou"
+
+#: po/rc.cpp:340 rc.cpp:340
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a little a.m. snow"
+msgstr "weer berou"
+
+#: po/rc.cpp:341 rc.cpp:341
+msgctxt "Forecast description"
+msgid "a little accumulation of snow"
+msgstr ""
+
+#: po/rc.cpp:342 rc.cpp:342
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a little afternoon rain"
+msgstr "weer berou"
+
+#: po/rc.cpp:343 rc.cpp:343
+msgctxt "Forecast description"
+msgid "a little afternoon snow"
+msgstr ""
+
+#: po/rc.cpp:344 rc.cpp:344
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a little evening rain"
+msgstr "weer berou"
+
+#: po/rc.cpp:345 rc.cpp:345
+msgctxt "Forecast description"
+msgid "a little evening snow"
+msgstr ""
+
+#: po/rc.cpp:346 rc.cpp:346
+msgctxt "Forecast description"
+msgid "a little icy mix early"
+msgstr ""
+
+#: po/rc.cpp:347 rc.cpp:347
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a little icy mix this evening"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:348 rc.cpp:348
+msgctxt "Forecast description"
+msgid "a little late-night rain"
+msgstr ""
+
+#: po/rc.cpp:349 rc.cpp:349
+msgctxt "Forecast description"
+msgid "a little late-night snow"
+msgstr ""
+
+#: po/rc.cpp:350 rc.cpp:350
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a little morning rain"
+msgstr "weer berou"
+
+#: po/rc.cpp:351 rc.cpp:351
+msgctxt "Forecast description"
+msgid "a little morning snow"
+msgstr ""
+
+#: po/rc.cpp:352 rc.cpp:352
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a little p.m. rain"
+msgstr "weer berou"
+
+#: po/rc.cpp:353 rc.cpp:353
+msgctxt "Forecast description"
+msgid "a little p.m. snow"
+msgstr ""
+
+#: po/rc.cpp:354 rc.cpp:354
+msgctxt "Forecast description"
+msgid "a little rain"
+msgstr ""
+
+#: po/rc.cpp:355 rc.cpp:355
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a little rain early"
+msgstr "son"
+
+#: po/rc.cpp:356 rc.cpp:356
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a little rain in the evening"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:357 rc.cpp:357
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a little rain in the morning"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:358 rc.cpp:358
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a little rain late"
+msgstr "son"
+
+#: po/rc.cpp:359 rc.cpp:359
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a little rain this morning"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:360 rc.cpp:360
+msgctxt "Forecast description"
+msgid "a little snow"
+msgstr ""
+
+#: po/rc.cpp:361 rc.cpp:361
+msgctxt "Forecast description"
+msgid "a little snow at times"
+msgstr ""
+
+#: po/rc.cpp:362 rc.cpp:362
+msgctxt "Forecast description"
+msgid "a little snow at times late"
+msgstr ""
+
+#: po/rc.cpp:363 rc.cpp:363
+msgctxt "Forecast description"
+msgid "a little snow early"
+msgstr ""
+
+#: po/rc.cpp:364 rc.cpp:364
+msgctxt "Forecast description"
+msgid "a little snow in the evening"
+msgstr ""
+
+#: po/rc.cpp:365 rc.cpp:365
+msgctxt "Forecast description"
+msgid "a little snow in the morning"
+msgstr ""
+
+#: po/rc.cpp:366 rc.cpp:366
+msgctxt "Forecast description"
+msgid "a little snow late"
+msgstr ""
+
+#: po/rc.cpp:367 rc.cpp:367
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a little snow this afternoon"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:368 rc.cpp:368
+msgctxt "Forecast description"
+msgid "a little snow this evening"
+msgstr ""
+
+#: po/rc.cpp:369 rc.cpp:369
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a little snow this morning"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:370 rc.cpp:370
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a little wintry mix"
+msgstr "son"
+
+#: po/rc.cpp:371 rc.cpp:371
+msgctxt "Forecast description"
+msgid "a mix of snow"
+msgstr ""
+
+#: po/rc.cpp:372 rc.cpp:372
+msgctxt "Forecast description"
+msgid "a moonlit sky"
+msgstr ""
+
+#: po/rc.cpp:373 rc.cpp:373
+msgctxt "Forecast description"
+msgid "a morning flurry"
+msgstr ""
+
+#: po/rc.cpp:374 rc.cpp:374
+msgctxt "Forecast description"
+msgid "a morning shower"
+msgstr ""
+
+#: po/rc.cpp:375 rc.cpp:375
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a morning shower in spots"
+msgstr "weer berou"
+
+#: po/rc.cpp:376 rc.cpp:376
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a morning shower possible"
+msgstr "son"
+
+#: po/rc.cpp:377 rc.cpp:377
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a morning t-shower"
+msgstr "weer berou"
+
+#: po/rc.cpp:378 rc.cpp:378
+msgctxt "Forecast description"
+msgid "a morning t-shower in spots"
+msgstr ""
+
+#: po/rc.cpp:379 rc.cpp:379
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a morning t-storm in spots"
+msgstr "weer berou"
+
+#: po/rc.cpp:380 rc.cpp:380
+msgctxt "Forecast description"
+msgid "a morning t-storm or two"
+msgstr ""
+
+#: po/rc.cpp:381 rc.cpp:381
+msgctxt "Forecast description"
+msgid "a morning thunderstorm or two"
+msgstr ""
+
+#: po/rc.cpp:382 rc.cpp:382
+msgctxt "Forecast description"
+msgid "a p.m. flurry"
+msgstr ""
+
+#: po/rc.cpp:383 rc.cpp:383
+msgctxt "Forecast description"
+msgid "a p.m. shower"
+msgstr ""
+
+#: po/rc.cpp:384 rc.cpp:384
+msgctxt "Forecast description"
+msgid "a p.m. shower in places"
+msgstr ""
+
+#: po/rc.cpp:385 rc.cpp:385
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a p.m. shower or t-storm"
+msgstr "weer berou"
+
+#: po/rc.cpp:386 rc.cpp:386
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a p.m. t-shower in spots"
+msgstr "weer berou"
+
+#: po/rc.cpp:387 rc.cpp:387
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a p.m. t-storm"
+msgstr "weer berou"
+
+#: po/rc.cpp:388 rc.cpp:388
+msgctxt "Forecast description"
+msgid "a p.m. t-storm in spots"
+msgstr ""
+
+#: po/rc.cpp:389 rc.cpp:389
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a p.m. t-storm in the area"
+msgstr "son"
+
+#: po/rc.cpp:390 rc.cpp:390
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a p.m. t-storm possible"
+msgstr "weer berou"
+
+#: po/rc.cpp:391 rc.cpp:391
+msgctxt "Forecast description"
+msgid "a passing afternoon shower"
+msgstr ""
+
+#: po/rc.cpp:392 rc.cpp:392
+msgctxt "Forecast description"
+msgid "a passing morning shower"
+msgstr ""
+
+#: po/rc.cpp:393 rc.cpp:393
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a passing shower"
+msgstr "weer berou"
+
+#: po/rc.cpp:394 rc.cpp:394
+msgctxt "Forecast description"
+msgid "a passing shower late"
+msgstr ""
+
+#: po/rc.cpp:395 rc.cpp:395
+msgctxt "Forecast description"
+msgid "a passing shower or two"
+msgstr ""
+
+#: po/rc.cpp:396 rc.cpp:396
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a passing shower this morning"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:397 rc.cpp:397
+msgctxt "Forecast description"
+msgid "a rain or snow shower"
+msgstr ""
+
+#: po/rc.cpp:398 rc.cpp:398
+msgctxt "Forecast description"
+msgid "a rain or snow shower early"
+msgstr ""
+
+#: po/rc.cpp:399 rc.cpp:399
+msgctxt "Forecast description"
+msgid "a rain or snow shower late"
+msgstr ""
+
+#: po/rc.cpp:400 rc.cpp:400
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a severe afternoon t-storm"
+msgstr "weer berou"
+
+#: po/rc.cpp:401 rc.cpp:401
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a severe late-night t-storm"
+msgstr "weer berou"
+
+#: po/rc.cpp:402 rc.cpp:402
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a severe morning thunderstorm"
+msgstr "weer berou"
+
+#: po/rc.cpp:403 rc.cpp:403
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a severe thunderstorm"
+msgstr "weer berou"
+
+#: po/rc.cpp:404 rc.cpp:404
+msgctxt "Forecast description"
+msgid "a shower"
+msgstr ""
+
+#: po/rc.cpp:405 rc.cpp:405
+msgctxt "Forecast description"
+msgid "a shower early"
+msgstr ""
+
+#: po/rc.cpp:406 rc.cpp:406
+msgctxt "Forecast description"
+msgid "a shower in places late"
+msgstr ""
+
+#: po/rc.cpp:407 rc.cpp:407
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a shower in spots late"
+msgstr "weer berou"
+
+#: po/rc.cpp:408 rc.cpp:408
+msgctxt "Forecast description"
+msgid "a shower in the a.m."
+msgstr ""
+
+#: po/rc.cpp:409 rc.cpp:409
+msgctxt "Forecast description"
+msgid "a shower in the afternoon"
+msgstr ""
+
+#: po/rc.cpp:410 rc.cpp:410
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a shower in the evening"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:411 rc.cpp:411
+msgctxt "Forecast description"
+msgid "a shower in the morning"
+msgstr ""
+
+#: po/rc.cpp:412 rc.cpp:412
+msgctxt "Forecast description"
+msgid "a shower in the p.m."
+msgstr ""
+
+#: po/rc.cpp:413 rc.cpp:413
+msgctxt "Forecast description"
+msgid "a shower late"
+msgstr ""
+
+#: po/rc.cpp:414 rc.cpp:414
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a shower late this morning"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:415 rc.cpp:415
+msgctxt "Forecast description"
+msgid "a shower later"
+msgstr ""
+
+#: po/rc.cpp:416 rc.cpp:416
+msgctxt "Forecast description"
+msgid "a shower or two"
+msgstr ""
+
+#: po/rc.cpp:417 rc.cpp:417
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a shower or two early"
+msgstr "weer berou"
+
+#: po/rc.cpp:418 rc.cpp:418
+msgctxt "Forecast description"
+msgid "a shower possible"
+msgstr ""
+
+#: po/rc.cpp:419 rc.cpp:419
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a shower this afternoon"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:420 rc.cpp:420
+msgctxt "Forecast description"
+msgid "a shower this evening"
+msgstr ""
+
+#: po/rc.cpp:421 rc.cpp:421
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a shower this morning"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:422 rc.cpp:422
+msgctxt "Forecast description"
+msgid "a snow shower"
+msgstr ""
+
+#: po/rc.cpp:423 rc.cpp:423
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a snow shower early"
+msgstr "weer berou"
+
+#: po/rc.cpp:424 rc.cpp:424
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a snow shower in the evening"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:425 rc.cpp:425
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a snow shower late"
+msgstr "weer berou"
+
+#: po/rc.cpp:426 rc.cpp:426
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a snow shower possible"
+msgstr "son"
+
+#: po/rc.cpp:427 rc.cpp:427
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a snow shower this evening"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:428 rc.cpp:428
+msgctxt "Forecast description"
+msgid "a snow shower this morning"
+msgstr ""
+
+#: po/rc.cpp:429 rc.cpp:429
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a soaking morning rain"
+msgstr "son"
+
+#: po/rc.cpp:430 rc.cpp:430
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a soaking rain"
+msgstr "son"
+
+#: po/rc.cpp:431 rc.cpp:431
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a soaking rain late"
+msgstr "son"
+
+#: po/rc.cpp:432 rc.cpp:432
+msgctxt "Forecast description"
+msgid "a star-studded sky"
+msgstr ""
+
+#: po/rc.cpp:433 rc.cpp:433
+msgctxt "Forecast description"
+msgid "a starlit sky"
+msgstr ""
+
+#: po/rc.cpp:434 rc.cpp:434
+msgctxt "Forecast description"
+msgid "a starry night"
+msgstr ""
+
+#: po/rc.cpp:435 rc.cpp:435
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a stray a.m. t-shower"
+msgstr "weer berou"
+
+#: po/rc.cpp:436 rc.cpp:436
+msgctxt "Forecast description"
+msgid "a stray afternoon shower"
+msgstr ""
+
+#: po/rc.cpp:437 rc.cpp:437
+msgctxt "Forecast description"
+msgid "a stray afternoon t-shower"
+msgstr ""
+
+#: po/rc.cpp:438 rc.cpp:438
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a stray afternoon t-storm"
+msgstr "weer berou"
+
+#: po/rc.cpp:439 rc.cpp:439
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a stray evening thundershower"
+msgstr "weer berou"
+
+#: po/rc.cpp:440 rc.cpp:440
+msgctxt "Forecast description"
+msgid "a stray evening thunderstorm"
+msgstr ""
+
+#: po/rc.cpp:441 rc.cpp:441
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a stray morning shower"
+msgstr "weer berou"
+
+#: po/rc.cpp:442 rc.cpp:442
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a stray morning thundershower"
+msgstr "weer berou"
+
+#: po/rc.cpp:443 rc.cpp:443
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a stray morning thunderstorm"
+msgstr "weer berou"
+
+#: po/rc.cpp:444 rc.cpp:444
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a stray p.m. t-shower"
+msgstr "weer berou"
+
+#: po/rc.cpp:445 rc.cpp:445
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a stray shower in the morning"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:446 rc.cpp:446
+msgctxt "Forecast description"
+msgid "a stray shower late"
+msgstr ""
+
+#: po/rc.cpp:447 rc.cpp:447
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a stray t-shower late"
+msgstr "weer berou"
+
+#: po/rc.cpp:448 rc.cpp:448
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a stray t-shower this evening"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:449 rc.cpp:449
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a stray t-storm"
+msgstr "weer berou"
+
+#: po/rc.cpp:450 rc.cpp:450
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a stray thundershower"
+msgstr "weer berou"
+
+#: po/rc.cpp:451 rc.cpp:451
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a stray thunderstorm late"
+msgstr "weer berou"
+
+#: po/rc.cpp:452 rc.cpp:452
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a strong afternoon t-storm"
+msgstr "weer berou"
+
+#: po/rc.cpp:453 rc.cpp:453
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a strong late-night t-storm"
+msgstr "weer berou"
+
+#: po/rc.cpp:454 rc.cpp:454
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a strong t-storm"
+msgstr "weer berou"
+
+#: po/rc.cpp:455 rc.cpp:455
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a strong t-storm in spots"
+msgstr "weer berou"
+
+#: po/rc.cpp:456 rc.cpp:456
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a strong thunderstorm"
+msgstr "weer berou"
+
+#: po/rc.cpp:457 rc.cpp:457
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a t-shower"
+msgstr "weer berou"
+
+#: po/rc.cpp:458 rc.cpp:458
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a t-shower in spots"
+msgstr "weer berou"
+
+#: po/rc.cpp:459 rc.cpp:459
+msgctxt "Forecast description"
+msgid "a t-shower in spots early"
+msgstr ""
+
+#: po/rc.cpp:460 rc.cpp:460
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a t-shower in the afternoon"
+msgstr "son"
+
+#: po/rc.cpp:461 rc.cpp:461
+msgctxt "Forecast description"
+msgid "a t-storm"
+msgstr ""
+
+#: po/rc.cpp:462 rc.cpp:462
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a t-storm around"
+msgstr "weer berou"
+
+#: po/rc.cpp:463 rc.cpp:463
+msgctxt "Forecast description"
+msgid "a t-storm around in the p.m."
+msgstr ""
+
+#: po/rc.cpp:464 rc.cpp:464
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a t-storm around late"
+msgstr "weer berou"
+
+#: po/rc.cpp:465 rc.cpp:465
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a t-storm around this evening"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:466 rc.cpp:466
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a t-storm around this morning"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:467 rc.cpp:467
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a t-storm early"
+msgstr "weer berou"
+
+#: po/rc.cpp:468 rc.cpp:468
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a t-storm in spots"
+msgstr "weer berou"
+
+#: po/rc.cpp:469 rc.cpp:469
+msgctxt "Forecast description"
+msgid "a t-storm in the afternoon"
+msgstr ""
+
+#: po/rc.cpp:470 rc.cpp:470
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a t-storm in the p.m."
+msgstr "weer berou"
+
+#: po/rc.cpp:471 rc.cpp:471
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a t-storm late"
+msgstr "weer berou"
+
+#: po/rc.cpp:472 rc.cpp:472
+msgctxt "Forecast description"
+msgid "a t-storm or two"
+msgstr ""
+
+#: po/rc.cpp:473 rc.cpp:473
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a t-storm or two early"
+msgstr "weer berou"
+
+#: po/rc.cpp:474 rc.cpp:474
+msgctxt "Forecast description"
+msgid "a t-storm or two late"
+msgstr ""
+
+#: po/rc.cpp:475 rc.cpp:475
+msgctxt "Forecast description"
+msgid "a t-storm or two this evening"
+msgstr ""
+
+#: po/rc.cpp:476 rc.cpp:476
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a t-storm possible"
+msgstr "son"
+
+#: po/rc.cpp:477 rc.cpp:477
+msgctxt "Forecast description"
+msgid "a thick cloud cover"
+msgstr ""
+
+#: po/rc.cpp:478 rc.cpp:478
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a thundershower in spots"
+msgstr "weer berou"
+
+#: po/rc.cpp:479 rc.cpp:479
+msgctxt "Forecast description"
+msgid "a thundershower in spots late"
+msgstr ""
+
+#: po/rc.cpp:480 rc.cpp:480
+msgctxt "Forecast description"
+msgid "a thundershower late"
+msgstr ""
+
+#: po/rc.cpp:481 rc.cpp:481
+msgctxt "Forecast description"
+msgid "a thundershower on the prowl"
+msgstr ""
+
+#: po/rc.cpp:482 rc.cpp:482
+msgctxt "Forecast description"
+msgid "a thunderstorm"
+msgstr ""
+
+#: po/rc.cpp:483 rc.cpp:483
+msgctxt "Forecast description"
+msgid "a thunderstorm around early"
+msgstr ""
+
+#: po/rc.cpp:484 rc.cpp:484
+msgctxt "Forecast description"
+msgid "a thunderstorm early"
+msgstr ""
+
+#: po/rc.cpp:485 rc.cpp:485
+msgctxt "Forecast description"
+msgid "a thunderstorm in spots"
+msgstr ""
+
+#: po/rc.cpp:486 rc.cpp:486
+msgctxt "Forecast description"
+msgid "a thunderstorm in spots early"
+msgstr ""
+
+#: po/rc.cpp:487 rc.cpp:487
+msgctxt "Forecast description"
+msgid "a thunderstorm in spots late"
+msgstr ""
+
+#: po/rc.cpp:488 rc.cpp:488
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a thunderstorm in the area"
+msgstr "son"
+
+#: po/rc.cpp:489 rc.cpp:489
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a thunderstorm in the morning"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:490 rc.cpp:490
+msgctxt "Forecast description"
+msgid "a thunderstorm late"
+msgstr ""
+
+#: po/rc.cpp:491 rc.cpp:491
+msgctxt "Forecast description"
+msgid "a thunderstorm or two"
+msgstr ""
+
+#: po/rc.cpp:492 rc.cpp:492
+msgctxt "Forecast description"
+msgid "a thunderstorm or two early"
+msgstr ""
+
+#: po/rc.cpp:493 rc.cpp:493
+msgctxt "Forecast description"
+msgid "a thunderstorm or two late"
+msgstr ""
+
+#: po/rc.cpp:494 rc.cpp:494
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a thunderstorm possible"
+msgstr "weer berou"
+
+#: po/rc.cpp:495 rc.cpp:495
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a thunderstorm this afternoon"
+msgstr "son"
+
+#: po/rc.cpp:496 rc.cpp:496
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a thunderstorm this evening"
+msgstr "son"
+
+#: po/rc.cpp:497 rc.cpp:497
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a touch of afternoon rain"
+msgstr "weer berou"
+
+#: po/rc.cpp:498 rc.cpp:498
+msgctxt "Forecast description"
+msgid "a touch of late-night rain"
+msgstr ""
+
+#: po/rc.cpp:499 rc.cpp:499
+msgctxt "Forecast description"
+msgid "a touch of rain late"
+msgstr ""
+
+#: po/rc.cpp:500 rc.cpp:500
+msgctxt "Forecast description"
+msgid "a tray shower late"
+msgstr ""
+
+#: po/rc.cpp:501 rc.cpp:501
+msgctxt "Forecast description"
+msgid "a wintry mix in the morning"
+msgstr ""
+
+#: po/rc.cpp:502 rc.cpp:502
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a wintry mix this morning"
+msgstr "son"
+
+#: po/rc.cpp:503 rc.cpp:503
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a.m. flurries"
+msgstr "weer berou"
+
+#: po/rc.cpp:504 rc.cpp:504
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a.m. mist"
+msgstr "son"
+
+#: po/rc.cpp:505 rc.cpp:505
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a.m. rain"
+msgstr "son"
+
+#: po/rc.cpp:506 rc.cpp:506
+msgctxt "Forecast description"
+msgid "a.m. snow"
+msgstr ""
+
+#: po/rc.cpp:507 rc.cpp:507
+#, fuzzy
+msgctxt "Forecast description"
+msgid "a.m. snow showers"
+msgstr "weer berou"
+
+#: po/rc.cpp:508 rc.cpp:508
+msgctxt "Forecast description"
+msgid "abundant sunshine"
+msgstr ""
+
+#: po/rc.cpp:509 rc.cpp:509
+msgctxt "Forecast description"
+msgid "accumulating 1-3 inches"
+msgstr ""
+
+#: po/rc.cpp:510 rc.cpp:510
+msgctxt "Forecast description"
+msgid "accumulating 2-4 inches"
+msgstr ""
+
+#: po/rc.cpp:511 rc.cpp:511
+#, fuzzy
+msgctxt "Forecast description"
+msgid "afternoon flurries"
+msgstr "weer berou"
+
+#: po/rc.cpp:512 rc.cpp:512
+#, fuzzy
+msgctxt "Forecast description"
+msgid "afternoon freezing drizzle"
+msgstr "weer berou"
+
+#: po/rc.cpp:513 rc.cpp:513
+msgctxt "Forecast description"
+msgid "afternoon rain"
+msgstr ""
+
+#: po/rc.cpp:514 rc.cpp:514
+#, fuzzy
+msgctxt "Forecast description"
+msgid "afternoon snow"
+msgstr "weer berou"
+
+#: po/rc.cpp:515 rc.cpp:515
+msgctxt "Forecast description"
+msgid "afternoon t-showers"
+msgstr ""
+
+#: po/rc.cpp:516 rc.cpp:516
+#, fuzzy
+msgctxt "Forecast description"
+msgid "afternoon thundershowers"
+msgstr "weer berou"
+
+#: po/rc.cpp:517 rc.cpp:517
+msgctxt "Forecast description"
+msgid "an a.m. flurry"
+msgstr ""
+
+#: po/rc.cpp:518 rc.cpp:518
+#, fuzzy
+msgctxt "Forecast description"
+msgid "an a.m. rain or snow shower"
+msgstr "weer berou"
+
+#: po/rc.cpp:519 rc.cpp:519
+msgctxt "Forecast description"
+msgid "an a.m. shower"
+msgstr ""
+
+#: po/rc.cpp:520 rc.cpp:520
+#, fuzzy
+msgctxt "Forecast description"
+msgid "an a.m. t-storm"
+msgstr "weer berou"
+
+#: po/rc.cpp:521 rc.cpp:521
+msgctxt "Forecast description"
+msgid "an afternoon shower"
+msgstr ""
+
+#: po/rc.cpp:522 rc.cpp:522
+msgctxt "Forecast description"
+msgid "an afternoon shower in spots"
+msgstr ""
+
+#: po/rc.cpp:523 rc.cpp:523
+#, fuzzy
+msgctxt "Forecast description"
+msgid "an afternoon shower possible"
+msgstr "son"
+
+#: po/rc.cpp:524 rc.cpp:524
+msgctxt "Forecast description"
+msgid "an afternoon t-storm or two"
+msgstr ""
+
+#: po/rc.cpp:525 rc.cpp:525
+msgctxt "Forecast description"
+msgid "an afternoon thunderstorm"
+msgstr ""
+
+#: po/rc.cpp:526 rc.cpp:526
+#, fuzzy
+msgctxt "Forecast description"
+msgid "an evening flurry"
+msgstr "weer berou"
+
+#: po/rc.cpp:527 rc.cpp:527
+msgctxt "Forecast description"
+msgid "an evening shower"
+msgstr ""
+
+#: po/rc.cpp:528 rc.cpp:528
+#, fuzzy
+msgctxt "Forecast description"
+msgid "an evening shower or t-storm"
+msgstr "weer berou"
+
+#: po/rc.cpp:529 rc.cpp:529
+#, fuzzy
+msgctxt "Forecast description"
+msgid "an evening t-shower in spots"
+msgstr "weer berou"
+
+#: po/rc.cpp:530 rc.cpp:530
+msgctxt "Forecast description"
+msgid "an evening t-storm in spots"
+msgstr ""
+
+#: po/rc.cpp:531 rc.cpp:531
+msgctxt "Forecast description"
+msgid "an evening t-storm or two"
+msgstr ""
+
+#: po/rc.cpp:532 rc.cpp:532
+#, fuzzy
+msgctxt "Forecast description"
+msgid "an evening thunderstorm"
+msgstr "weer berou"
+
+#: po/rc.cpp:533 rc.cpp:533
+msgctxt "Forecast description"
+msgid "an icy mix"
+msgstr ""
+
+#: po/rc.cpp:534 rc.cpp:534
+#, fuzzy
+msgctxt "Forecast description"
+msgid "an icy mix in the evening"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:535 rc.cpp:535
+msgctxt "Forecast description"
+msgid "an inch or two of snow"
+msgstr ""
+
+#: po/rc.cpp:537 rc.cpp:537
+msgctxt "Forecast description"
+msgid "areas of fog"
+msgstr ""
+
+#: po/rc.cpp:538 rc.cpp:538
+msgctxt "Forecast description"
+msgid "areas of fog in the morning"
+msgstr ""
+
+#: po/rc.cpp:539 rc.cpp:539
+#, fuzzy
+msgctxt "Forecast description"
+msgid "areas of fog late"
+msgstr "weer berou"
+
+#: po/rc.cpp:540 rc.cpp:540
+#, fuzzy
+msgctxt "Forecast description"
+msgid "areas of fog this morning"
+msgstr "son"
+
+#: po/rc.cpp:541 rc.cpp:541
+#, fuzzy
+msgctxt "Forecast description"
+msgid "areas of freezing fog late"
+msgstr "weer berou"
+
+#: po/rc.cpp:542 rc.cpp:542
+#, fuzzy
+msgctxt "Forecast description"
+msgid "areas of high clouds"
+msgstr "weer berou"
+
+#: po/rc.cpp:543 rc.cpp:543
+msgctxt "Forecast description"
+msgid "areas of low clouds"
+msgstr ""
+
+#: po/rc.cpp:544 rc.cpp:544
+msgctxt "Forecast description"
+msgid "areas of morning fog"
+msgstr ""
+
+#: po/rc.cpp:545 rc.cpp:545
+msgctxt "Forecast description"
+msgid "be advised for strong winds"
+msgstr ""
+
+#: po/rc.cpp:546 rc.cpp:546
+msgctxt "Forecast description"
+msgid "beautiful"
+msgstr ""
+
+#: po/rc.cpp:547 rc.cpp:547
+msgctxt "Forecast description"
+msgid "becoming clear"
+msgstr ""
+
+#: po/rc.cpp:548 rc.cpp:548
+msgctxt "Forecast description"
+msgid "becoming cloudy"
+msgstr ""
+
+#: po/rc.cpp:549 rc.cpp:549
+#, fuzzy
+msgctxt "Forecast description"
+msgid "becoming heavy"
+msgstr "son"
+
+#: po/rc.cpp:550 rc.cpp:550
+#, fuzzy
+msgctxt "Forecast description"
+msgid "becoming rainy"
+msgstr "son"
+
+#: po/rc.cpp:551 rc.cpp:551
+msgctxt "Forecast description"
+msgid "becoming windier"
+msgstr ""
+
+#: po/rc.cpp:552 rc.cpp:552
+#, fuzzy
+msgctxt "Forecast description"
+msgid "bit of rain"
+msgstr "son"
+
+#: po/rc.cpp:553 rc.cpp:553
+msgctxt "Forecast description"
+msgid "bitterly cold"
+msgstr ""
+
+#: po/rc.cpp:554 rc.cpp:554
+#, fuzzy
+msgctxt "Forecast description"
+msgid "blazing sunshine"
+msgstr "son"
+
+#: po/rc.cpp:555 rc.cpp:555
+#, fuzzy
+msgctxt "Forecast description"
+msgid "blowing dust"
+msgstr "weer berou"
+
+#: po/rc.cpp:556 rc.cpp:556
+#, fuzzy
+msgctxt "Forecast description"
+msgid "blowing snow"
+msgstr "weer berou"
+
+#: po/rc.cpp:557 rc.cpp:557
+msgctxt "Forecast description"
+msgid "breaks of sun"
+msgstr ""
+
+#: po/rc.cpp:558 rc.cpp:558
+msgctxt "Forecast description"
+msgid "breezy"
+msgstr ""
+
+#: po/rc.cpp:559 rc.cpp:559
+msgctxt "Forecast description"
+msgid "breezy early"
+msgstr ""
+
+#: po/rc.cpp:560 rc.cpp:560
+msgctxt "Forecast description"
+msgid "breezy in the afternoon"
+msgstr ""
+
+#: po/rc.cpp:561 rc.cpp:561
+msgctxt "Forecast description"
+msgid "breezy in the evening"
+msgstr ""
+
+#: po/rc.cpp:562 rc.cpp:562
+msgctxt "Forecast description"
+msgid "breezy in the morning"
+msgstr ""
+
+#: po/rc.cpp:563 rc.cpp:563
+msgctxt "Forecast description"
+msgid "breezy in the p.m."
+msgstr ""
+
+#: po/rc.cpp:564 rc.cpp:564
+msgctxt "Forecast description"
+msgid "breezy late"
+msgstr ""
+
+#: po/rc.cpp:565 rc.cpp:565
+#, fuzzy
+msgctxt "Forecast description"
+msgid "breezy this afternoon"
+msgstr "son"
+
+#: po/rc.cpp:566 rc.cpp:566
+msgctxt "Forecast description"
+msgid "brief a.m. showers"
+msgstr ""
+
+#: po/rc.cpp:567 rc.cpp:567
+#, fuzzy
+msgctxt "Forecast description"
+msgid "brief showers"
+msgstr "weer berou"
+
+#: po/rc.cpp:568 rc.cpp:568
+msgctxt "Forecast description"
+msgid "bright"
+msgstr ""
+
+#: po/rc.cpp:569 rc.cpp:569
+msgctxt "Forecast description"
+msgid "bright sunshine"
+msgstr ""
+
+#: po/rc.cpp:570 rc.cpp:570
+msgctxt "Forecast description"
+msgid "brilliant sunshine"
+msgstr ""
+
+#: po/rc.cpp:571 rc.cpp:571
+msgctxt "Forecast description"
+msgid "brisk"
+msgstr ""
+
+#: po/rc.cpp:572 rc.cpp:572
+msgctxt "Forecast description"
+msgid "but chilly"
+msgstr ""
+
+#: po/rc.cpp:573 rc.cpp:573
+msgctxt "Forecast description"
+msgid "but cold"
+msgstr ""
+
+#: po/rc.cpp:574 rc.cpp:574
+msgctxt "Forecast description"
+msgid "but colder"
+msgstr ""
+
+#: po/rc.cpp:575 rc.cpp:575
+msgctxt "Forecast description"
+msgid "but cool"
+msgstr ""
+
+#: po/rc.cpp:576 rc.cpp:576
+msgctxt "Forecast description"
+msgid "but frigid"
+msgstr ""
+
+#: po/rc.cpp:577 rc.cpp:577
+msgctxt "Forecast description"
+msgid "but very cold"
+msgstr ""
+
+#: po/rc.cpp:578 rc.cpp:578
+#, fuzzy
+msgctxt "Forecast description"
+msgid "chance for heavy evening rain"
+msgstr "weer berou"
+
+#: po/rc.cpp:579 rc.cpp:579
+msgctxt "Forecast description"
+msgid "chance for rain"
+msgstr ""
+
+#: po/rc.cpp:580 rc.cpp:580
+msgctxt "Forecast description"
+msgid "chance for snow showers"
+msgstr ""
+
+#: po/rc.cpp:581 rc.cpp:581
+#, fuzzy
+msgctxt "Forecast description"
+msgid "chance of a p.m. shower"
+msgstr "weer berou"
+
+#: po/rc.cpp:582 rc.cpp:582
+#, fuzzy
+msgctxt "Forecast description"
+msgid "chance of a shower"
+msgstr "weer berou"
+
+#: po/rc.cpp:583 rc.cpp:583
+#, fuzzy
+msgctxt "Forecast description"
+msgid "chance of afternoon rain"
+msgstr "weer berou"
+
+#: po/rc.cpp:584 rc.cpp:584
+#, fuzzy
+msgctxt "Forecast description"
+msgid "chance of an evening shower"
+msgstr "weer berou"
+
+#: po/rc.cpp:585 rc.cpp:585
+msgctxt "Forecast description"
+msgid "chilly"
+msgstr ""
+
+#: po/rc.cpp:586 rc.cpp:586
+msgctxt "Forecast description"
+msgid "clean"
+msgstr ""
+
+#: po/rc.cpp:587 rc.cpp:587
+msgctxt "Forecast description"
+msgid "clear"
+msgstr ""
+
+#: po/rc.cpp:588 rc.cpp:588
+msgctxt "Forecast description"
+msgid "clear to partly cloudy"
+msgstr ""
+
+#: po/rc.cpp:589 rc.cpp:589
+msgctxt "Forecast description"
+msgid "clearing"
+msgstr ""
+
+#: po/rc.cpp:590 rc.cpp:590
+msgctxt "Forecast description"
+msgid "clouding up"
+msgstr ""
+
+#: po/rc.cpp:591 rc.cpp:591
+msgctxt "Forecast description"
+msgid "clouds"
+msgstr ""
+
+#: po/rc.cpp:592 rc.cpp:592
+msgctxt "Forecast description"
+msgid "clouds break for sun"
+msgstr ""
+
+#: po/rc.cpp:593 rc.cpp:593
+#, fuzzy
+msgctxt "Forecast description"
+msgid "clouds breaking"
+msgstr "weer berou"
+
+#: po/rc.cpp:594 rc.cpp:594
+msgctxt "Forecast description"
+msgid "clouds breaking for some sun"
+msgstr ""
+
+#: po/rc.cpp:595 rc.cpp:595
+msgctxt "Forecast description"
+msgid "clouds giving way to some sun"
+msgstr ""
+
+#: po/rc.cpp:596 rc.cpp:596
+msgctxt "Forecast description"
+msgid "clouds giving way to sun"
+msgstr ""
+
+#: po/rc.cpp:597 rc.cpp:597
+#, fuzzy
+msgctxt "Forecast description"
+msgid "clouds limiting sun"
+msgstr "weer berou"
+
+#: po/rc.cpp:598 rc.cpp:598
+msgctxt "Forecast description"
+msgid "clouds limiting sunshine"
+msgstr ""
+
+#: po/rc.cpp:599 rc.cpp:599
+msgctxt "Forecast description"
+msgid "clouds yielding to sun"
+msgstr ""
+
+#: po/rc.cpp:600 rc.cpp:600
+msgctxt "Forecast description"
+msgid "cloudy"
+msgstr ""
+
+#: po/rc.cpp:601 rc.cpp:601
+msgctxt "Forecast description"
+msgid "cloudy most of the time"
+msgstr ""
+
+#: po/rc.cpp:602 rc.cpp:602
+msgctxt "Forecast description"
+msgid "cloudy spells"
+msgstr ""
+
+#: po/rc.cpp:603 rc.cpp:603
+msgctxt "Forecast description"
+msgid "cloudy to partly sunny"
+msgstr ""
+
+#: po/rc.cpp:604 rc.cpp:604
+msgctxt "Forecast description"
+msgid "cold"
+msgstr ""
+
+#: po/rc.cpp:605 rc.cpp:605
+msgctxt "Forecast description"
+msgid "colder"
+msgstr ""
+
+#: po/rc.cpp:606 rc.cpp:606
+msgctxt "Forecast description"
+msgid "comfortable"
+msgstr ""
+
+#: po/rc.cpp:607 rc.cpp:607
+msgctxt "Forecast description"
+msgid "considerable cloudiness"
+msgstr ""
+
+#: po/rc.cpp:608 rc.cpp:608
+msgctxt "Forecast description"
+msgid "considerable clouds"
+msgstr ""
+
+#: po/rc.cpp:609 rc.cpp:609
+#, fuzzy
+msgctxt "Forecast description"
+msgid "continued cloudy"
+msgstr "weer berou"
+
+#: po/rc.cpp:610 rc.cpp:610
+msgctxt "Forecast description"
+msgid "cool"
+msgstr ""
+
+#: po/rc.cpp:611 rc.cpp:611
+msgctxt "Forecast description"
+msgid "cooler"
+msgstr ""
+
+#: po/rc.cpp:612 rc.cpp:612
+#, fuzzy
+msgctxt "Forecast description"
+msgid "couple of showers"
+msgstr "weer berou"
+
+#: po/rc.cpp:613 rc.cpp:613
+msgctxt "Forecast description"
+msgid "couple of thunderstorms"
+msgstr ""
+
+#: po/rc.cpp:614 rc.cpp:614
+#, fuzzy
+msgctxt "Forecast description"
+msgid "damp in the morning"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:615 rc.cpp:615
+msgctxt "Forecast description"
+msgid "decreasing clouds"
+msgstr ""
+
+#: po/rc.cpp:616 rc.cpp:616
+msgctxt "Forecast description"
+msgid "delightful"
+msgstr ""
+
+#: po/rc.cpp:617 rc.cpp:617
+msgctxt "Forecast description"
+msgid "dense fog"
+msgstr ""
+
+#: po/rc.cpp:618 rc.cpp:618
+msgctxt "Forecast description"
+msgid "downpours"
+msgstr ""
+
+#: po/rc.cpp:619 rc.cpp:619
+msgctxt "Forecast description"
+msgid "downpours early"
+msgstr ""
+
+#: po/rc.cpp:620 rc.cpp:620
+msgctxt "Forecast description"
+msgid "downpours in the afternoon"
+msgstr ""
+
+#: po/rc.cpp:621 rc.cpp:621
+msgctxt "Forecast description"
+msgid "downpours late"
+msgstr ""
+
+#: po/rc.cpp:622 rc.cpp:622
+#, fuzzy
+msgctxt "Forecast description"
+msgid "drenching rain"
+msgstr "son"
+
+#: po/rc.cpp:623 rc.cpp:623
+msgctxt "Forecast description"
+msgid "drizzle"
+msgstr ""
+
+#: po/rc.cpp:624 rc.cpp:624
+msgctxt "Forecast description"
+msgid "drizzle early"
+msgstr ""
+
+#: po/rc.cpp:625 rc.cpp:625
+msgctxt "Forecast description"
+msgid "drizzle in the a.m."
+msgstr ""
+
+#: po/rc.cpp:626 rc.cpp:626
+msgctxt "Forecast description"
+msgid "drizzle in the p.m."
+msgstr ""
+
+#: po/rc.cpp:627 rc.cpp:627
+msgctxt "Forecast description"
+msgid "drizzle late"
+msgstr ""
+
+#: po/rc.cpp:628 rc.cpp:628
+msgctxt "Forecast description"
+msgid "drizzle this evening"
+msgstr ""
+
+#: po/rc.cpp:629 rc.cpp:629
+msgctxt "Forecast description"
+msgid "drizzle this morning"
+msgstr ""
+
+#: po/rc.cpp:630 rc.cpp:630
+msgctxt "Forecast description"
+msgid "early flurries"
+msgstr ""
+
+#: po/rc.cpp:631 rc.cpp:631
+msgctxt "Forecast description"
+msgid "early rain"
+msgstr ""
+
+#: po/rc.cpp:632 rc.cpp:632
+#, fuzzy
+msgctxt "Forecast description"
+msgid "early showers"
+msgstr "weer berou"
+
+#: po/rc.cpp:633 rc.cpp:633
+msgctxt "Forecast description"
+msgid "early snow"
+msgstr ""
+
+#: po/rc.cpp:634 rc.cpp:634
+msgctxt "Forecast description"
+msgid "early t-showers"
+msgstr ""
+
+#: po/rc.cpp:635 rc.cpp:635
+#, fuzzy
+msgctxt "Forecast description"
+msgid "early t-storms"
+msgstr "son"
+
+#: po/rc.cpp:636 rc.cpp:636
+msgctxt "Forecast description"
+msgid "episodes of sunshine"
+msgstr ""
+
+#: po/rc.cpp:637 rc.cpp:637
+#, fuzzy
+msgctxt "Forecast description"
+msgid "evening flurries"
+msgstr "weer berou"
+
+#: po/rc.cpp:638 rc.cpp:638
+msgctxt "Forecast description"
+msgid "evening rain"
+msgstr ""
+
+#: po/rc.cpp:639 rc.cpp:639
+msgctxt "Forecast description"
+msgid "evening showers"
+msgstr ""
+
+#: po/rc.cpp:640 rc.cpp:640
+msgctxt "Forecast description"
+msgid "evening snow"
+msgstr ""
+
+#: po/rc.cpp:641 rc.cpp:641
+msgctxt "Forecast description"
+msgid "evening snow showers"
+msgstr ""
+
+#: po/rc.cpp:642 rc.cpp:642
+msgctxt "Forecast description"
+msgid "evening t-showers"
+msgstr ""
+
+#: po/rc.cpp:643 rc.cpp:643
+msgctxt "Forecast description"
+msgid "evening t-storms"
+msgstr ""
+
+#: po/rc.cpp:644 rc.cpp:644
+#, fuzzy
+msgctxt "Forecast description"
+msgid "evening thundershowers"
+msgstr "weer berou"
+
+#: po/rc.cpp:645 rc.cpp:645
+#, fuzzy
+msgctxt "Forecast description"
+msgid "fluffy snow"
+msgstr "son"
+
+#: po/rc.cpp:646 rc.cpp:646
+msgctxt "Forecast description"
+msgid "flurries"
+msgstr ""
+
+#: po/rc.cpp:647 rc.cpp:647
+#, fuzzy
+msgctxt "Forecast description"
+msgid "flurries possible"
+msgstr "weer berou"
+
+#: po/rc.cpp:648 rc.cpp:648
+msgctxt "Forecast description"
+msgid "fog"
+msgstr ""
+
+#: po/rc.cpp:649 rc.cpp:649
+#, fuzzy
+msgctxt "Forecast description"
+msgid "fog breaking"
+msgstr "weer berou"
+
+#: po/rc.cpp:650 rc.cpp:650
+msgctxt "Forecast description"
+msgid "fog in the a.m."
+msgstr ""
+
+#: po/rc.cpp:651 rc.cpp:651
+#, fuzzy
+msgctxt "Forecast description"
+msgid "fog in the afternoon"
+msgstr "son"
+
+#: po/rc.cpp:652 rc.cpp:652
+msgctxt "Forecast description"
+msgid "fog in the morning"
+msgstr ""
+
+#: po/rc.cpp:653 rc.cpp:653
+#, fuzzy
+msgctxt "Forecast description"
+msgid "fog in the p.m."
+msgstr "weer berou"
+
+#: po/rc.cpp:654 rc.cpp:654
+msgctxt "Forecast description"
+msgid "fog late"
+msgstr ""
+
+#: po/rc.cpp:655 rc.cpp:655
+#, fuzzy
+msgctxt "Forecast description"
+msgid "fog this afternoon"
+msgstr "son"
+
+#: po/rc.cpp:656 rc.cpp:656
+#, fuzzy
+msgctxt "Forecast description"
+msgid "fog this morning"
+msgstr "son"
+
+#: po/rc.cpp:657 rc.cpp:657
+#, fuzzy
+msgctxt "Forecast description"
+msgid "fog will lift in the morning"
+msgstr "son"
+
+#: po/rc.cpp:658 rc.cpp:658
+#, fuzzy
+msgctxt "Forecast description"
+msgid "fog will lift this morning"
+msgstr "son"
+
+#: po/rc.cpp:659 rc.cpp:659
+msgctxt "Forecast description"
+msgid "foggy"
+msgstr ""
+
+#: po/rc.cpp:660 rc.cpp:660
+#, fuzzy
+msgctxt "Forecast description"
+msgid "freezing drizzle"
+msgstr "son"
+
+#: po/rc.cpp:661 rc.cpp:661
+#, fuzzy
+msgctxt "Forecast description"
+msgid "freezing drizzle late"
+msgstr "son"
+
+#: po/rc.cpp:662 rc.cpp:662
+#, fuzzy
+msgctxt "Forecast description"
+msgid "freezing drizzle this morning"
+msgstr "son"
+
+#: po/rc.cpp:663 rc.cpp:663
+#, fuzzy
+msgctxt "Forecast description"
+msgid "freezing early"
+msgstr "son"
+
+#: po/rc.cpp:664 rc.cpp:664
+msgctxt "Forecast description"
+msgid "freezing fog"
+msgstr ""
+
+#: po/rc.cpp:665 rc.cpp:665
+msgctxt "Forecast description"
+msgid "freezing fog early"
+msgstr ""
+
+#: po/rc.cpp:666 rc.cpp:666
+#, fuzzy
+msgctxt "Forecast description"
+msgid "freezing fog in the afternoon"
+msgstr "son"
+
+#: po/rc.cpp:667 rc.cpp:667
+msgctxt "Forecast description"
+msgid "freezing fog in the morning"
+msgstr ""
+
+#: po/rc.cpp:668 rc.cpp:668
+msgctxt "Forecast description"
+msgid "freezing fog late"
+msgstr ""
+
+#: po/rc.cpp:669 rc.cpp:669
+#, fuzzy
+msgctxt "Forecast description"
+msgid "freezing fog this afternoon"
+msgstr "son"
+
+#: po/rc.cpp:670 rc.cpp:670
+msgctxt "Forecast description"
+msgid "freezing fog this evening"
+msgstr ""
+
+#: po/rc.cpp:671 rc.cpp:671
+#, fuzzy
+msgctxt "Forecast description"
+msgid "freezing fog this morning"
+msgstr "son"
+
+#: po/rc.cpp:672 rc.cpp:672
+#, fuzzy
+msgctxt "Forecast description"
+msgid "freezing late"
+msgstr "son"
+
+#: po/rc.cpp:673 rc.cpp:673
+msgctxt "Forecast description"
+msgid "freezing on surfaces"
+msgstr ""
+
+#: po/rc.cpp:674 rc.cpp:674
+#, fuzzy
+msgctxt "Forecast description"
+msgid "freezing rain"
+msgstr "son"
+
+#: po/rc.cpp:675 rc.cpp:675
+#, fuzzy
+msgctxt "Forecast description"
+msgid "freezing rain late"
+msgstr "son"
+
+#: po/rc.cpp:676 rc.cpp:676
+msgctxt "Forecast description"
+msgid "frigid"
+msgstr ""
+
+#: po/rc.cpp:677 rc.cpp:677
+msgctxt "Forecast description"
+msgid "frigid in the afternoon"
+msgstr ""
+
+#: po/rc.cpp:678 rc.cpp:678
+msgctxt "Forecast description"
+msgid "frigid in the evening"
+msgstr ""
+
+#: po/rc.cpp:679 rc.cpp:679
+msgctxt "Forecast description"
+msgid "frigid late"
+msgstr ""
+
+#: po/rc.cpp:680 rc.cpp:680
+#, fuzzy
+msgctxt "Forecast description"
+msgid "frigid this evening"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:681 rc.cpp:681
+#, fuzzy
+msgctxt "Forecast description"
+msgid "frz.drizzle"
+msgstr "son"
+
+#: po/rc.cpp:682 rc.cpp:682
+msgctxt "Forecast description"
+msgid "ground fog"
+msgstr ""
+
+#: po/rc.cpp:683 rc.cpp:683
+msgctxt "Forecast description"
+msgid "haze"
+msgstr ""
+
+#: po/rc.cpp:684 rc.cpp:684
+msgctxt "Forecast description"
+msgid "hazy"
+msgstr ""
+
+#: po/rc.cpp:685 rc.cpp:685
+msgctxt "Forecast description"
+msgid "hazy sun"
+msgstr ""
+
+#: po/rc.cpp:686 rc.cpp:686
+msgctxt "Forecast description"
+msgid "hazy sunshine"
+msgstr ""
+
+#: po/rc.cpp:687 rc.cpp:687
+#, fuzzy
+msgctxt "Forecast description"
+msgid "heavy afternoon thunderstorms"
+msgstr "weer berou"
+
+#: po/rc.cpp:688 rc.cpp:688
+msgctxt "Forecast description"
+msgid "heavy at times"
+msgstr ""
+
+#: po/rc.cpp:689 rc.cpp:689
+#, fuzzy
+msgctxt "Forecast description"
+msgid "heavy ice late"
+msgstr "son"
+
+#: po/rc.cpp:690 rc.cpp:690
+#, fuzzy
+msgctxt "Forecast description"
+msgid "heavy morning thunderstorms"
+msgstr "weer berou"
+
+#: po/rc.cpp:691 rc.cpp:691
+msgctxt "Forecast description"
+msgid "heavy rain"
+msgstr ""
+
+#: po/rc.cpp:692 rc.cpp:692
+msgctxt "Forecast description"
+msgid "heavy rain in the afternoon"
+msgstr ""
+
+#: po/rc.cpp:693 rc.cpp:693
+msgctxt "Forecast description"
+msgid "heavy rain mixing"
+msgstr ""
+
+#: po/rc.cpp:694 rc.cpp:694
+msgctxt "Forecast description"
+msgid "heavy rain tapering off"
+msgstr ""
+
+#: po/rc.cpp:695 rc.cpp:695
+#, fuzzy
+msgctxt "Forecast description"
+msgid "heavy showers"
+msgstr "weer berou"
+
+#: po/rc.cpp:696 rc.cpp:696
+#, fuzzy
+msgctxt "Forecast description"
+msgid "heavy showers late"
+msgstr "weer berou"
+
+#: po/rc.cpp:697 rc.cpp:697
+#, fuzzy
+msgctxt "Forecast description"
+msgid "heavy snow"
+msgstr "son"
+
+#: po/rc.cpp:698 rc.cpp:698
+#, fuzzy
+msgctxt "Forecast description"
+msgid "heavy t-storms"
+msgstr "son"
+
+#: po/rc.cpp:699 rc.cpp:699
+#, fuzzy
+msgctxt "Forecast description"
+msgid "heavy t-storms in the morning"
+msgstr "son"
+
+#: po/rc.cpp:700 rc.cpp:700
+msgctxt "Forecast description"
+msgid "heavy t-storms in the p.m."
+msgstr ""
+
+#: po/rc.cpp:701 rc.cpp:701
+#, fuzzy
+msgctxt "Forecast description"
+msgid "heavy t-storms late"
+msgstr "weer berou"
+
+#: po/rc.cpp:702 rc.cpp:702
+#, fuzzy
+msgctxt "Forecast description"
+msgid "heavy t-storms this afternoon"
+msgstr "son"
+
+#: po/rc.cpp:703 rc.cpp:703
+#, fuzzy
+msgctxt "Forecast description"
+msgid "heavy t-storms this morning"
+msgstr "son"
+
+#: po/rc.cpp:704 rc.cpp:704
+#, fuzzy
+msgctxt "Forecast description"
+msgid "heavy thunderstorms"
+msgstr "weer berou"
+
+#: po/rc.cpp:705 rc.cpp:705
+msgctxt "Forecast description"
+msgid "hot"
+msgstr ""
+
+#: po/rc.cpp:706 rc.cpp:706
+#, fuzzy
+msgctxt "Forecast description"
+msgid "hotter"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:707 rc.cpp:707
+msgctxt "Forecast description"
+msgid "humid"
+msgstr ""
+
+#: po/rc.cpp:708 rc.cpp:708
+#, fuzzy
+msgctxt "Forecast description"
+msgid "hvy.snowshower"
+msgstr "weer berou"
+
+#: po/rc.cpp:709 rc.cpp:709
+msgctxt "Forecast description"
+msgid "ice"
+msgstr ""
+
+#: po/rc.cpp:710 rc.cpp:710
+msgctxt "Forecast description"
+msgid "ice crystals"
+msgstr ""
+
+#: po/rc.cpp:711 rc.cpp:711
+msgctxt "Forecast description"
+msgid "ice in the afternoon"
+msgstr ""
+
+#: po/rc.cpp:712 rc.cpp:712
+msgctxt "Forecast description"
+msgid "ice in the evening"
+msgstr ""
+
+#: po/rc.cpp:713 rc.cpp:713
+msgctxt "Forecast description"
+msgid "ice in the morning"
+msgstr ""
+
+#: po/rc.cpp:714 rc.cpp:714
+msgctxt "Forecast description"
+msgid "ice late"
+msgstr ""
+
+#: po/rc.cpp:715 rc.cpp:715
+msgctxt "Forecast description"
+msgid "ice this evening"
+msgstr ""
+
+#: po/rc.cpp:716 rc.cpp:716
+msgctxt "Forecast description"
+msgid "icy mix"
+msgstr ""
+
+#: po/rc.cpp:717 rc.cpp:717
+#, fuzzy
+msgctxt "Forecast description"
+msgid "icy mix in the morning"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:718 rc.cpp:718
+msgctxt "Forecast description"
+msgid "icy mix late"
+msgstr ""
+
+#: po/rc.cpp:719 rc.cpp:719
+msgctxt "Forecast description"
+msgid "icy mix this evening"
+msgstr ""
+
+#: po/rc.cpp:720 rc.cpp:720
+msgctxt "Forecast description"
+msgid "increasing amounts of clouds"
+msgstr ""
+
+#: po/rc.cpp:721 rc.cpp:721
+msgctxt "Forecast description"
+msgid "increasing amounts of sunshine"
+msgstr ""
+
+#: po/rc.cpp:722 rc.cpp:722
+msgctxt "Forecast description"
+msgid "increasing cloudiness"
+msgstr ""
+
+#: po/rc.cpp:723 rc.cpp:723
+msgctxt "Forecast description"
+msgid "increasing clouds"
+msgstr ""
+
+#: po/rc.cpp:724 rc.cpp:724
+msgctxt "Forecast description"
+msgid "increasingly heavy"
+msgstr ""
+
+#: po/rc.cpp:725 rc.cpp:725
+msgctxt "Forecast description"
+msgid "increasingly windy"
+msgstr ""
+
+#: po/rc.cpp:726 rc.cpp:726
+msgctxt "Forecast description"
+msgid "intermittent snow"
+msgstr ""
+
+#: po/rc.cpp:727 rc.cpp:727
+msgctxt "Forecast description"
+msgid "intermittent wet snow"
+msgstr ""
+
+#: po/rc.cpp:728 rc.cpp:728
+msgctxt "Forecast description"
+msgid "intervals of clouds"
+msgstr ""
+
+#: po/rc.cpp:729 rc.cpp:729
+#, fuzzy
+msgctxt "Forecast description"
+msgid "late flurries"
+msgstr "weer berou"
+
+#: po/rc.cpp:730 rc.cpp:730
+msgctxt "Forecast description"
+msgid "late icy mix"
+msgstr ""
+
+#: po/rc.cpp:731 rc.cpp:731
+#, fuzzy
+msgctxt "Forecast description"
+msgid "late rain"
+msgstr "son"
+
+#: po/rc.cpp:732 rc.cpp:732
+#, fuzzy
+msgctxt "Forecast description"
+msgid "late showers"
+msgstr "weer berou"
+
+#: po/rc.cpp:733 rc.cpp:733
+#, fuzzy
+msgctxt "Forecast description"
+msgid "late snow"
+msgstr "son"
+
+#: po/rc.cpp:734 rc.cpp:734
+#, fuzzy
+msgctxt "Forecast description"
+msgid "late t-showers"
+msgstr "weer berou"
+
+#: po/rc.cpp:735 rc.cpp:735
+#, fuzzy
+msgctxt "Forecast description"
+msgid "late t-storms"
+msgstr "weer berou"
+
+#: po/rc.cpp:736 rc.cpp:736
+#, fuzzy
+msgctxt "Forecast description"
+msgid "late thundershowers"
+msgstr "weer berou"
+
+#: po/rc.cpp:737 rc.cpp:737
+#, fuzzy
+msgctxt "Forecast description"
+msgid "late-night rain"
+msgstr "son"
+
+#: po/rc.cpp:738 rc.cpp:738
+#, fuzzy
+msgctxt "Forecast description"
+msgid "late-night showers"
+msgstr "weer berou"
+
+#: po/rc.cpp:739 rc.cpp:739
+msgctxt "Forecast description"
+msgid "late-night snow"
+msgstr ""
+
+#: po/rc.cpp:740 rc.cpp:740
+#, fuzzy
+msgctxt "Forecast description"
+msgid "late-night thundershowers"
+msgstr "weer berou"
+
+#: po/rc.cpp:741 rc.cpp:741
+msgctxt "Forecast description"
+msgid "less humid"
+msgstr ""
+
+#: po/rc.cpp:742 rc.cpp:742
+#, fuzzy
+msgctxt "Forecast description"
+msgid "lgt.rainshower"
+msgstr "weer berou"
+
+#: po/rc.cpp:743 rc.cpp:743
+msgctxt "Forecast description"
+msgid "lgt.snow/fog"
+msgstr ""
+
+#: po/rc.cpp:744 rc.cpp:744
+#, fuzzy
+msgctxt "Forecast description"
+msgid "lgt.snowshower"
+msgstr "weer berou"
+
+#: po/rc.cpp:745 rc.cpp:745
+msgctxt "Forecast description"
+msgid "light fog"
+msgstr ""
+
+#: po/rc.cpp:746 rc.cpp:746
+#, fuzzy
+msgctxt "Forecast description"
+msgid "light rain"
+msgstr "son"
+
+#: po/rc.cpp:747 rc.cpp:747
+msgctxt "Forecast description"
+msgid "light snow"
+msgstr ""
+
+#: po/rc.cpp:748 rc.cpp:748
+#, fuzzy
+msgctxt "Forecast description"
+msgid "limited sun"
+msgstr "son"
+
+#: po/rc.cpp:749 rc.cpp:749
+msgctxt "Forecast description"
+msgid "lots of sun"
+msgstr ""
+
+#: po/rc.cpp:750 rc.cpp:750
+msgctxt "Forecast description"
+msgid "low clouds"
+msgstr ""
+
+#: po/rc.cpp:751 rc.cpp:751
+msgctxt "Forecast description"
+msgid "low clouds break for some sun"
+msgstr ""
+
+#: po/rc.cpp:752 rc.cpp:752
+msgctxt "Forecast description"
+msgid "low clouds breaking"
+msgstr ""
+
+#: po/rc.cpp:753 rc.cpp:753
+#, fuzzy
+msgctxt "Forecast description"
+msgid "low clouds may break"
+msgstr "weer berou"
+
+#: po/rc.cpp:754 rc.cpp:754
+msgctxt "Forecast description"
+msgid "low humidity"
+msgstr ""
+
+#: po/rc.cpp:755 rc.cpp:755
+msgctxt "Forecast description"
+msgid "mainly clear"
+msgstr ""
+
+#: po/rc.cpp:756 rc.cpp:756
+msgctxt "Forecast description"
+msgid "mainly cloudy"
+msgstr ""
+
+#: po/rc.cpp:757 rc.cpp:757
+msgctxt "Forecast description"
+msgid "mainly early"
+msgstr ""
+
+#: po/rc.cpp:758 rc.cpp:758
+msgctxt "Forecast description"
+msgid "mainly later"
+msgstr ""
+
+#: po/rc.cpp:759 rc.cpp:759
+msgctxt "Forecast description"
+msgid "mild"
+msgstr ""
+
+#: po/rc.cpp:760 rc.cpp:760
+msgctxt "Forecast description"
+msgid "milder"
+msgstr ""
+
+#: po/rc.cpp:761 rc.cpp:761
+msgctxt "Forecast description"
+msgid "milder late"
+msgstr ""
+
+#: po/rc.cpp:762 rc.cpp:762
+msgctxt "Forecast description"
+msgid "mist"
+msgstr ""
+
+#: po/rc.cpp:763 rc.cpp:763
+msgctxt "Forecast description"
+msgid "mixed"
+msgstr ""
+
+#: po/rc.cpp:764 rc.cpp:764
+#, fuzzy
+msgctxt "Forecast description"
+msgid "moonlit"
+msgstr "son"
+
+#: po/rc.cpp:765 rc.cpp:765
+msgctxt "Forecast description"
+msgid "more clouds than sun"
+msgstr ""
+
+#: po/rc.cpp:766 rc.cpp:766
+msgctxt "Forecast description"
+msgid "more sun than clouds"
+msgstr ""
+
+#: po/rc.cpp:767 rc.cpp:767
+msgctxt "Forecast description"
+msgid "more sunshine than clouds"
+msgstr ""
+
+#: po/rc.cpp:768 rc.cpp:768
+msgctxt "Forecast description"
+msgid "morning flurries"
+msgstr ""
+
+#: po/rc.cpp:769 rc.cpp:769
+#, fuzzy
+msgctxt "Forecast description"
+msgid "morning mist"
+msgstr "son"
+
+#: po/rc.cpp:770 rc.cpp:770
+msgctxt "Forecast description"
+msgid "morning rain"
+msgstr ""
+
+#: po/rc.cpp:771 rc.cpp:771
+#, fuzzy
+msgctxt "Forecast description"
+msgid "morning showers"
+msgstr "weer berou"
+
+#: po/rc.cpp:772 rc.cpp:772
+msgctxt "Forecast description"
+msgid "morning snow"
+msgstr ""
+
+#: po/rc.cpp:773 rc.cpp:773
+#, fuzzy
+msgctxt "Forecast description"
+msgid "morning snow showers"
+msgstr "weer berou"
+
+#: po/rc.cpp:774 rc.cpp:774
+#, fuzzy
+msgctxt "Forecast description"
+msgid "morning t-storms"
+msgstr "son"
+
+#: po/rc.cpp:775 rc.cpp:775
+#, fuzzy
+msgctxt "Forecast description"
+msgid "morning thundershowers"
+msgstr "weer berou"
+
+#: po/rc.cpp:776 rc.cpp:776
+#, fuzzy
+msgctxt "Forecast description"
+msgid "morning thunderstorms"
+msgstr "weer berou"
+
+#: po/rc.cpp:777 rc.cpp:777
+msgctxt "Forecast description"
+msgid "mostly clear"
+msgstr ""
+
+#: po/rc.cpp:778 rc.cpp:778
+msgctxt "Forecast description"
+msgid "mostly cloudy"
+msgstr ""
+
+#: po/rc.cpp:779 rc.cpp:779
+msgctxt "Forecast description"
+msgid "mostly sunny"
+msgstr ""
+
+#: po/rc.cpp:780 rc.cpp:780
+msgctxt "Forecast description"
+msgid "much colder"
+msgstr ""
+
+#: po/rc.cpp:781 rc.cpp:781
+msgctxt "Forecast description"
+msgid "n/a"
+msgstr ""
+
+#: po/rc.cpp:782 rc.cpp:782
+msgctxt "Forecast description"
+msgid "nice"
+msgstr ""
+
+#: po/rc.cpp:783 rc.cpp:783
+msgctxt "Forecast description"
+msgid "not as cold"
+msgstr ""
+
+#: po/rc.cpp:784 rc.cpp:784
+#, fuzzy
+msgctxt "Forecast description"
+msgid "not as cold early"
+msgstr "weer berou"
+
+#: po/rc.cpp:785 rc.cpp:785
+msgctxt "Forecast description"
+msgid "not as cold late"
+msgstr ""
+
+#: po/rc.cpp:786 rc.cpp:786
+msgctxt "Forecast description"
+msgid "not as cool"
+msgstr ""
+
+#: po/rc.cpp:787 rc.cpp:787
+msgctxt "Forecast description"
+msgid "not as cool late"
+msgstr ""
+
+#: po/rc.cpp:788 rc.cpp:788
+msgctxt "Forecast description"
+msgid "not as hot"
+msgstr ""
+
+#: po/rc.cpp:789 rc.cpp:789
+msgctxt "Forecast description"
+msgid "not as warm"
+msgstr ""
+
+#: po/rc.cpp:790 rc.cpp:790
+msgctxt "Forecast description"
+msgid "not as warm but humid"
+msgstr ""
+
+#: po/rc.cpp:791 rc.cpp:791
+msgctxt "Forecast description"
+msgid "occasional late-night rain"
+msgstr ""
+
+#: po/rc.cpp:792 rc.cpp:792
+msgctxt "Forecast description"
+msgid "occasional rain"
+msgstr ""
+
+#: po/rc.cpp:793 rc.cpp:793
+msgctxt "Forecast description"
+msgid "occasional snow"
+msgstr ""
+
+#: po/rc.cpp:794 rc.cpp:794
+#, fuzzy
+msgctxt "Forecast description"
+msgid "occasional sunshine"
+msgstr "son"
+
+#: po/rc.cpp:795 rc.cpp:795
+msgctxt "Forecast description"
+msgid "occasional wet snow late"
+msgstr ""
+
+#: po/rc.cpp:796 rc.cpp:796
+msgctxt "Forecast description"
+msgid "on-and-off rain"
+msgstr ""
+
+#: po/rc.cpp:797 rc.cpp:797
+msgctxt "Forecast description"
+msgid "on-and-off snow"
+msgstr ""
+
+#: po/rc.cpp:798 rc.cpp:798
+msgctxt "Forecast description"
+msgid "otherwise"
+msgstr ""
+
+#: po/rc.cpp:799 rc.cpp:799
+msgctxt "Forecast description"
+msgid "overcast"
+msgstr ""
+
+#: po/rc.cpp:800 rc.cpp:800
+msgctxt "Forecast description"
+msgid "p.m. flurries"
+msgstr ""
+
+#: po/rc.cpp:801 rc.cpp:801
+msgctxt "Forecast description"
+msgid "p.m. icy mix"
+msgstr ""
+
+#: po/rc.cpp:802 rc.cpp:802
+#, fuzzy
+msgctxt "Forecast description"
+msgid "p.m. rain"
+msgstr "son"
+
+#: po/rc.cpp:803 rc.cpp:803
+msgctxt "Forecast description"
+msgid "p.m. snow"
+msgstr ""
+
+#: po/rc.cpp:804 rc.cpp:804
+msgctxt "Forecast description"
+msgid "partial sunshine"
+msgstr ""
+
+#: po/rc.cpp:805 rc.cpp:805
+msgctxt "Forecast description"
+msgid "partly clear"
+msgstr ""
+
+#: po/rc.cpp:806 rc.cpp:806
+msgctxt "Forecast description"
+msgid "partly cloudy"
+msgstr ""
+
+#: po/rc.cpp:807 rc.cpp:807
+msgctxt "Forecast description"
+msgid "partly sunny"
+msgstr ""
+
+#: po/rc.cpp:808 rc.cpp:808
+msgctxt "Forecast description"
+msgid "partly to mostly sunny"
+msgstr ""
+
+#: po/rc.cpp:809 rc.cpp:809
+msgctxt "Forecast description"
+msgid "patchy clouds"
+msgstr ""
+
+#: po/rc.cpp:810 rc.cpp:810
+msgctxt "Forecast description"
+msgid "periods of clouds"
+msgstr ""
+
+#: po/rc.cpp:811 rc.cpp:811
+msgctxt "Forecast description"
+msgid "periods of rain"
+msgstr ""
+
+#: po/rc.cpp:812 rc.cpp:812
+msgctxt "Forecast description"
+msgid "periods of snow"
+msgstr ""
+
+#: po/rc.cpp:813 rc.cpp:813
+msgctxt "Forecast description"
+msgid "periods of sun"
+msgstr ""
+
+#: po/rc.cpp:814 rc.cpp:814
+msgctxt "Forecast description"
+msgid "pleasant"
+msgstr ""
+
+#: po/rc.cpp:815 rc.cpp:815
+msgctxt "Forecast description"
+msgid "pleasantly warm"
+msgstr ""
+
+#: po/rc.cpp:816 rc.cpp:816
+msgctxt "Forecast description"
+msgid "plenty of clouds"
+msgstr ""
+
+#: po/rc.cpp:817 rc.cpp:817
+msgctxt "Forecast description"
+msgid "plenty of sun"
+msgstr ""
+
+#: po/rc.cpp:818 rc.cpp:818
+msgctxt "Forecast description"
+msgid "plenty of sunshine"
+msgstr ""
+
+#: po/rc.cpp:819 rc.cpp:819
+#, fuzzy
+msgctxt "Forecast description"
+msgid "pouring rain"
+msgstr "son"
+
+#: po/rc.cpp:820 rc.cpp:820
+msgctxt "Forecast description"
+msgid "quite cold"
+msgstr ""
+
+#: po/rc.cpp:821 rc.cpp:821
+#, fuzzy
+msgctxt "Forecast description"
+msgid "rain"
+msgstr "son"
+
+#: po/rc.cpp:822 rc.cpp:822
+msgctxt "Forecast description"
+msgid "rain at times"
+msgstr ""
+
+#: po/rc.cpp:823 rc.cpp:823
+msgctxt "Forecast description"
+msgid "rain at times late"
+msgstr ""
+
+#: po/rc.cpp:824 rc.cpp:824
+msgctxt "Forecast description"
+msgid "rain becoming heavy at times"
+msgstr ""
+
+#: po/rc.cpp:825 rc.cpp:825
+msgctxt "Forecast description"
+msgid "rain becoming steadier"
+msgstr ""
+
+#: po/rc.cpp:826 rc.cpp:826
+#, fuzzy
+msgctxt "Forecast description"
+msgid "rain beginning"
+msgstr "son"
+
+#: po/rc.cpp:827 rc.cpp:827
+msgctxt "Forecast description"
+msgid "rain changing to ice"
+msgstr ""
+
+#: po/rc.cpp:828 rc.cpp:828
+msgctxt "Forecast description"
+msgid "rain changing to snow"
+msgstr ""
+
+#: po/rc.cpp:829 rc.cpp:829
+msgctxt "Forecast description"
+msgid "rain early"
+msgstr ""
+
+#: po/rc.cpp:830 rc.cpp:830
+#, fuzzy
+msgctxt "Forecast description"
+msgid "rain ending"
+msgstr "son"
+
+#: po/rc.cpp:831 rc.cpp:831
+#, fuzzy
+msgctxt "Forecast description"
+msgid "rain ending in the morning"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:832 rc.cpp:832
+msgctxt "Forecast description"
+msgid "rain from late morning on"
+msgstr ""
+
+#: po/rc.cpp:833 rc.cpp:833
+msgctxt "Forecast description"
+msgid "rain in the afternoon"
+msgstr ""
+
+#: po/rc.cpp:834 rc.cpp:834
+msgctxt "Forecast description"
+msgid "rain in the evening"
+msgstr ""
+
+#: po/rc.cpp:835 rc.cpp:835
+msgctxt "Forecast description"
+msgid "rain in the morning"
+msgstr ""
+
+#: po/rc.cpp:836 rc.cpp:836
+msgctxt "Forecast description"
+msgid "rain in the p.m."
+msgstr ""
+
+#: po/rc.cpp:837 rc.cpp:837
+#, fuzzy
+msgctxt "Forecast description"
+msgid "rain late"
+msgstr "son"
+
+#: po/rc.cpp:838 rc.cpp:838
+msgctxt "Forecast description"
+msgid "rain mixed in early"
+msgstr ""
+
+#: po/rc.cpp:839 rc.cpp:839
+msgctxt "Forecast description"
+msgid "rain mixing"
+msgstr ""
+
+#: po/rc.cpp:840 rc.cpp:840
+msgctxt "Forecast description"
+msgid "rain mixing in"
+msgstr ""
+
+#: po/rc.cpp:841 rc.cpp:841
+msgctxt "Forecast description"
+msgid "rain of varying rates"
+msgstr ""
+
+#: po/rc.cpp:842 rc.cpp:842
+#, fuzzy
+msgctxt "Forecast description"
+msgid "rain possible"
+msgstr "weer berou"
+
+#: po/rc.cpp:843 rc.cpp:843
+#, fuzzy
+msgctxt "Forecast description"
+msgid "rain possible in the p.m."
+msgstr "weer berou"
+
+#: po/rc.cpp:844 rc.cpp:844
+#, fuzzy
+msgctxt "Forecast description"
+msgid "rain possible late"
+msgstr "weer berou"
+
+#: po/rc.cpp:845 rc.cpp:845
+#, fuzzy
+msgctxt "Forecast description"
+msgid "rain shower"
+msgstr "weer berou"
+
+#: po/rc.cpp:846 rc.cpp:846
+msgctxt "Forecast description"
+msgid "rain tapering off"
+msgstr ""
+
+#: po/rc.cpp:847 rc.cpp:847
+#, fuzzy
+msgctxt "Forecast description"
+msgid "rain tapering to a shower"
+msgstr "weer berou"
+
+#: po/rc.cpp:848 rc.cpp:848
+msgctxt "Forecast description"
+msgid "rain this afternoon"
+msgstr ""
+
+#: po/rc.cpp:849 rc.cpp:849
+#, fuzzy
+msgctxt "Forecast description"
+msgid "rain this morning"
+msgstr "son"
+
+#: po/rc.cpp:850 rc.cpp:850
+#, fuzzy
+msgctxt "Forecast description"
+msgid "rain/snow"
+msgstr "weer berou"
+
+#: po/rc.cpp:851 rc.cpp:851
+msgctxt "Forecast description"
+msgid "rainy"
+msgstr ""
+
+#: po/rc.cpp:852 rc.cpp:852
+msgctxt "Forecast description"
+msgid "rainy this evening"
+msgstr ""
+
+#: po/rc.cpp:853 rc.cpp:853
+#, fuzzy
+msgctxt "Forecast description"
+msgid "rather cloudy"
+msgstr "weer berou"
+
+#: po/rc.cpp:854 rc.cpp:854
+msgctxt "Forecast description"
+msgid "remaining cloudy"
+msgstr ""
+
+#: po/rc.cpp:855 rc.cpp:855
+msgctxt "Forecast description"
+msgid "remaining cool"
+msgstr ""
+
+#: po/rc.cpp:856 rc.cpp:856
+msgctxt "Forecast description"
+msgid "remaining very warm"
+msgstr ""
+
+#: po/rc.cpp:857 rc.cpp:857
+msgctxt "Forecast description"
+msgid "remaining warm"
+msgstr ""
+
+#: po/rc.cpp:858 rc.cpp:858
+msgctxt "Forecast description"
+msgid "rising temperatures"
+msgstr ""
+
+#: po/rc.cpp:859 rc.cpp:859
+msgctxt "Forecast description"
+msgid "rising temperatures early"
+msgstr ""
+
+#: po/rc.cpp:860 rc.cpp:860
+msgctxt "Forecast description"
+msgid "rising temperatures late"
+msgstr ""
+
+#: po/rc.cpp:861 rc.cpp:861
+#, fuzzy
+msgctxt "Forecast description"
+msgid "seasonably cold"
+msgstr "weer berou"
+
+#: po/rc.cpp:862 rc.cpp:862
+msgctxt "Forecast description"
+msgid "seasonably cool"
+msgstr ""
+
+#: po/rc.cpp:863 rc.cpp:863
+#, fuzzy
+msgctxt "Forecast description"
+msgid "severe afternoon t-storms"
+msgstr "weer berou"
+
+#: po/rc.cpp:864 rc.cpp:864
+msgctxt "Forecast description"
+msgid "shower around in the p.m."
+msgstr ""
+
+#: po/rc.cpp:865 rc.cpp:865
+#, fuzzy
+msgctxt "Forecast description"
+msgid "showers"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:866 rc.cpp:866
+#, fuzzy
+msgctxt "Forecast description"
+msgid "showers around"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:867 rc.cpp:867
+msgctxt "Forecast description"
+msgid "showers around early"
+msgstr ""
+
+#: po/rc.cpp:868 rc.cpp:868
+msgctxt "Forecast description"
+msgid "showers around in the evening"
+msgstr ""
+
+#: po/rc.cpp:869 rc.cpp:869
+msgctxt "Forecast description"
+msgid "showers around in the morning"
+msgstr ""
+
+#: po/rc.cpp:870 rc.cpp:870
+msgctxt "Forecast description"
+msgid "showers around in the p.m."
+msgstr ""
+
+#: po/rc.cpp:871 rc.cpp:871
+msgctxt "Forecast description"
+msgid "showers around late"
+msgstr ""
+
+#: po/rc.cpp:872 rc.cpp:872
+msgctxt "Forecast description"
+msgid "showers around this afternoon"
+msgstr ""
+
+#: po/rc.cpp:873 rc.cpp:873
+#, fuzzy
+msgctxt "Forecast description"
+msgid "showers around this morning"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:874 rc.cpp:874
+msgctxt "Forecast description"
+msgid "showers of rain"
+msgstr ""
+
+#: po/rc.cpp:875 rc.cpp:875
+#, fuzzy
+msgctxt "Forecast description"
+msgid "showers possible"
+msgstr "son"
+
+#: po/rc.cpp:876 rc.cpp:876
+#, fuzzy
+msgctxt "Forecast description"
+msgid "showers possible in the p.m."
+msgstr "weer berou"
+
+#: po/rc.cpp:877 rc.cpp:877
+#, fuzzy
+msgctxt "Forecast description"
+msgid "showery in the evening"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:878 rc.cpp:878
+msgctxt "Forecast description"
+msgid "smoky"
+msgstr ""
+
+#: po/rc.cpp:879 rc.cpp:879
+msgctxt "Forecast description"
+msgid "snow"
+msgstr ""
+
+#: po/rc.cpp:880 rc.cpp:880
+msgctxt "Forecast description"
+msgid "snow at times"
+msgstr ""
+
+#: po/rc.cpp:881 rc.cpp:881
+#, fuzzy
+msgctxt "Forecast description"
+msgid "snow early"
+msgstr "weer berou"
+
+#: po/rc.cpp:882 rc.cpp:882
+#, fuzzy
+msgctxt "Forecast description"
+msgid "snow from late morning on"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:883 rc.cpp:883
+msgctxt "Forecast description"
+msgid "snow in the evening"
+msgstr ""
+
+#: po/rc.cpp:884 rc.cpp:884
+msgctxt "Forecast description"
+msgid "snow late"
+msgstr ""
+
+#: po/rc.cpp:885 rc.cpp:885
+msgctxt "Forecast description"
+msgid "snow mixing"
+msgstr ""
+
+#: po/rc.cpp:886 rc.cpp:886
+msgctxt "Forecast description"
+msgid "snow mixing in"
+msgstr ""
+
+#: po/rc.cpp:887 rc.cpp:887
+msgctxt "Forecast description"
+msgid "snow much of the time"
+msgstr ""
+
+#: po/rc.cpp:888 rc.cpp:888
+msgctxt "Forecast description"
+msgid "snow of varying intensity"
+msgstr ""
+
+#: po/rc.cpp:889 rc.cpp:889
+msgctxt "Forecast description"
+msgid "snow of varying rates"
+msgstr ""
+
+#: po/rc.cpp:890 rc.cpp:890
+msgctxt "Forecast description"
+msgid "snow or flurries possible"
+msgstr ""
+
+#: po/rc.cpp:891 rc.cpp:891
+#, fuzzy
+msgctxt "Forecast description"
+msgid "snow possible early"
+msgstr "son"
+
+#: po/rc.cpp:892 rc.cpp:892
+msgctxt "Forecast description"
+msgid "snow showers"
+msgstr ""
+
+#: po/rc.cpp:893 rc.cpp:893
+#, fuzzy
+msgctxt "Forecast description"
+msgid "snow showers in the morning"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:894 rc.cpp:894
+msgctxt "Forecast description"
+msgid "snow showers late"
+msgstr ""
+
+#: po/rc.cpp:895 rc.cpp:895
+msgctxt "Forecast description"
+msgid "snow showers possible"
+msgstr ""
+
+#: po/rc.cpp:896 rc.cpp:896
+#, fuzzy
+msgctxt "Forecast description"
+msgid "snow showers possible late"
+msgstr "son"
+
+#: po/rc.cpp:897 rc.cpp:897
+msgctxt "Forecast description"
+msgid "snow squalls"
+msgstr ""
+
+#: po/rc.cpp:898 rc.cpp:898
+msgctxt "Forecast description"
+msgid "snow tapering to flurries"
+msgstr ""
+
+#: po/rc.cpp:899 rc.cpp:899
+msgctxt "Forecast description"
+msgid "snow turning to ice"
+msgstr ""
+
+#: po/rc.cpp:900 rc.cpp:900
+msgctxt "Forecast description"
+msgid "snowshower"
+msgstr ""
+
+#: po/rc.cpp:901 rc.cpp:901
+#, fuzzy
+msgctxt "Forecast description"
+msgid "snowy"
+msgstr "weer berou"
+
+#: po/rc.cpp:902 rc.cpp:902
+#, fuzzy
+msgctxt "Forecast description"
+msgid "some brightening"
+msgstr "son"
+
+#: po/rc.cpp:903 rc.cpp:903
+msgctxt "Forecast description"
+msgid "some clouds"
+msgstr ""
+
+#: po/rc.cpp:904 rc.cpp:904
+#, fuzzy
+msgctxt "Forecast description"
+msgid "some fog in the morning"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:905 rc.cpp:905
+#, fuzzy
+msgctxt "Forecast description"
+msgid "some glaze early"
+msgstr "son"
+
+#: po/rc.cpp:906 rc.cpp:906
+msgctxt "Forecast description"
+msgid "some heavy"
+msgstr ""
+
+#: po/rc.cpp:907 rc.cpp:907
+#, fuzzy
+msgctxt "Forecast description"
+msgid "some heavy late"
+msgstr "son"
+
+#: po/rc.cpp:908 rc.cpp:908
+msgctxt "Forecast description"
+msgid "some ice early"
+msgstr ""
+
+#: po/rc.cpp:909 rc.cpp:909
+msgctxt "Forecast description"
+msgid "some ice late"
+msgstr ""
+
+#: po/rc.cpp:910 rc.cpp:910
+#, fuzzy
+msgctxt "Forecast description"
+msgid "some icy rain"
+msgstr "son"
+
+#: po/rc.cpp:911 rc.cpp:911
+#, fuzzy
+msgctxt "Forecast description"
+msgid "some rain"
+msgstr "son"
+
+#: po/rc.cpp:912 rc.cpp:912
+#, fuzzy
+msgctxt "Forecast description"
+msgid "some severe"
+msgstr "son"
+
+#: po/rc.cpp:913 rc.cpp:913
+#, fuzzy
+msgctxt "Forecast description"
+msgid "some severe late"
+msgstr "son"
+
+#: po/rc.cpp:914 rc.cpp:914
+#, fuzzy
+msgctxt "Forecast description"
+msgid "some snow"
+msgstr "son"
+
+#: po/rc.cpp:915 rc.cpp:915
+msgctxt "Forecast description"
+msgid "some sun"
+msgstr ""
+
+#: po/rc.cpp:916 rc.cpp:916
+#, fuzzy
+msgctxt "Forecast description"
+msgid "some sun returning"
+msgstr "son"
+
+#: po/rc.cpp:917 rc.cpp:917
+msgctxt "Forecast description"
+msgid "some sunshine"
+msgstr ""
+
+#: po/rc.cpp:918 rc.cpp:918
+msgctxt "Forecast description"
+msgid "spotty afternoon showers"
+msgstr ""
+
+#: po/rc.cpp:919 rc.cpp:919
+msgctxt "Forecast description"
+msgid "spotty evening showers"
+msgstr ""
+
+#: po/rc.cpp:920 rc.cpp:920
+msgctxt "Forecast description"
+msgid "spotty late-night showers"
+msgstr ""
+
+#: po/rc.cpp:921 rc.cpp:921
+msgctxt "Forecast description"
+msgid "spotty morning showers"
+msgstr ""
+
+#: po/rc.cpp:922 rc.cpp:922
+msgctxt "Forecast description"
+msgid "spotty showers"
+msgstr ""
+
+#: po/rc.cpp:923 rc.cpp:923
+#, fuzzy
+msgctxt "Forecast description"
+msgid "spotty showers in the evening"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:924 rc.cpp:924
+msgctxt "Forecast description"
+msgid "spotty showers in the morning"
+msgstr ""
+
+#: po/rc.cpp:925 rc.cpp:925
+msgctxt "Forecast description"
+msgid "spotty showers late"
+msgstr ""
+
+#: po/rc.cpp:926 rc.cpp:926
+msgctxt "Forecast description"
+msgid "spotty showers this afternoon"
+msgstr ""
+
+#: po/rc.cpp:927 rc.cpp:927
+#, fuzzy
+msgctxt "Forecast description"
+msgid "spotty showers this morning"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:928 rc.cpp:928
+msgctxt "Forecast description"
+msgid "squalls"
+msgstr ""
+
+#: po/rc.cpp:929 rc.cpp:929
+#, fuzzy
+msgctxt "Forecast description"
+msgid "still cloudy"
+msgstr "weer berou"
+
+#: po/rc.cpp:930 rc.cpp:930
+msgctxt "Forecast description"
+msgid "strong afternoon t-storms"
+msgstr ""
+
+#: po/rc.cpp:931 rc.cpp:931
+msgctxt "Forecast description"
+msgid "strong late-night t-storms"
+msgstr ""
+
+#: po/rc.cpp:932 rc.cpp:932
+#, fuzzy
+msgctxt "Forecast description"
+msgid "strong morning thunderstorms"
+msgstr "weer berou"
+
+#: po/rc.cpp:933 rc.cpp:933
+msgctxt "Forecast description"
+msgid "strong p.m. t-storms"
+msgstr ""
+
+#: po/rc.cpp:934 rc.cpp:934
+#, fuzzy
+msgctxt "Forecast description"
+msgid "strong t-storms"
+msgstr "weer berou"
+
+#: po/rc.cpp:935 rc.cpp:935
+#, fuzzy
+msgctxt "Forecast description"
+msgid "strong thunderstorms"
+msgstr "weer berou"
+
+#: po/rc.cpp:936 rc.cpp:936
+msgctxt "Forecast description"
+msgid "strong thunderstorms late"
+msgstr ""
+
+#: po/rc.cpp:937 rc.cpp:937
+msgctxt "Forecast description"
+msgid "strong winds"
+msgstr ""
+
+#: po/rc.cpp:938 rc.cpp:938
+#, fuzzy
+msgctxt "Forecast description"
+msgid "strong winds this evening"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:939 rc.cpp:939
+msgctxt "Forecast description"
+msgid "summerlike"
+msgstr ""
+
+#: po/rc.cpp:940 rc.cpp:940
+#, fuzzy
+msgctxt "Forecast description"
+msgid "sun"
+msgstr "son"
+
+#: po/rc.cpp:941 rc.cpp:941
+msgctxt "Forecast description"
+msgid "sun followed by clouds"
+msgstr ""
+
+#: po/rc.cpp:942 rc.cpp:942
+msgctxt "Forecast description"
+msgid "sun followed by some clouds"
+msgstr ""
+
+#: po/rc.cpp:943 rc.cpp:943
+msgctxt "Forecast description"
+msgid "sun mixing"
+msgstr ""
+
+#: po/rc.cpp:944 rc.cpp:944
+msgctxt "Forecast description"
+msgid "sun yielding to clouds"
+msgstr ""
+
+#: po/rc.cpp:945 rc.cpp:945
+#, fuzzy
+msgctxt "Forecast description"
+msgid "sunlit"
+msgstr "son"
+
+#: po/rc.cpp:946 rc.cpp:946
+#, fuzzy
+msgctxt "Forecast description"
+msgid "sunny"
+msgstr "son"
+
+#: po/rc.cpp:947 rc.cpp:947
+#, fuzzy
+msgctxt "Forecast description"
+msgid "sunny intervals"
+msgstr "Opdateer interval:"
+
+#: po/rc.cpp:948 rc.cpp:948
+msgctxt "Forecast description"
+msgid "sunny much of the time"
+msgstr ""
+
+#: po/rc.cpp:949 rc.cpp:949
+msgctxt "Forecast description"
+msgid "sunny to partly cloudy"
+msgstr ""
+
+#: po/rc.cpp:950 rc.cpp:950
+#, fuzzy
+msgctxt "Forecast description"
+msgid "sunshine"
+msgstr "son"
+
+#: po/rc.cpp:951 rc.cpp:951
+#, fuzzy
+msgctxt "Forecast description"
+msgid "t-showers"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:952 rc.cpp:952
+msgctxt "Forecast description"
+msgid "t-showers in the afternoon"
+msgstr ""
+
+#: po/rc.cpp:953 rc.cpp:953
+msgctxt "Forecast description"
+msgid "t-storms"
+msgstr ""
+
+#: po/rc.cpp:954 rc.cpp:954
+msgctxt "Forecast description"
+msgid "t-storms late"
+msgstr ""
+
+#: po/rc.cpp:955 rc.cpp:955
+#, fuzzy
+msgctxt "Forecast description"
+msgid "t-storms possible"
+msgstr "son"
+
+#: po/rc.cpp:956 rc.cpp:956
+msgctxt "Forecast description"
+msgid "then a flurry"
+msgstr ""
+
+#: po/rc.cpp:957 rc.cpp:957
+msgctxt "Forecast description"
+msgid "then a shower"
+msgstr ""
+
+#: po/rc.cpp:958 rc.cpp:958
+msgctxt "Forecast description"
+msgid "then clearing"
+msgstr ""
+
+#: po/rc.cpp:959 rc.cpp:959
+#, fuzzy
+msgctxt "Forecast description"
+msgid "then clouds"
+msgstr "weer berou"
+
+#: po/rc.cpp:960 rc.cpp:960
+#, fuzzy
+msgctxt "Forecast description"
+msgid "then cloudy"
+msgstr "weer berou"
+
+#: po/rc.cpp:961 rc.cpp:961
+#, fuzzy
+msgctxt "Forecast description"
+msgid "then downpours"
+msgstr "weer berou"
+
+#: po/rc.cpp:962 rc.cpp:962
+#, fuzzy
+msgctxt "Forecast description"
+msgid "then flurries"
+msgstr "weer berou"
+
+#: po/rc.cpp:963 rc.cpp:963
+#, fuzzy
+msgctxt "Forecast description"
+msgid "then rain"
+msgstr "son"
+
+#: po/rc.cpp:964 rc.cpp:964
+#, fuzzy
+msgctxt "Forecast description"
+msgid "then showers"
+msgstr "weer berou"
+
+#: po/rc.cpp:965 rc.cpp:965
+msgctxt "Forecast description"
+msgid "then snow"
+msgstr ""
+
+#: po/rc.cpp:966 rc.cpp:966
+#, fuzzy
+msgctxt "Forecast description"
+msgid "then snow early"
+msgstr "weer berou"
+
+#: po/rc.cpp:967 rc.cpp:967
+msgctxt "Forecast description"
+msgid "then some sun"
+msgstr ""
+
+#: po/rc.cpp:968 rc.cpp:968
+#, fuzzy
+msgctxt "Forecast description"
+msgid "then sun"
+msgstr "son"
+
+#: po/rc.cpp:969 rc.cpp:969
+#, fuzzy
+msgctxt "Forecast description"
+msgid "then sunny"
+msgstr "son"
+
+#: po/rc.cpp:970 rc.cpp:970
+#, fuzzy
+msgctxt "Forecast description"
+msgid "then sunshine"
+msgstr "son"
+
+#: po/rc.cpp:971 rc.cpp:971
+#, fuzzy
+msgctxt "Forecast description"
+msgid "then t-showers"
+msgstr "weer berou"
+
+#: po/rc.cpp:972 rc.cpp:972
+#, fuzzy
+msgctxt "Forecast description"
+msgid "then turning cloudy"
+msgstr "weer berou"
+
+#: po/rc.cpp:973 rc.cpp:973
+msgctxt "Forecast description"
+msgid "thickening clouds"
+msgstr ""
+
+#: po/rc.cpp:974 rc.cpp:974
+msgctxt "Forecast description"
+msgid "thunder"
+msgstr ""
+
+#: po/rc.cpp:975 rc.cpp:975
+#, fuzzy
+msgctxt "Forecast description"
+msgid "thundershower"
+msgstr "weer berou"
+
+#: po/rc.cpp:976 rc.cpp:976
+msgctxt "Forecast description"
+msgid "thundershowers"
+msgstr ""
+
+#: po/rc.cpp:977 rc.cpp:977
+#, fuzzy
+msgctxt "Forecast description"
+msgid "thundershowers in the morning"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:978 rc.cpp:978
+#, fuzzy
+msgctxt "Forecast description"
+msgid "thundershowers late"
+msgstr "weer berou"
+
+#: po/rc.cpp:979 rc.cpp:979
+msgctxt "Forecast description"
+msgid "thunderstorm"
+msgstr ""
+
+#: po/rc.cpp:980 rc.cpp:980
+msgctxt "Forecast description"
+msgid "thunderstorms"
+msgstr ""
+
+#: po/rc.cpp:981 rc.cpp:981
+#, fuzzy
+msgctxt "Forecast description"
+msgid "thunderstorms possible"
+msgstr "weer berou"
+
+#: po/rc.cpp:982 rc.cpp:982
+msgctxt "Forecast description"
+msgid "thundery rain"
+msgstr ""
+
+#: po/rc.cpp:983 rc.cpp:983
+msgctxt "Forecast description"
+msgid "thundery rain late"
+msgstr ""
+
+#: po/rc.cpp:984 rc.cpp:984
+msgctxt "Forecast description"
+msgid "times of clouds"
+msgstr ""
+
+#: po/rc.cpp:985 rc.cpp:985
+msgctxt "Forecast description"
+msgid "times of sun"
+msgstr ""
+
+#: po/rc.cpp:986 rc.cpp:986
+msgctxt "Forecast description"
+msgid "turning cloudy"
+msgstr ""
+
+#: po/rc.cpp:987 rc.cpp:987
+msgctxt "Forecast description"
+msgid "turning colder"
+msgstr ""
+
+#: po/rc.cpp:988 rc.cpp:988
+msgctxt "Forecast description"
+msgid "turning colder in the morning"
+msgstr ""
+
+#: po/rc.cpp:989 rc.cpp:989
+msgctxt "Forecast description"
+msgid "turning colder in the p.m."
+msgstr ""
+
+#: po/rc.cpp:990 rc.cpp:990
+msgctxt "Forecast description"
+msgid "turning colder this afternoon"
+msgstr ""
+
+#: po/rc.cpp:991 rc.cpp:991
+msgctxt "Forecast description"
+msgid "turning cooler"
+msgstr ""
+
+#: po/rc.cpp:992 rc.cpp:992
+#, fuzzy
+msgctxt "Forecast description"
+msgid "turning cooler in the p.m."
+msgstr "weer berou"
+
+#: po/rc.cpp:993 rc.cpp:993
+msgctxt "Forecast description"
+msgid "turning even colder"
+msgstr ""
+
+#: po/rc.cpp:994 rc.cpp:994
+msgctxt "Forecast description"
+msgid "turning out clear"
+msgstr ""
+
+#: po/rc.cpp:995 rc.cpp:995
+msgctxt "Forecast description"
+msgid "turning out cloudy"
+msgstr ""
+
+#: po/rc.cpp:996 rc.cpp:996
+msgctxt "Forecast description"
+msgid "turning sunny"
+msgstr ""
+
+#: po/rc.cpp:997 rc.cpp:997
+#, fuzzy
+msgctxt "Forecast description"
+msgid "unseasonably cold"
+msgstr "weer berou"
+
+#: po/rc.cpp:998 rc.cpp:998
+msgctxt "Forecast description"
+msgid "unseasonably hot"
+msgstr ""
+
+#: po/rc.cpp:999 rc.cpp:999
+msgctxt "Forecast description"
+msgid "variable cloudiness"
+msgstr ""
+
+#: po/rc.cpp:1000 rc.cpp:1000
+#, fuzzy
+msgctxt "Forecast description"
+msgid "variable clouds"
+msgstr "weer berou"
+
+#: po/rc.cpp:1001 rc.cpp:1001
+#, fuzzy
+msgctxt "Forecast description"
+msgid "variably cloudy"
+msgstr "weer berou"
+
+#: po/rc.cpp:1002 rc.cpp:1002
+msgctxt "Forecast description"
+msgid "very cold"
+msgstr ""
+
+#: po/rc.cpp:1003 rc.cpp:1003
+msgctxt "Forecast description"
+msgid "very cold in the afternoon"
+msgstr ""
+
+#: po/rc.cpp:1004 rc.cpp:1004
+msgctxt "Forecast description"
+msgid "very cold late"
+msgstr ""
+
+#: po/rc.cpp:1005 rc.cpp:1005
+msgctxt "Forecast description"
+msgid "very hot"
+msgstr ""
+
+#: po/rc.cpp:1006 rc.cpp:1006
+msgctxt "Forecast description"
+msgid "very humid"
+msgstr ""
+
+#: po/rc.cpp:1007 rc.cpp:1007
+msgctxt "Forecast description"
+msgid "very warm"
+msgstr ""
+
+#: po/rc.cpp:1008 rc.cpp:1008
+msgctxt "Forecast description"
+msgid "very windy"
+msgstr ""
+
+#: po/rc.cpp:1009 rc.cpp:1009
+msgctxt "Forecast description"
+msgid "very windy in the afternoon"
+msgstr ""
+
+#: po/rc.cpp:1010 rc.cpp:1010
+#, fuzzy
+msgctxt "Forecast description"
+msgid "very windy in the evening"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:1011 rc.cpp:1011
+#, fuzzy
+msgctxt "Forecast description"
+msgid "very windy this evening"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:1012 rc.cpp:1012
+msgctxt "Forecast description"
+msgid "warm"
+msgstr ""
+
+#: po/rc.cpp:1013 rc.cpp:1013
+msgctxt "Forecast description"
+msgid "warmer"
+msgstr ""
+
+#: po/rc.cpp:1014 rc.cpp:1014
+#, fuzzy
+msgctxt "Forecast description"
+msgid "warmer late"
+msgstr "son"
+
+#: po/rc.cpp:1015 rc.cpp:1015
+msgctxt "Forecast description"
+msgid "watch for ice early"
+msgstr ""
+
+#: po/rc.cpp:1016 rc.cpp:1016
+msgctxt "Forecast description"
+msgid "watch for ice late"
+msgstr ""
+
+#: po/rc.cpp:1017 rc.cpp:1017
+msgctxt "Forecast description"
+msgid "watch for strong thunderstorms"
+msgstr ""
+
+#: po/rc.cpp:1018 rc.cpp:1018
+msgctxt "Forecast description"
+msgid "wet snow"
+msgstr ""
+
+#: po/rc.cpp:1019 rc.cpp:1019
+msgctxt "Forecast description"
+msgid "wet snow early"
+msgstr ""
+
+#: po/rc.cpp:1020 rc.cpp:1020
+msgctxt "Forecast description"
+msgid "wet snow late"
+msgstr ""
+
+#: po/rc.cpp:1021 rc.cpp:1021
+msgctxt "Forecast description"
+msgid "winds gusting past 50 mph"
+msgstr ""
+
+#: po/rc.cpp:1022 rc.cpp:1022
+#, fuzzy
+msgctxt "Forecast description"
+msgid "windy"
+msgstr "Vind.."
+
+#: po/rc.cpp:1023 rc.cpp:1023
+msgctxt "Forecast description"
+msgid "windy early"
+msgstr ""
+
+#: po/rc.cpp:1024 rc.cpp:1024
+msgctxt "Forecast description"
+msgid "windy in the afternoon"
+msgstr ""
+
+#: po/rc.cpp:1025 rc.cpp:1025
+msgctxt "Forecast description"
+msgid "windy in the evening"
+msgstr ""
+
+#: po/rc.cpp:1026 rc.cpp:1026
+msgctxt "Forecast description"
+msgid "windy in the morning"
+msgstr ""
+
+#: po/rc.cpp:1027 rc.cpp:1027
+msgctxt "Forecast description"
+msgid "windy in the p.m."
+msgstr ""
+
+#: po/rc.cpp:1028 rc.cpp:1028
+msgctxt "Forecast description"
+msgid "windy late"
+msgstr ""
+
+#: po/rc.cpp:1029 rc.cpp:1029
+#, fuzzy
+msgctxt "Forecast description"
+msgid "windy this afternoon"
+msgstr "son"
+
+#: po/rc.cpp:1030 rc.cpp:1030
+#, fuzzy
+msgctxt "Forecast description"
+msgid "windy this evening"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:1031 rc.cpp:1031
+msgctxt "Forecast description"
+msgid "windy this morning"
+msgstr ""
+
+#: po/rc.cpp:1032 rc.cpp:1032
+msgctxt "Forecast description"
+msgid "with 2-4 inches of snow"
+msgstr ""
+
+#: po/rc.cpp:1033 rc.cpp:1033
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with a bit of ice"
+msgstr "son"
+
+#: po/rc.cpp:1034 rc.cpp:1034
+msgctxt "Forecast description"
+msgid "with a bit of ice late"
+msgstr ""
+
+#: po/rc.cpp:1035 rc.cpp:1035
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with a bit of rain"
+msgstr "son"
+
+#: po/rc.cpp:1036 rc.cpp:1036
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with a bit of rain late"
+msgstr "son"
+
+#: po/rc.cpp:1037 rc.cpp:1037
+msgctxt "Forecast description"
+msgid "with a bit of snow"
+msgstr ""
+
+#: po/rc.cpp:1038 rc.cpp:1038
+msgctxt "Forecast description"
+msgid "with a bit of snow late"
+msgstr ""
+
+#: po/rc.cpp:1039 rc.cpp:1039
+msgctxt "Forecast description"
+msgid "with a brief shower"
+msgstr ""
+
+#: po/rc.cpp:1040 rc.cpp:1040
+msgctxt "Forecast description"
+msgid "with a brief t-storm"
+msgstr ""
+
+#: po/rc.cpp:1041 rc.cpp:1041
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with a chance for snow"
+msgstr "son"
+
+#: po/rc.cpp:1042 rc.cpp:1042
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with a chance of rain"
+msgstr "son"
+
+#: po/rc.cpp:1043 rc.cpp:1043
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with a couple of showers"
+msgstr "weer berou"
+
+#: po/rc.cpp:1044 rc.cpp:1044
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with a few flakes"
+msgstr "son"
+
+#: po/rc.cpp:1045 rc.cpp:1045
+msgctxt "Forecast description"
+msgid "with a few flurries"
+msgstr ""
+
+#: po/rc.cpp:1046 rc.cpp:1046
+msgctxt "Forecast description"
+msgid "with a few showers"
+msgstr ""
+
+#: po/rc.cpp:1047 rc.cpp:1047
+msgctxt "Forecast description"
+msgid "with a few snowflakes"
+msgstr ""
+
+#: po/rc.cpp:1048 rc.cpp:1048
+msgctxt "Forecast description"
+msgid "with a flurry"
+msgstr ""
+
+#: po/rc.cpp:1049 rc.cpp:1049
+msgctxt "Forecast description"
+msgid "with a flurry late"
+msgstr ""
+
+#: po/rc.cpp:1050 rc.cpp:1050
+msgctxt "Forecast description"
+msgid "with a flurry or two"
+msgstr ""
+
+#: po/rc.cpp:1051 rc.cpp:1051
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with a gusty breeze"
+msgstr "weer berou"
+
+#: po/rc.cpp:1052 rc.cpp:1052
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with a heavy t-storm"
+msgstr "son"
+
+#: po/rc.cpp:1053 rc.cpp:1053
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with a little rain"
+msgstr "son"
+
+#: po/rc.cpp:1054 rc.cpp:1054
+msgctxt "Forecast description"
+msgid "with a little snow"
+msgstr ""
+
+#: po/rc.cpp:1055 rc.cpp:1055
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with a little snow late"
+msgstr "son"
+
+#: po/rc.cpp:1056 rc.cpp:1056
+msgctxt "Forecast description"
+msgid "with a moonlit sky"
+msgstr ""
+
+#: po/rc.cpp:1057 rc.cpp:1057
+msgctxt "Forecast description"
+msgid "with a passing flurry"
+msgstr ""
+
+#: po/rc.cpp:1058 rc.cpp:1058
+msgctxt "Forecast description"
+msgid "with a passing shower"
+msgstr ""
+
+#: po/rc.cpp:1059 rc.cpp:1059
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with a quick shower"
+msgstr "weer berou"
+
+#: po/rc.cpp:1060 rc.cpp:1060
+msgctxt "Forecast description"
+msgid "with a shower"
+msgstr ""
+
+#: po/rc.cpp:1061 rc.cpp:1061
+msgctxt "Forecast description"
+msgid "with a shower in places"
+msgstr ""
+
+#: po/rc.cpp:1062 rc.cpp:1062
+msgctxt "Forecast description"
+msgid "with a shower in spots"
+msgstr ""
+
+#: po/rc.cpp:1063 rc.cpp:1063
+msgctxt "Forecast description"
+msgid "with a shower late"
+msgstr ""
+
+#: po/rc.cpp:1064 rc.cpp:1064
+msgctxt "Forecast description"
+msgid "with a shower or two"
+msgstr ""
+
+#: po/rc.cpp:1065 rc.cpp:1065
+msgctxt "Forecast description"
+msgid "with a shower possible"
+msgstr ""
+
+#: po/rc.cpp:1066 rc.cpp:1066
+msgctxt "Forecast description"
+msgid "with a snow shower"
+msgstr ""
+
+#: po/rc.cpp:1067 rc.cpp:1067
+msgctxt "Forecast description"
+msgid "with a starlit sky"
+msgstr ""
+
+#: po/rc.cpp:1068 rc.cpp:1068
+msgctxt "Forecast description"
+msgid "with a stray flurry"
+msgstr ""
+
+#: po/rc.cpp:1069 rc.cpp:1069
+msgctxt "Forecast description"
+msgid "with a stray shower"
+msgstr ""
+
+#: po/rc.cpp:1070 rc.cpp:1070
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with a stray t-shower"
+msgstr "weer berou"
+
+#: po/rc.cpp:1071 rc.cpp:1071
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with a stray t-storm"
+msgstr "weer berou"
+
+#: po/rc.cpp:1072 rc.cpp:1072
+msgctxt "Forecast description"
+msgid "with a t-shower"
+msgstr ""
+
+#: po/rc.cpp:1073 rc.cpp:1073
+msgctxt "Forecast description"
+msgid "with a t-shower late"
+msgstr ""
+
+#: po/rc.cpp:1074 rc.cpp:1074
+msgctxt "Forecast description"
+msgid "with a t-storm"
+msgstr ""
+
+#: po/rc.cpp:1075 rc.cpp:1075
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with a t-storm in spots"
+msgstr "weer berou"
+
+#: po/rc.cpp:1076 rc.cpp:1076
+msgctxt "Forecast description"
+msgid "with a t-storm or two"
+msgstr ""
+
+#: po/rc.cpp:1077 rc.cpp:1077
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with a t-storm possible"
+msgstr "son"
+
+#: po/rc.cpp:1078 rc.cpp:1078
+msgctxt "Forecast description"
+msgid "with a thundershower"
+msgstr ""
+
+#: po/rc.cpp:1079 rc.cpp:1079
+msgctxt "Forecast description"
+msgid "with a thunderstorm"
+msgstr ""
+
+#: po/rc.cpp:1080 rc.cpp:1080
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with a touch of rain"
+msgstr "son"
+
+#: po/rc.cpp:1081 rc.cpp:1081
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with a wintry mix"
+msgstr "son"
+
+#: po/rc.cpp:1082 rc.cpp:1082
+msgctxt "Forecast description"
+msgid "with abundant sunshine"
+msgstr ""
+
+#: po/rc.cpp:1083 rc.cpp:1083
+msgctxt "Forecast description"
+msgid "with afternoon rain"
+msgstr ""
+
+#: po/rc.cpp:1084 rc.cpp:1084
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with afternoon showers"
+msgstr "weer berou"
+
+#: po/rc.cpp:1085 rc.cpp:1085
+msgctxt "Forecast description"
+msgid "with afternoon snow"
+msgstr ""
+
+#: po/rc.cpp:1086 rc.cpp:1086
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with an icy mix"
+msgstr "son"
+
+#: po/rc.cpp:1087 rc.cpp:1087
+msgctxt "Forecast description"
+msgid "with areas of fog"
+msgstr ""
+
+#: po/rc.cpp:1088 rc.cpp:1088
+msgctxt "Forecast description"
+msgid "with areas of low clouds"
+msgstr ""
+
+#: po/rc.cpp:1089 rc.cpp:1089
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with blazing sunshine"
+msgstr "son"
+
+#: po/rc.cpp:1090 rc.cpp:1090
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with blowing snow"
+msgstr "weer berou"
+
+#: po/rc.cpp:1091 rc.cpp:1091
+msgctxt "Forecast description"
+msgid "with bright sunshine"
+msgstr ""
+
+#: po/rc.cpp:1092 rc.cpp:1092
+msgctxt "Forecast description"
+msgid "with brilliant sunshine"
+msgstr ""
+
+#: po/rc.cpp:1093 rc.cpp:1093
+msgctxt "Forecast description"
+msgid "with clearing"
+msgstr ""
+
+#: po/rc.cpp:1094 rc.cpp:1094
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with clouds"
+msgstr "weer berou"
+
+#: po/rc.cpp:1095 rc.cpp:1095
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with clouds limiting sun"
+msgstr "weer berou"
+
+#: po/rc.cpp:1096 rc.cpp:1096
+msgctxt "Forecast description"
+msgid "with considerable clouds"
+msgstr ""
+
+#: po/rc.cpp:1097 rc.cpp:1097
+msgctxt "Forecast description"
+msgid "with decreasing clouds"
+msgstr ""
+
+#: po/rc.cpp:1098 rc.cpp:1098
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with downpours"
+msgstr "weer berou"
+
+#: po/rc.cpp:1099 rc.cpp:1099
+msgctxt "Forecast description"
+msgid "with episodes of sunshine"
+msgstr ""
+
+#: po/rc.cpp:1100 rc.cpp:1100
+msgctxt "Forecast description"
+msgid "with fluffy snow"
+msgstr ""
+
+#: po/rc.cpp:1101 rc.cpp:1101
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with fluffy snow late"
+msgstr "son"
+
+#: po/rc.cpp:1102 rc.cpp:1102
+msgctxt "Forecast description"
+msgid "with flurries"
+msgstr ""
+
+#: po/rc.cpp:1103 rc.cpp:1103
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with flurries late"
+msgstr "weer berou"
+
+#: po/rc.cpp:1104 rc.cpp:1104
+msgctxt "Forecast description"
+msgid "with fog"
+msgstr ""
+
+#: po/rc.cpp:1105 rc.cpp:1105
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with freezing fog"
+msgstr "son"
+
+#: po/rc.cpp:1106 rc.cpp:1106
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with hazy sun"
+msgstr "son"
+
+#: po/rc.cpp:1107 rc.cpp:1107
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with hazy sunshine"
+msgstr "son"
+
+#: po/rc.cpp:1108 rc.cpp:1108
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with heavy rain"
+msgstr "son"
+
+#: po/rc.cpp:1109 rc.cpp:1109
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with heavy showers"
+msgstr "weer berou"
+
+#: po/rc.cpp:1110 rc.cpp:1110
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with high clouds"
+msgstr "weer berou"
+
+#: po/rc.cpp:1111 rc.cpp:1111
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with increasing cloudiness"
+msgstr "weer berou"
+
+#: po/rc.cpp:1112 rc.cpp:1112
+msgctxt "Forecast description"
+msgid "with increasing clouds"
+msgstr ""
+
+#: po/rc.cpp:1113 rc.cpp:1113
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with intermittent snow"
+msgstr "son"
+
+#: po/rc.cpp:1114 rc.cpp:1114
+msgctxt "Forecast description"
+msgid "with late-night rain"
+msgstr ""
+
+#: po/rc.cpp:1115 rc.cpp:1115
+msgctxt "Forecast description"
+msgid "with late-night snow"
+msgstr ""
+
+#: po/rc.cpp:1116 rc.cpp:1116
+msgctxt "Forecast description"
+msgid "with low clouds"
+msgstr ""
+
+#: po/rc.cpp:1117 rc.cpp:1117
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with low clouds breaking"
+msgstr "weer berou"
+
+#: po/rc.cpp:1118 rc.cpp:1118
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with more clouds than sun"
+msgstr "weer berou"
+
+#: po/rc.cpp:1119 rc.cpp:1119
+msgctxt "Forecast description"
+msgid "with occasional rain"
+msgstr ""
+
+#: po/rc.cpp:1120 rc.cpp:1120
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with occasional snow"
+msgstr "weer berou"
+
+#: po/rc.cpp:1121 rc.cpp:1121
+msgctxt "Forecast description"
+msgid "with on-and-off snow"
+msgstr ""
+
+#: po/rc.cpp:1122 rc.cpp:1122
+msgctxt "Forecast description"
+msgid "with partial sunshine"
+msgstr ""
+
+#: po/rc.cpp:1123 rc.cpp:1123
+msgctxt "Forecast description"
+msgid "with patchy clouds"
+msgstr ""
+
+#: po/rc.cpp:1124 rc.cpp:1124
+msgctxt "Forecast description"
+msgid "with periods of rain"
+msgstr ""
+
+#: po/rc.cpp:1125 rc.cpp:1125
+msgctxt "Forecast description"
+msgid "with periods of snow"
+msgstr ""
+
+#: po/rc.cpp:1126 rc.cpp:1126
+msgctxt "Forecast description"
+msgid "with periods of sun"
+msgstr ""
+
+#: po/rc.cpp:1127 rc.cpp:1127
+msgctxt "Forecast description"
+msgid "with plenty of clouds"
+msgstr ""
+
+#: po/rc.cpp:1128 rc.cpp:1128
+msgctxt "Forecast description"
+msgid "with plenty of sun"
+msgstr ""
+
+#: po/rc.cpp:1129 rc.cpp:1129
+msgctxt "Forecast description"
+msgid "with plenty of sunshine"
+msgstr ""
+
+#: po/rc.cpp:1130 rc.cpp:1130
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with rain"
+msgstr "son"
+
+#: po/rc.cpp:1131 rc.cpp:1131
+msgctxt "Forecast description"
+msgid "with rain at times"
+msgstr ""
+
+#: po/rc.cpp:1132 rc.cpp:1132
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with rain beginning"
+msgstr "son"
+
+#: po/rc.cpp:1133 rc.cpp:1133
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with rain in the morning"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:1134 rc.cpp:1134
+msgctxt "Forecast description"
+msgid "with rain late"
+msgstr ""
+
+#: po/rc.cpp:1135 rc.cpp:1135
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with rain possible"
+msgstr "weer berou"
+
+#: po/rc.cpp:1136 rc.cpp:1136
+msgctxt "Forecast description"
+msgid "with rain tapering off"
+msgstr ""
+
+#: po/rc.cpp:1137 rc.cpp:1137
+msgctxt "Forecast description"
+msgid "with rising temperatures"
+msgstr ""
+
+#: po/rc.cpp:1138 rc.cpp:1138
+msgctxt "Forecast description"
+msgid "with showers"
+msgstr ""
+
+#: po/rc.cpp:1139 rc.cpp:1139
+msgctxt "Forecast description"
+msgid "with showers around"
+msgstr ""
+
+#: po/rc.cpp:1140 rc.cpp:1140
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with showers around late"
+msgstr "Gebruik tema agtergrond"
+
+#: po/rc.cpp:1141 rc.cpp:1141
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with showers possible"
+msgstr "son"
+
+#: po/rc.cpp:1142 rc.cpp:1142
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with sizzling sunshine"
+msgstr "son"
+
+#: po/rc.cpp:1143 rc.cpp:1143
+msgctxt "Forecast description"
+msgid "with snow"
+msgstr ""
+
+#: po/rc.cpp:1144 rc.cpp:1144
+msgctxt "Forecast description"
+msgid "with snow at times"
+msgstr ""
+
+#: po/rc.cpp:1145 rc.cpp:1145
+msgctxt "Forecast description"
+msgid "with snow early"
+msgstr ""
+
+#: po/rc.cpp:1146 rc.cpp:1146
+msgctxt "Forecast description"
+msgid "with snow flurries"
+msgstr ""
+
+#: po/rc.cpp:1147 rc.cpp:1147
+msgctxt "Forecast description"
+msgid "with snow late"
+msgstr ""
+
+#: po/rc.cpp:1148 rc.cpp:1148
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with snow possible"
+msgstr "son"
+
+#: po/rc.cpp:1149 rc.cpp:1149
+msgctxt "Forecast description"
+msgid "with snow showers"
+msgstr ""
+
+#: po/rc.cpp:1150 rc.cpp:1150
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with snow tapering off"
+msgstr "weer berou"
+
+#: po/rc.cpp:1151 rc.cpp:1151
+msgctxt "Forecast description"
+msgid "with some brightening"
+msgstr ""
+
+#: po/rc.cpp:1152 rc.cpp:1152
+msgctxt "Forecast description"
+msgid "with some fog"
+msgstr ""
+
+#: po/rc.cpp:1153 rc.cpp:1153
+msgctxt "Forecast description"
+msgid "with some sun"
+msgstr ""
+
+#: po/rc.cpp:1154 rc.cpp:1154
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with some sunshine"
+msgstr "son"
+
+#: po/rc.cpp:1155 rc.cpp:1155
+msgctxt "Forecast description"
+msgid "with spotty showers"
+msgstr ""
+
+#: po/rc.cpp:1156 rc.cpp:1156
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with spotty showers late"
+msgstr "son"
+
+#: po/rc.cpp:1157 rc.cpp:1157
+msgctxt "Forecast description"
+msgid "with sun"
+msgstr ""
+
+#: po/rc.cpp:1158 rc.cpp:1158
+msgctxt "Forecast description"
+msgid "with sunny intervals"
+msgstr ""
+
+#: po/rc.cpp:1159 rc.cpp:1159
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with sunshine"
+msgstr "son"
+
+#: po/rc.cpp:1160 rc.cpp:1160
+msgctxt "Forecast description"
+msgid "with t-showers"
+msgstr ""
+
+#: po/rc.cpp:1161 rc.cpp:1161
+msgctxt "Forecast description"
+msgid "with t-showers late"
+msgstr ""
+
+#: po/rc.cpp:1162 rc.cpp:1162
+msgctxt "Forecast description"
+msgid "with t-storms"
+msgstr ""
+
+#: po/rc.cpp:1163 rc.cpp:1163
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with t-storms possible"
+msgstr "son"
+
+#: po/rc.cpp:1164 rc.cpp:1164
+msgctxt "Forecast description"
+msgid "with thickening clouds"
+msgstr ""
+
+#: po/rc.cpp:1165 rc.cpp:1165
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with thundershowers"
+msgstr "weer berou"
+
+#: po/rc.cpp:1166 rc.cpp:1166
+msgctxt "Forecast description"
+msgid "with thunderstorms"
+msgstr ""
+
+#: po/rc.cpp:1167 rc.cpp:1167
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with times of rain"
+msgstr "son"
+
+#: po/rc.cpp:1168 rc.cpp:1168
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with variable cloudiness"
+msgstr "weer berou"
+
+#: po/rc.cpp:1169 rc.cpp:1169
+#, fuzzy
+msgctxt "Forecast description"
+msgid "with variable clouds"
+msgstr "weer berou"
+
+#: po/rc.cpp:1170 rc.cpp:1170
+msgctxt "Forecast description"
+msgid "with wet snow"
+msgstr ""
+
+#: po/rc.cpp:1171 rc.cpp:1171
+msgctxt "Forecast description"
+msgid "with wet snow late"
+msgstr ""
+
+#: po/rc.cpp:1172 rc.cpp:1172
+msgctxt "Wind direction"
+msgid "CLM"
+msgstr ""
+
+#: po/rc.cpp:1173 rc.cpp:1173
+msgctxt "Wind direction"
+msgid "S"
+msgstr ""
+
+#: po/rc.cpp:1174 rc.cpp:1174
+msgctxt "Wind direction"
+msgid "N"
+msgstr ""
+
+#: po/rc.cpp:1175 rc.cpp:1175
+msgctxt "Wind direction"
+msgid "W"
+msgstr ""
+
+#: po/rc.cpp:1176 rc.cpp:1176
+msgctxt "Wind direction"
+msgid "E"
+msgstr ""
+
+#: po/rc.cpp:1177 rc.cpp:1177
+msgctxt "Wind direction"
+msgid "SE"
+msgstr ""
+
+#: po/rc.cpp:1178 rc.cpp:1178
+msgctxt "Wind direction"
+msgid "NE"
+msgstr ""
+
+#: po/rc.cpp:1179 rc.cpp:1179
+msgctxt "Wind direction"
+msgid "SW"
+msgstr ""
+
+#: po/rc.cpp:1180 rc.cpp:1180
+msgctxt "Wind direction"
+msgid "NW"
+msgstr ""
+
+#: po/rc.cpp:1181 rc.cpp:1181
+msgctxt "Wind direction"
+msgid "WSW"
+msgstr ""
+
+#: po/rc.cpp:1182 rc.cpp:1182
+msgctxt "Wind direction"
+msgid "WWS"
+msgstr ""
+
+#: po/rc.cpp:1183 rc.cpp:1183
+msgctxt "Wind direction"
+msgid "WNW"
+msgstr ""
+
+#: po/rc.cpp:1184 rc.cpp:1184
+msgctxt "Wind direction"
+msgid "WWN"
+msgstr ""
+
+#: po/rc.cpp:1185 rc.cpp:1185
+msgctxt "Wind direction"
+msgid "ESE"
+msgstr ""
+
+#: po/rc.cpp:1186 rc.cpp:1186
+msgctxt "Wind direction"
+msgid "EES"
+msgstr ""
+
+#: po/rc.cpp:1187 rc.cpp:1187
+msgctxt "Wind direction"
+msgid "ENE"
+msgstr ""
+
+#: po/rc.cpp:1188 rc.cpp:1188
+msgctxt "Wind direction"
+msgid "EEN"
+msgstr ""
+
+#: po/rc.cpp:1189 rc.cpp:1189
+msgctxt "Wind direction"
+msgid "SSE"
+msgstr ""
+
+#: po/rc.cpp:1190 rc.cpp:1190
+msgctxt "Wind direction"
+msgid "NNE"
+msgstr ""
+
+#: po/rc.cpp:1191 rc.cpp:1191
+msgctxt "Wind direction"
+msgid "SSW"
+msgstr ""
+
+#: po/rc.cpp:1192 rc.cpp:1192
+msgctxt "Wind direction"
+msgid "NNW"
+msgstr ""
+
+#: po/rc.cpp:1193 rc.cpp:1193
+msgctxt "Country or state"
+msgid "Afghanistan"
+msgstr ""
+
+#: po/rc.cpp:1194 rc.cpp:1194
+msgctxt "Country or state"
+msgid "Aland Islands"
+msgstr ""
+
+#: po/rc.cpp:1195 rc.cpp:1195
+msgctxt "Country or state"
+msgid "Albania"
+msgstr ""
+
+#: po/rc.cpp:1196 rc.cpp:1196
+msgctxt "Country or state"
+msgid "Algeria"
+msgstr ""
+
+#: po/rc.cpp:1197 rc.cpp:1197
+msgctxt "Country or state"
+msgid "American Samoa"
+msgstr ""
+
+#: po/rc.cpp:1198 rc.cpp:1198
+msgctxt "Country or state"
+msgid "Andorra"
+msgstr ""
+
+#: po/rc.cpp:1199 rc.cpp:1199
+msgctxt "Country or state"
+msgid "Angola"
+msgstr ""
+
+#: po/rc.cpp:1200 rc.cpp:1200
+msgctxt "Country or state"
+msgid "Anguilla"
+msgstr ""
+
+#: po/rc.cpp:1201 rc.cpp:1201
+msgctxt "Country or state"
+msgid "Antarctica"
+msgstr ""
+
+#: po/rc.cpp:1202 rc.cpp:1202
+msgctxt "Country or state"
+msgid "Antigua And Barbuda"
+msgstr ""
+
+#: po/rc.cpp:1203 rc.cpp:1203
+msgctxt "Country or state"
+msgid "Argentina"
+msgstr ""
+
+#: po/rc.cpp:1204 rc.cpp:1204
+msgctxt "Country or state"
+msgid "Armenia"
+msgstr ""
+
+#: po/rc.cpp:1205 rc.cpp:1205
+msgctxt "Country or state"
+msgid "Aruba"
+msgstr ""
+
+#: po/rc.cpp:1206 rc.cpp:1206
+msgctxt "Country or state"
+msgid "Australia"
+msgstr ""
+
+#: po/rc.cpp:1207 rc.cpp:1207
+msgctxt "Country or state"
+msgid "Austria"
+msgstr ""
+
+#: po/rc.cpp:1208 rc.cpp:1208
+msgctxt "Country or state"
+msgid "Azerbaijan"
+msgstr ""
+
+#: po/rc.cpp:1209 rc.cpp:1209
+msgctxt "Country or state"
+msgid "Bahamas"
+msgstr ""
+
+#: po/rc.cpp:1210 rc.cpp:1210
+msgctxt "Country or state"
+msgid "Bahrain"
+msgstr ""
+
+#: po/rc.cpp:1211 rc.cpp:1211
+msgctxt "Country or state"
+msgid "Bangladesh"
+msgstr ""
+
+#: po/rc.cpp:1212 rc.cpp:1212
+msgctxt "Country or state"
+msgid "Barbados"
+msgstr ""
+
+#: po/rc.cpp:1213 rc.cpp:1213
+msgctxt "Country or state"
+msgid "Belarus"
+msgstr ""
+
+#: po/rc.cpp:1214 rc.cpp:1214
+msgctxt "Country or state"
+msgid "Belgium"
+msgstr ""
+
+#: po/rc.cpp:1215 rc.cpp:1215
+msgctxt "Country or state"
+msgid "Belize"
+msgstr ""
+
+#: po/rc.cpp:1216 rc.cpp:1216
+msgctxt "Country or state"
+msgid "Benin"
+msgstr ""
+
+#: po/rc.cpp:1217 rc.cpp:1217
+msgctxt "Country or state"
+msgid "Bermuda"
+msgstr ""
+
+#: po/rc.cpp:1218 rc.cpp:1218
+msgctxt "Country or state"
+msgid "Bhutan"
+msgstr ""
+
+#: po/rc.cpp:1219 rc.cpp:1219
+msgctxt "Country or state"
+msgid "Bolivia"
+msgstr ""
+
+#: po/rc.cpp:1220 rc.cpp:1220
+msgctxt "Country or state"
+msgid "Bosnia And Herzegovina"
+msgstr ""
+
+#: po/rc.cpp:1221 rc.cpp:1221
+msgctxt "Country or state"
+msgid "Botswana"
+msgstr ""
+
+#: po/rc.cpp:1222 rc.cpp:1222
+msgctxt "Country or state"
+msgid "Bouvet Island"
+msgstr ""
+
+#: po/rc.cpp:1223 rc.cpp:1223
+msgctxt "Country or state"
+msgid "Brazil"
+msgstr ""
+
+#: po/rc.cpp:1224 rc.cpp:1224
+msgctxt "Country or state"
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: po/rc.cpp:1225 rc.cpp:1225
+msgctxt "Country or state"
+msgid "Brunei Darussalam"
+msgstr ""
+
+#: po/rc.cpp:1226 rc.cpp:1226
+msgctxt "Country or state"
+msgid "Bulgaria"
+msgstr ""
+
+#: po/rc.cpp:1227 rc.cpp:1227
+msgctxt "Country or state"
+msgid "Burkina Faso"
+msgstr ""
+
+#: po/rc.cpp:1228 rc.cpp:1228
+msgctxt "Country or state"
+msgid "Burma/myanmar"
+msgstr ""
+
+#: po/rc.cpp:1229 rc.cpp:1229
+msgctxt "Country or state"
+msgid "Burundi"
+msgstr ""
+
+#: po/rc.cpp:1230 rc.cpp:1230
+msgctxt "Country or state"
+msgid "Cambodia"
+msgstr ""
+
+#: po/rc.cpp:1231 rc.cpp:1231
+msgctxt "Country or state"
+msgid "Cameroon"
+msgstr ""
+
+#: po/rc.cpp:1232 rc.cpp:1232
+msgctxt "Country or state"
+msgid "Canada"
+msgstr ""
+
+#: po/rc.cpp:1233 rc.cpp:1233
+msgctxt "Country or state"
+msgid "Cape Verde"
+msgstr ""
+
+#: po/rc.cpp:1234 rc.cpp:1234
+msgctxt "Country or state"
+msgid "Cayman Islands"
+msgstr ""
+
+#: po/rc.cpp:1235 rc.cpp:1235
+msgctxt "Country or state"
+msgid "Central African Republic"
+msgstr ""
+
+#: po/rc.cpp:1236 rc.cpp:1236
+msgctxt "Country or state"
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: po/rc.cpp:1237 rc.cpp:1237
+msgctxt "Country or state"
+msgid "Colombia"
+msgstr ""
+
+#: po/rc.cpp:1238 rc.cpp:1238
+msgctxt "Country or state"
+msgid "Comoros"
+msgstr ""
+
+#: po/rc.cpp:1239 rc.cpp:1239
+msgctxt "Country or state"
+msgid "Congo"
+msgstr ""
+
+#: po/rc.cpp:1240 rc.cpp:1240
+msgctxt "Country or state"
+msgid "Cook Islands"
+msgstr ""
+
+#: po/rc.cpp:1241 rc.cpp:1241
+msgctxt "Country or state"
+msgid "Costa Rica"
+msgstr ""
+
+#: po/rc.cpp:1242 rc.cpp:1242
+msgctxt "Country or state"
+msgid "Cote D'Ivoire"
+msgstr ""
+
+#: po/rc.cpp:1243 rc.cpp:1243
+msgctxt "Country or state"
+msgid "Croatia"
+msgstr ""
+
+#: po/rc.cpp:1244 rc.cpp:1244
+msgctxt "Country or state"
+msgid "Cuba"
+msgstr ""
+
+#: po/rc.cpp:1245 rc.cpp:1245
+msgctxt "Country or state"
+msgid "Cyprus"
+msgstr ""
+
+#: po/rc.cpp:1246 rc.cpp:1246
+msgctxt "Country or state"
+msgid "Czech Republic"
+msgstr ""
+
+#: po/rc.cpp:1247 rc.cpp:1247
+msgctxt "Country or state"
+msgid "Denmark"
+msgstr ""
+
+#: po/rc.cpp:1248 rc.cpp:1248
+msgctxt "Country or state"
+msgid "Djibouti"
+msgstr ""
+
+#: po/rc.cpp:1249 rc.cpp:1249
+msgctxt "Country or state"
+msgid "Dominica"
+msgstr ""
+
+#: po/rc.cpp:1250 rc.cpp:1250
+msgctxt "Country or state"
+msgid "Dominican Republic"
+msgstr ""
+
+#: po/rc.cpp:1251 rc.cpp:1251
+msgctxt "Country or state"
+msgid "East Timor"
+msgstr ""
+
+#: po/rc.cpp:1252 rc.cpp:1252
+msgctxt "Country or state"
+msgid "Ecuador"
+msgstr ""
+
+#: po/rc.cpp:1253 rc.cpp:1253
+msgctxt "Country or state"
+msgid "Egypt"
+msgstr ""
+
+#: po/rc.cpp:1254 rc.cpp:1254
+msgctxt "Country or state"
+msgid "El Salvador"
+msgstr ""
+
+#: po/rc.cpp:1255 rc.cpp:1255
+msgctxt "Country or state"
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: po/rc.cpp:1256 rc.cpp:1256
+msgctxt "Country or state"
+msgid "Eritrea"
+msgstr ""
+
+#: po/rc.cpp:1257 rc.cpp:1257
+msgctxt "Country or state"
+msgid "Estonia"
+msgstr ""
+
+#: po/rc.cpp:1258 rc.cpp:1258
+msgctxt "Country or state"
+msgid "Ethiopia"
+msgstr ""
+
+#: po/rc.cpp:1259 rc.cpp:1259
+msgctxt "Country or state"
+msgid "Falkland Islands"
+msgstr ""
+
+#: po/rc.cpp:1260 rc.cpp:1260
+msgctxt "Country or state"
+msgid "Faroe Islands"
+msgstr ""
+
+#: po/rc.cpp:1261 rc.cpp:1261
+msgctxt "Country or state"
+msgid "Fiji"
+msgstr ""
+
+#: po/rc.cpp:1262 rc.cpp:1262
+#, fuzzy
+msgctxt "Country or state"
+msgid "Finland"
+msgstr "Vind.."
+
+#: po/rc.cpp:1263 rc.cpp:1263
+msgctxt "Country or state"
+msgid "France"
+msgstr ""
+
+#: po/rc.cpp:1264 rc.cpp:1264
+msgctxt "Country or state"
+msgid "French Guiana"
+msgstr ""
+
+#: po/rc.cpp:1265 rc.cpp:1265
+msgctxt "Country or state"
+msgid "French Polynesia"
+msgstr ""
+
+#: po/rc.cpp:1266 rc.cpp:1266
+msgctxt "Country or state"
+msgid "French Southern Territories"
+msgstr ""
+
+#: po/rc.cpp:1267 rc.cpp:1267
+msgctxt "Country or state"
+msgid "Gabon"
+msgstr ""
+
+#: po/rc.cpp:1268 rc.cpp:1268
+msgctxt "Country or state"
+msgid "Gambia"
+msgstr ""
+
+#: po/rc.cpp:1269 rc.cpp:1269
+msgctxt "Country or state"
+msgid "Georgia"
+msgstr ""
+
+#: po/rc.cpp:1270 rc.cpp:1270
+msgctxt "Country or state"
+msgid "Germany"
+msgstr ""
+
+#: po/rc.cpp:1271 rc.cpp:1271
+msgctxt "Country or state"
+msgid "Ghana"
+msgstr ""
+
+#: po/rc.cpp:1272 rc.cpp:1272
+msgctxt "Country or state"
+msgid "Gibraltar"
+msgstr ""
+
+#: po/rc.cpp:1273 rc.cpp:1273
+msgctxt "Country or state"
+msgid "Greece"
+msgstr ""
+
+#: po/rc.cpp:1274 rc.cpp:1274
+#, fuzzy
+msgctxt "Country or state"
+msgid "Greenland"
+msgstr "Vind.."
+
+#: po/rc.cpp:1275 rc.cpp:1275
+msgctxt "Country or state"
+msgid "Grenada"
+msgstr ""
+
+#: po/rc.cpp:1276 rc.cpp:1276
+msgctxt "Country or state"
+msgid "Guadeloupe"
+msgstr ""
+
+#: po/rc.cpp:1277 rc.cpp:1277
+msgctxt "Country or state"
+msgid "Guam"
+msgstr ""
+
+#: po/rc.cpp:1278 rc.cpp:1278
+msgctxt "Country or state"
+msgid "Guatemala"
+msgstr ""
+
+#: po/rc.cpp:1279 rc.cpp:1279
+msgctxt "Country or state"
+msgid "Guernsey"
+msgstr ""
+
+#: po/rc.cpp:1280 rc.cpp:1280
+msgctxt "Country or state"
+msgid "Guinea"
+msgstr ""
+
+#: po/rc.cpp:1281 rc.cpp:1281
+msgctxt "Country or state"
+msgid "Guyana"
+msgstr ""
+
+#: po/rc.cpp:1282 rc.cpp:1282
+msgctxt "Country or state"
+msgid "Haiti"
+msgstr ""
+
+#: po/rc.cpp:1283 rc.cpp:1283
+msgctxt "Country or state"
+msgid "Heard Island And Mcdonald Islands"
+msgstr ""
+
+#: po/rc.cpp:1284 rc.cpp:1284
+msgctxt "Country or state"
+msgid "Honduras"
+msgstr ""
+
+#: po/rc.cpp:1285 rc.cpp:1285
+msgctxt "Country or state"
+msgid "Hong Kong"
+msgstr ""
+
+#: po/rc.cpp:1286 rc.cpp:1286
+msgctxt "Country or state"
+msgid "Hungary"
+msgstr ""
+
+#: po/rc.cpp:1287 rc.cpp:1287
+msgctxt "Country or state"
+msgid "Chad"
+msgstr ""
+
+#: po/rc.cpp:1288 rc.cpp:1288
+msgctxt "Country or state"
+msgid "Chile"
+msgstr ""
+
+#: po/rc.cpp:1289 rc.cpp:1289
+msgctxt "Country or state"
+msgid "China"
+msgstr ""
+
+#: po/rc.cpp:1290 rc.cpp:1290
+msgctxt "Country or state"
+msgid "Christmas Island"
+msgstr ""
+
+#: po/rc.cpp:1291 rc.cpp:1291
+msgctxt "Country or state"
+msgid "Iceland"
+msgstr ""
+
+#: po/rc.cpp:1292 rc.cpp:1292
+msgctxt "Country or state"
+msgid "India"
+msgstr ""
+
+#: po/rc.cpp:1293 rc.cpp:1293
+msgctxt "Country or state"
+msgid "Indonesia"
+msgstr ""
+
+#: po/rc.cpp:1294 rc.cpp:1294
+msgctxt "Country or state"
+msgid "Iran"
+msgstr ""
+
+#: po/rc.cpp:1295 rc.cpp:1295
+msgctxt "Country or state"
+msgid "Iraq"
+msgstr ""
+
+#: po/rc.cpp:1296 rc.cpp:1296
+msgctxt "Country or state"
+msgid "Ireland"
+msgstr ""
+
+#: po/rc.cpp:1297 rc.cpp:1297
+msgctxt "Country or state"
+msgid "Isle Of Man"
+msgstr ""
+
+#: po/rc.cpp:1298 rc.cpp:1298
+msgctxt "Country or state"
+msgid "Israel"
+msgstr ""
+
+#: po/rc.cpp:1299 rc.cpp:1299
+msgctxt "Country or state"
+msgid "Italy"
+msgstr ""
+
+#: po/rc.cpp:1300 rc.cpp:1300
+msgctxt "Country or state"
+msgid "Jamaica"
+msgstr ""
+
+#: po/rc.cpp:1301 rc.cpp:1301
+msgctxt "Country or state"
+msgid "Japan"
+msgstr ""
+
+#: po/rc.cpp:1302 rc.cpp:1302
+msgctxt "Country or state"
+msgid "Jersey"
+msgstr ""
+
+#: po/rc.cpp:1303 rc.cpp:1303
+msgctxt "Country or state"
+msgid "Jordan"
+msgstr ""
+
+#: po/rc.cpp:1304 rc.cpp:1304
+msgctxt "Country or state"
+msgid "Kazakhstan"
+msgstr ""
+
+#: po/rc.cpp:1305 rc.cpp:1305
+msgctxt "Country or state"
+msgid "Kenya"
+msgstr ""
+
+#: po/rc.cpp:1306 rc.cpp:1306
+msgctxt "Country or state"
+msgid "Kiribati"
+msgstr ""
+
+#: po/rc.cpp:1307 rc.cpp:1307
+msgctxt "Country or state"
+msgid "Kuwait"
+msgstr ""
+
+#: po/rc.cpp:1308 rc.cpp:1308
+msgctxt "Country or state"
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: po/rc.cpp:1309 rc.cpp:1309
+msgctxt "Country or state"
+msgid "Laos"
+msgstr ""
+
+#: po/rc.cpp:1310 rc.cpp:1310
+msgctxt "Country or state"
+msgid "Latvia"
+msgstr ""
+
+#: po/rc.cpp:1311 rc.cpp:1311
+msgctxt "Country or state"
+msgid "Lebanon"
+msgstr ""
+
+#: po/rc.cpp:1312 rc.cpp:1312
+msgctxt "Country or state"
+msgid "Lesotho"
+msgstr ""
+
+#: po/rc.cpp:1313 rc.cpp:1313
+msgctxt "Country or state"
+msgid "Liberia"
+msgstr ""
+
+#: po/rc.cpp:1314 rc.cpp:1314
+msgctxt "Country or state"
+msgid "Libyan Arab Jamahiriya"
+msgstr ""
+
+#: po/rc.cpp:1315 rc.cpp:1315
+msgctxt "Country or state"
+msgid "Liechtenstein"
+msgstr ""
+
+#: po/rc.cpp:1316 rc.cpp:1316
+msgctxt "Country or state"
+msgid "Lithuania"
+msgstr ""
+
+#: po/rc.cpp:1317 rc.cpp:1317
+msgctxt "Country or state"
+msgid "Luxembourg"
+msgstr ""
+
+#: po/rc.cpp:1318 rc.cpp:1318
+#, fuzzy
+msgctxt "Country or state"
+msgid "Macao"
+msgstr "Maan"
+
+#: po/rc.cpp:1319 rc.cpp:1319
+msgctxt "Country or state"
+msgid "Macedonia"
+msgstr ""
+
+#: po/rc.cpp:1320 rc.cpp:1320
+msgctxt "Country or state"
+msgid "Madagascar"
+msgstr ""
+
+#: po/rc.cpp:1321 rc.cpp:1321
+msgctxt "Country or state"
+msgid "Malawi"
+msgstr ""
+
+#: po/rc.cpp:1322 rc.cpp:1322
+msgctxt "Country or state"
+msgid "Malaysia"
+msgstr ""
+
+#: po/rc.cpp:1323 rc.cpp:1323
+msgctxt "Country or state"
+msgid "Maldives"
+msgstr ""
+
+#: po/rc.cpp:1324 rc.cpp:1324
+msgctxt "Country or state"
+msgid "Mali"
+msgstr ""
+
+#: po/rc.cpp:1325 rc.cpp:1325
+msgctxt "Country or state"
+msgid "Malta"
+msgstr ""
+
+#: po/rc.cpp:1326 rc.cpp:1326
+msgctxt "Country or state"
+msgid "Marshall Islands"
+msgstr ""
+
+#: po/rc.cpp:1327 rc.cpp:1327
+msgctxt "Country or state"
+msgid "Martinique"
+msgstr ""
+
+#: po/rc.cpp:1328 rc.cpp:1328
+msgctxt "Country or state"
+msgid "Mauritania"
+msgstr ""
+
+#: po/rc.cpp:1329 rc.cpp:1329
+msgctxt "Country or state"
+msgid "Mauritius"
+msgstr ""
+
+#: po/rc.cpp:1330 rc.cpp:1330
+msgctxt "Country or state"
+msgid "Mayotte"
+msgstr ""
+
+#: po/rc.cpp:1331 rc.cpp:1331
+#, fuzzy
+msgctxt "Country or state"
+msgid "Mexico"
+msgstr "Metriese"
+
+#: po/rc.cpp:1332 rc.cpp:1332
+msgctxt "Country or state"
+msgid "Federated States Of Micronesia"
+msgstr ""
+
+#: po/rc.cpp:1333 rc.cpp:1333
+msgctxt "Country or state"
+msgid "Moldova"
+msgstr ""
+
+#: po/rc.cpp:1334 rc.cpp:1334
+#, fuzzy
+msgctxt "Country or state"
+msgid "Monaco"
+msgstr "Maan"
+
+#: po/rc.cpp:1335 rc.cpp:1335
+msgctxt "Country or state"
+msgid "Mongolia"
+msgstr ""
+
+#: po/rc.cpp:1336 rc.cpp:1336
+msgctxt "Country or state"
+msgid "Montenegro"
+msgstr ""
+
+#: po/rc.cpp:1337 rc.cpp:1337
+msgctxt "Country or state"
+msgid "Montserrat"
+msgstr ""
+
+#: po/rc.cpp:1338 rc.cpp:1338
+#, fuzzy
+msgctxt "Country or state"
+msgid "Morocco"
+msgstr "Maan"
+
+#: po/rc.cpp:1339 rc.cpp:1339
+msgctxt "Country or state"
+msgid "Mozambique"
+msgstr ""
+
+#: po/rc.cpp:1340 rc.cpp:1340
+msgctxt "Country or state"
+msgid "Myanmar"
+msgstr ""
+
+#: po/rc.cpp:1341 rc.cpp:1341
+msgctxt "Country or state"
+msgid "Namibia"
+msgstr ""
+
+#: po/rc.cpp:1342 rc.cpp:1342
+msgctxt "Country or state"
+msgid "Nauru"
+msgstr ""
+
+#: po/rc.cpp:1343 rc.cpp:1343
+msgctxt "Country or state"
+msgid "Nepal"
+msgstr ""
+
+#: po/rc.cpp:1344 rc.cpp:1344
+msgctxt "Country or state"
+msgid "Netherlands"
+msgstr ""
+
+#: po/rc.cpp:1345 rc.cpp:1345
+msgctxt "Country or state"
+msgid "Netherlands Antilles"
+msgstr ""
+
+#: po/rc.cpp:1346 rc.cpp:1346
+msgctxt "Country or state"
+msgid "New Caledonia"
+msgstr ""
+
+#: po/rc.cpp:1347 rc.cpp:1347
+msgctxt "Country or state"
+msgid "New Zealand"
+msgstr ""
+
+#: po/rc.cpp:1348 rc.cpp:1348
+msgctxt "Country or state"
+msgid "Nicaragua"
+msgstr ""
+
+#: po/rc.cpp:1349 rc.cpp:1349
+msgctxt "Country or state"
+msgid "Niger"
+msgstr ""
+
+#: po/rc.cpp:1350 rc.cpp:1350
+msgctxt "Country or state"
+msgid "Nigeria"
+msgstr ""
+
+#: po/rc.cpp:1351 rc.cpp:1351
+msgctxt "Country or state"
+msgid "Niue"
+msgstr ""
+
+#: po/rc.cpp:1352 rc.cpp:1352
+msgctxt "Country or state"
+msgid "Norfolk Island"
+msgstr ""
+
+#: po/rc.cpp:1353 rc.cpp:1353
+msgctxt "Country or state"
+msgid "Northern Mariana Islands"
+msgstr ""
+
+#: po/rc.cpp:1354 rc.cpp:1354
+msgctxt "Country or state"
+msgid "North Korea"
+msgstr ""
+
+#: po/rc.cpp:1355 rc.cpp:1355
+msgctxt "Country or state"
+msgid "Norway"
+msgstr ""
+
+#: po/rc.cpp:1356 rc.cpp:1356
+msgctxt "Country or state"
+msgid "Oman"
+msgstr ""
+
+#: po/rc.cpp:1357 rc.cpp:1357
+msgctxt "Country or state"
+msgid "Pakistan"
+msgstr ""
+
+#: po/rc.cpp:1358 rc.cpp:1358
+msgctxt "Country or state"
+msgid "Palau"
+msgstr ""
+
+#: po/rc.cpp:1359 rc.cpp:1359
+msgctxt "Country or state"
+msgid "Palestinian"
+msgstr ""
+
+#: po/rc.cpp:1360 rc.cpp:1360
+msgctxt "Country or state"
+msgid "Panama"
+msgstr ""
+
+#: po/rc.cpp:1361 rc.cpp:1361
+msgctxt "Country or state"
+msgid "Papua New Guinea"
+msgstr ""
+
+#: po/rc.cpp:1362 rc.cpp:1362
+msgctxt "Country or state"
+msgid "Paraguay"
+msgstr ""
+
+#: po/rc.cpp:1363 rc.cpp:1363
+msgctxt "Country or state"
+msgid "Peru"
+msgstr ""
+
+#: po/rc.cpp:1364 rc.cpp:1364
+msgctxt "Country or state"
+msgid "Philippines"
+msgstr ""
+
+#: po/rc.cpp:1365 rc.cpp:1365
+msgctxt "Country or state"
+msgid "Pitcairn"
+msgstr ""
+
+#: po/rc.cpp:1366 rc.cpp:1366
+#, fuzzy
+msgctxt "Country or state"
+msgid "Poland"
+msgstr "Vind.."
+
+#: po/rc.cpp:1367 rc.cpp:1367
+msgctxt "Country or state"
+msgid "Portugal"
+msgstr ""
+
+#: po/rc.cpp:1368 rc.cpp:1368
+msgctxt "Country or state"
+msgid "Puerto Rico"
+msgstr ""
+
+#: po/rc.cpp:1369 rc.cpp:1369
+msgctxt "Country or state"
+msgid "Qatar"
+msgstr ""
+
+#: po/rc.cpp:1370 rc.cpp:1370
+msgctxt "Country or state"
+msgid "Reunion"
+msgstr ""
+
+#: po/rc.cpp:1371 rc.cpp:1371
+msgctxt "Country or state"
+msgid "Romania"
+msgstr ""
+
+#: po/rc.cpp:1372 rc.cpp:1372
+msgctxt "Country or state"
+msgid "Russia"
+msgstr ""
+
+#: po/rc.cpp:1373 rc.cpp:1373
+msgctxt "Country or state"
+msgid "Rwanda"
+msgstr ""
+
+#: po/rc.cpp:1374 rc.cpp:1374
+msgctxt "Country or state"
+msgid "Saint Barthelemy"
+msgstr ""
+
+#: po/rc.cpp:1375 rc.cpp:1375
+msgctxt "Country or state"
+msgid "Saint Helena"
+msgstr ""
+
+#: po/rc.cpp:1376 rc.cpp:1376
+msgctxt "Country or state"
+msgid "Saint Kitts And Nevis"
+msgstr ""
+
+#: po/rc.cpp:1377 rc.cpp:1377
+msgctxt "Country or state"
+msgid "Saint Lucia"
+msgstr ""
+
+#: po/rc.cpp:1378 rc.cpp:1378
+msgctxt "Country or state"
+msgid "Saint Martin"
+msgstr ""
+
+#: po/rc.cpp:1379 rc.cpp:1379
+msgctxt "Country or state"
+msgid "Saint Pierre And Miquelon"
+msgstr ""
+
+#: po/rc.cpp:1380 rc.cpp:1380
+msgctxt "Country or state"
+msgid "Saint Vincent And The Grenadines"
+msgstr ""
+
+#: po/rc.cpp:1381 rc.cpp:1381
+msgctxt "Country or state"
+msgid "Samoa"
+msgstr ""
+
+#: po/rc.cpp:1382 rc.cpp:1382
+msgctxt "Country or state"
+msgid "San Marino"
+msgstr ""
+
+#: po/rc.cpp:1383 rc.cpp:1383
+msgctxt "Country or state"
+msgid "Sao Tome And Principe"
+msgstr ""
+
+#: po/rc.cpp:1384 rc.cpp:1384
+msgctxt "Country or state"
+msgid "Saudi Arabia"
+msgstr ""
+
+#: po/rc.cpp:1385 rc.cpp:1385
+msgctxt "Country or state"
+msgid "Senegal"
+msgstr ""
+
+#: po/rc.cpp:1386 rc.cpp:1386
+msgctxt "Country or state"
+msgid "Serbia"
+msgstr ""
+
+#: po/rc.cpp:1387 rc.cpp:1387
+msgctxt "Country or state"
+msgid "Seychelles"
+msgstr ""
+
+#: po/rc.cpp:1388 rc.cpp:1388
+msgctxt "Country or state"
+msgid "Sierra Leone"
+msgstr ""
+
+#: po/rc.cpp:1389 rc.cpp:1389
+msgctxt "Country or state"
+msgid "Singapore"
+msgstr ""
+
+#: po/rc.cpp:1390 rc.cpp:1390
+msgctxt "Country or state"
+msgid "Slovakia"
+msgstr ""
+
+#: po/rc.cpp:1391 rc.cpp:1391
+msgctxt "Country or state"
+msgid "Slovenia"
+msgstr ""
+
+#: po/rc.cpp:1392 rc.cpp:1392
+msgctxt "Country or state"
+msgid "Solomon Islands"
+msgstr ""
+
+#: po/rc.cpp:1393 rc.cpp:1393
+msgctxt "Country or state"
+msgid "Somalia"
+msgstr ""
+
+#: po/rc.cpp:1394 rc.cpp:1394
+msgctxt "Country or state"
+msgid "South Africa"
+msgstr ""
+
+#: po/rc.cpp:1395 rc.cpp:1395
+msgctxt "Country or state"
+msgid "South Georgia And The South Sandwich Islands"
+msgstr ""
+
+#: po/rc.cpp:1396 rc.cpp:1396
+msgctxt "Country or state"
+msgid "South Korea"
+msgstr ""
+
+#: po/rc.cpp:1397 rc.cpp:1397
+#, fuzzy
+msgctxt "Country or state"
+msgid "Spain"
+msgstr "Son"
+
+#: po/rc.cpp:1398 rc.cpp:1398
+msgctxt "Country or state"
+msgid "Sri Lanka"
+msgstr ""
+
+#: po/rc.cpp:1399 rc.cpp:1399
+#, fuzzy
+msgctxt "Country or state"
+msgid "Sudan"
+msgstr "Son"
+
+#: po/rc.cpp:1400 rc.cpp:1400
+msgctxt "Country or state"
+msgid "Suriname"
+msgstr ""
+
+#: po/rc.cpp:1401 rc.cpp:1401
+msgctxt "Country or state"
+msgid "Svalbard And Jan Mayen"
+msgstr ""
+
+#: po/rc.cpp:1402 rc.cpp:1402
+#, fuzzy
+msgctxt "Country or state"
+msgid "Swaziland"
+msgstr "Vind.."
+
+#: po/rc.cpp:1403 rc.cpp:1403
+msgctxt "Country or state"
+msgid "Sweden"
+msgstr ""
+
+#: po/rc.cpp:1404 rc.cpp:1404
+msgctxt "Country or state"
+msgid "Switzerland"
+msgstr ""
+
+#: po/rc.cpp:1405 rc.cpp:1405
+msgctxt "Country or state"
+msgid "Syria"
+msgstr ""
+
+#: po/rc.cpp:1406 rc.cpp:1406
+msgctxt "Country or state"
+msgid "Taiwan"
+msgstr ""
+
+#: po/rc.cpp:1407 rc.cpp:1407
+msgctxt "Country or state"
+msgid "Tajikistan"
+msgstr ""
+
+#: po/rc.cpp:1408 rc.cpp:1408
+msgctxt "Country or state"
+msgid "Tanzania"
+msgstr ""
+
+#: po/rc.cpp:1409 rc.cpp:1409
+#, fuzzy
+msgctxt "Country or state"
+msgid "Thailand"
+msgstr "Vind.."
+
+#: po/rc.cpp:1410 rc.cpp:1410
+msgctxt "Country or state"
+msgid "Timor-Leste"
+msgstr ""
+
+#: po/rc.cpp:1411 rc.cpp:1411
+msgctxt "Country or state"
+msgid "Togo"
+msgstr ""
+
+#: po/rc.cpp:1412 rc.cpp:1412
+msgctxt "Country or state"
+msgid "Tokelau"
+msgstr ""
+
+#: po/rc.cpp:1413 rc.cpp:1413
+msgctxt "Country or state"
+msgid "Tonga"
+msgstr ""
+
+#: po/rc.cpp:1414 rc.cpp:1414
+msgctxt "Country or state"
+msgid "Trinidad And Tobago"
+msgstr ""
+
+#: po/rc.cpp:1415 rc.cpp:1415
+msgctxt "Country or state"
+msgid "Tunisia"
+msgstr ""
+
+#: po/rc.cpp:1416 rc.cpp:1416
+#, fuzzy
+msgctxt "Country or state"
+msgid "Turkey"
+msgstr "Dins"
+
+#: po/rc.cpp:1417 rc.cpp:1417
+msgctxt "Country or state"
+msgid "Turkmenistan"
+msgstr ""
+
+#: po/rc.cpp:1418 rc.cpp:1418
+msgctxt "Country or state"
+msgid "Turks And Caicos Islands"
+msgstr ""
+
+#: po/rc.cpp:1419 rc.cpp:1419
+msgctxt "Country or state"
+msgid "Tuvalu"
+msgstr ""
+
+#: po/rc.cpp:1420 rc.cpp:1420
+msgctxt "Country or state"
+msgid "Uganda"
+msgstr ""
+
+#: po/rc.cpp:1421 rc.cpp:1421
+msgctxt "Country or state"
+msgid "Ukraine"
+msgstr ""
+
+#: po/rc.cpp:1422 rc.cpp:1422
+msgctxt "Country or state"
+msgid "United Arab Emirates"
+msgstr ""
+
+#: po/rc.cpp:1423 rc.cpp:1423
+msgctxt "Country or state"
+msgid "United Kingdom"
+msgstr ""
+
+#: po/rc.cpp:1424 rc.cpp:1424
+msgctxt "Country or state"
+msgid "United States"
+msgstr ""
+
+#: po/rc.cpp:1425 rc.cpp:1425
+msgctxt "Country or state"
+msgid "Uruguay"
+msgstr ""
+
+#: po/rc.cpp:1426 rc.cpp:1426
+msgctxt "Country or state"
+msgid "Uzbekistan"
+msgstr ""
+
+#: po/rc.cpp:1427 rc.cpp:1427
+msgctxt "Country or state"
+msgid "Vanuatu"
+msgstr ""
+
+#: po/rc.cpp:1428 rc.cpp:1428
+msgctxt "Country or state"
+msgid "Vatican City"
+msgstr ""
+
+#: po/rc.cpp:1429 rc.cpp:1429
+msgctxt "Country or state"
+msgid "Venezuela"
+msgstr ""
+
+#: po/rc.cpp:1430 rc.cpp:1430
+msgctxt "Country or state"
+msgid "Viet Nam"
+msgstr ""
+
+#: po/rc.cpp:1431 rc.cpp:1431
+msgctxt "Country or state"
+msgid "Virgin Islands"
+msgstr ""
+
+#: po/rc.cpp:1432 rc.cpp:1432
+msgctxt "Country or state"
+msgid "Wallis And Futuna"
+msgstr ""
+
+#: po/rc.cpp:1433 rc.cpp:1433
+msgctxt "Country or state"
+msgid "Western Sahara"
+msgstr ""
+
+#: po/rc.cpp:1434 rc.cpp:1434
+#, fuzzy
+msgctxt "Country or state"
+msgid "Yemen"
+msgstr "Tema"
+
+#: po/rc.cpp:1435 rc.cpp:1435
+msgctxt "Country or state"
+msgid "Zambia"
+msgstr ""
+
+#: po/rc.cpp:1436 rc.cpp:1436
+msgctxt "Country or state"
+msgid "Zimbabwe"
+msgstr ""
+
+#: po/rc.cpp:1437 rc.cpp:1437
+msgctxt "Country or state"
+msgid "AK"
+msgstr ""
+
+#: po/rc.cpp:1438 rc.cpp:1438
+msgctxt "Country or state"
+msgid "AL"
+msgstr ""
+
+#: po/rc.cpp:1439 rc.cpp:1439
+msgctxt "Country or state"
+msgid "AR"
+msgstr ""
+
+#: po/rc.cpp:1440 rc.cpp:1440
+msgctxt "Country or state"
+msgid "AZ"
+msgstr ""
+
+#: po/rc.cpp:1441 rc.cpp:1441
+msgctxt "Country or state"
+msgid "CA"
+msgstr ""
+
+#: po/rc.cpp:1442 rc.cpp:1442
+msgctxt "Country or state"
+msgid "CO"
+msgstr ""
+
+#: po/rc.cpp:1443 rc.cpp:1443
+msgctxt "Country or state"
+msgid "CT"
+msgstr ""
+
+#: po/rc.cpp:1444 rc.cpp:1444
+msgctxt "Country or state"
+msgid "DC"
+msgstr ""
+
+#: po/rc.cpp:1445 rc.cpp:1445
+msgctxt "Country or state"
+msgid "DE"
+msgstr ""
+
+#: po/rc.cpp:1446 rc.cpp:1446
+msgctxt "Country or state"
+msgid "FL"
+msgstr ""
+
+#: po/rc.cpp:1447 rc.cpp:1447
+msgctxt "Country or state"
+msgid "GA"
+msgstr ""
+
+#: po/rc.cpp:1448 rc.cpp:1448
+msgctxt "Country or state"
+msgid "HI"
+msgstr ""
+
+#: po/rc.cpp:1449 rc.cpp:1449
+msgctxt "Country or state"
+msgid "IA"
+msgstr ""
+
+#: po/rc.cpp:1450 rc.cpp:1450
+msgctxt "Country or state"
+msgid "ID"
+msgstr ""
+
+#: po/rc.cpp:1451 rc.cpp:1451
+msgctxt "Country or state"
+msgid "IL"
+msgstr ""
+
+#: po/rc.cpp:1452 rc.cpp:1452
+msgctxt "Country or state"
+msgid "IN"
+msgstr ""
+
+#: po/rc.cpp:1453 rc.cpp:1453
+msgctxt "Country or state"
+msgid "KS"
+msgstr ""
+
+#: po/rc.cpp:1454 rc.cpp:1454
+msgctxt "Country or state"
+msgid "KY"
+msgstr ""
+
+#: po/rc.cpp:1455 rc.cpp:1455
+msgctxt "Country or state"
+msgid "LA"
+msgstr ""
+
+#: po/rc.cpp:1456 rc.cpp:1456
+msgctxt "Country or state"
+msgid "MA"
+msgstr ""
+
+#: po/rc.cpp:1457 rc.cpp:1457
+msgctxt "Country or state"
+msgid "MD"
+msgstr ""
+
+#: po/rc.cpp:1458 rc.cpp:1458
+msgctxt "Country or state"
+msgid "ME"
+msgstr ""
+
+#: po/rc.cpp:1459 rc.cpp:1459
+msgctxt "Country or state"
+msgid "MI"
+msgstr ""
+
+#: po/rc.cpp:1460 rc.cpp:1460
+msgctxt "Country or state"
+msgid "MN"
+msgstr ""
+
+#: po/rc.cpp:1461 rc.cpp:1461
+msgctxt "Country or state"
+msgid "MO"
+msgstr ""
+
+#: po/rc.cpp:1462 rc.cpp:1462
+msgctxt "Country or state"
+msgid "MS"
+msgstr ""
+
+#: po/rc.cpp:1463 rc.cpp:1463
+msgctxt "Country or state"
+msgid "MT"
+msgstr ""
+
+#: po/rc.cpp:1464 rc.cpp:1464
+msgctxt "Country or state"
+msgid "NC"
+msgstr ""
+
+#: po/rc.cpp:1465 rc.cpp:1465
+msgctxt "Country or state"
+msgid "ND"
+msgstr ""
+
+#: po/rc.cpp:1466 rc.cpp:1466
+msgctxt "Country or state"
+msgid "NE"
+msgstr ""
+
+#: po/rc.cpp:1467 rc.cpp:1467
+msgctxt "Country or state"
+msgid "NH"
+msgstr ""
+
+#: po/rc.cpp:1468 rc.cpp:1468
+msgctxt "Country or state"
+msgid "NJ"
+msgstr ""
+
+#: po/rc.cpp:1469 rc.cpp:1469
+msgctxt "Country or state"
+msgid "NM"
+msgstr ""
+
+#: po/rc.cpp:1470 rc.cpp:1470
+msgctxt "Country or state"
+msgid "NV"
+msgstr ""
+
+#: po/rc.cpp:1471 rc.cpp:1471
+msgctxt "Country or state"
+msgid "NY"
+msgstr ""
+
+#: po/rc.cpp:1472 rc.cpp:1472
+msgctxt "Country or state"
+msgid "OH"
+msgstr ""
+
+#: po/rc.cpp:1473 rc.cpp:1473
+msgctxt "Country or state"
+msgid "OK"
+msgstr ""
+
+#: po/rc.cpp:1474 rc.cpp:1474
+msgctxt "Country or state"
+msgid "OR"
+msgstr ""
+
+#: po/rc.cpp:1475 rc.cpp:1475
+msgctxt "Country or state"
+msgid "PA"
+msgstr ""
+
+#: po/rc.cpp:1476 rc.cpp:1476
+msgctxt "Country or state"
+msgid "RI"
+msgstr ""
+
+#: po/rc.cpp:1477 rc.cpp:1477
+msgctxt "Country or state"
+msgid "SC"
+msgstr ""
+
+#: po/rc.cpp:1478 rc.cpp:1478
+msgctxt "Country or state"
+msgid "SD"
+msgstr ""
+
+#: po/rc.cpp:1479 rc.cpp:1479
+msgctxt "Country or state"
+msgid "TN"
+msgstr ""
+
+#: po/rc.cpp:1480 rc.cpp:1480
+msgctxt "Country or state"
+msgid "TX"
+msgstr ""
+
+#: po/rc.cpp:1481 rc.cpp:1481
+msgctxt "Country or state"
+msgid "UT"
+msgstr ""
+
+#: po/rc.cpp:1482 rc.cpp:1482
+msgctxt "Country or state"
+msgid "VA"
+msgstr ""
+
+#: po/rc.cpp:1483 rc.cpp:1483
+msgctxt "Country or state"
+msgid "VT"
+msgstr ""
+
+#: po/rc.cpp:1484 rc.cpp:1484
+msgctxt "Country or state"
+msgid "WA"
+msgstr ""
+
+#: po/rc.cpp:1485 rc.cpp:1485
+msgctxt "Country or state"
+msgid "WI"
+msgstr ""
+
+#: po/rc.cpp:1486 rc.cpp:1486
+msgctxt "Country or state"
+msgid "WV"
+msgstr ""
+
+#: po/rc.cpp:1487 rc.cpp:1487
+msgctxt "Country or state"
+msgid "WY"
+msgstr ""
+
+#: po/rc.cpp:1488 rc.cpp:1488
+msgctxt "Pressure"
+msgid "Decreasing"
+msgstr ""
+
+#: po/rc.cpp:1489 rc.cpp:1489
+msgctxt "Pressure"
+msgid "Steady"
+msgstr ""
+
+#: po/rc.cpp:1490 rc.cpp:1490
+msgctxt "Pressure"
+msgid "Increasing"
+msgstr ""
+
+#: po/rc.cpp:1491 rc.cpp:1491
+msgctxt "Pressure"
+msgid "Rising"
+msgstr ""
+
+#: po/rc.cpp:1492 rc.cpp:1492
+msgctxt "Pressure"
+msgid "Falling"
+msgstr ""
+
+#: po/rc.cpp:1493 rc.cpp:1493
+msgctxt "Pressure"
+msgid "Unavailable"
+msgstr ""
+
+#: po/rc.cpp:1494 rc.cpp:1494
+msgctxt "Pressure"
+msgid "falling"
+msgstr ""
+
+#: po/rc.cpp:1495 rc.cpp:1495
+msgctxt "Pressure"
+msgid "steady"
+msgstr ""
+
+#: po/rc.cpp:1496 rc.cpp:1496
+msgctxt "Pressure"
+msgid "rising"
+msgstr ""
+
+#, fuzzy
+#~ msgid "State"
+#~ msgstr "Sat"
+
+#, fuzzy
+#~ msgctxt "Forecast description"
+#~ msgid "cloudy with a few snowflakes"
+#~ msgstr "son"
+
+#, fuzzy
+#~ msgctxt "Forecast description"
+#~ msgid "frigid with low clouds"
+#~ msgstr "weer berou"
+
+#, fuzzy
+#~ msgctxt "Forecast description"
+#~ msgid "low clouds with snow late"
+#~ msgstr "son"
+
+#, fuzzy
+#~ msgctxt "Forecast description"
+#~ msgid "turning cloudy with snow"
+#~ msgstr "weer berou"
+
+#, fuzzy
+#~ msgid "WeatherServiceTest"
+#~ msgstr "Weer Berou"
+
+#, fuzzy
+#~ msgid "Polojasno"
+#~ msgstr "Vind.."
+
+#~ msgid "From file:"
+#~ msgstr "Vanaf lÃªer:"
+
+#~ msgid "Metric"
+#~ msgstr "Metriese"
+
+#~ msgid "Imperial"
+#~ msgstr "Imperiese"
+
+#~ msgid "Bad city or country!"
+#~ msgstr "Slegte stad of land!"
+
+#~ msgid "ERROR!"
+#~ msgstr "PROBLEEM!"
+
+#~ msgid "City name:"
+#~ msgstr "Stad naam:"
+
+#~ msgid "Find.."
+#~ msgstr "Vind.."

@@ -1,0 +1,22 @@
+#!/usr/bin/make -f
+
+DH_ALWAYS_EXCLUDE:=CVS:.svn:.svnignore:.hg:.hgignore:.git:.gitignore
+
+override_dh_auto_configure:
+	        dh_auto_configure --parallel -Skde -- -DBUILD_UNITTESTS=NO \
+					-DDEBUG_LOGFILE=/tmp/plasma-widget-yawp.log \
+					-DDEBUG_LOGLEVEL=Warning -DCMAKE_BUILD_TYPE=Release \
+					-DCMAKE_SHARED_LINKER_FLAGS="-Wl,--no-undefined -Wl,--as-needed" \
+					-DCMAKE_MODULE_LINKER_FLAGS="-Wl,--no-undefined -Wl,--as-needed" \
+					-DCMAKE_EXE_LINKER_FLAGS="-Wl,--no-undefined -Wl,--as-needed"
+
+override_dh_installchangelogs:
+	dh_installchangelogs CHANGELOG
+
+override_dh_install:
+	dh_install --list-missing
+
+%:
+	dh $@ --parallel --dbg-package=plasma-widget-yawp-dbg --with kde
+
+.PHONY: override_dh_auto_configure override_dh_installchangelogs override_dh_install

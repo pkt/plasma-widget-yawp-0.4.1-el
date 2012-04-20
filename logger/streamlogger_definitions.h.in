@@ -1,0 +1,7 @@
+#ifndef STREAMLOGGER_DEFINITION
+#define STREAMLOGGER_DEFINITION
+
+#define DEFAULT_LOGLEVEL DStreamLogger::${DEBUG_LOGLEVEL}
+#define LOGOUTPUT        QString("${DEBUG_LOGFILE}")
+
+#endif

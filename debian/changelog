@@ -1,0 +1,254 @@
+plasma-widget-yawp (0.4.1-1) unstable; urgency=low
+
+  The "Lost in the Mist" release.
+
+  * New upstream release.
+  * debian/watch: Removed some default comments to fix
+    debian-watch-contains-dh_make-template.
+  * debian/patches/Fix_FTBFS_add-missing-include-dir.patch: Removed, fixed
+    upstream.
+  * debian/plasma-dataengines-yawp.install: Removed satellite_map.conf, it's
+    gone again.
+  * debian/docs: Removed README.ion_accuweather, gone alongside the
+    satellite_map.conf.
+
+ -- Kai Wasserbäch <curan@debian.org>  Mon, 05 Dec 2011 23:48:21 +0100
+
+plasma-widget-yawp (0.4.0-1) unstable; urgency=low
+
+  The "Spring Cleaning" release.
+
+  * New upstream release.
+  * debian/compat: Raised to 9.
+  * debian/patches:
+    - remove_CPack_invocations.patch: Removed, CPack shouldn't get invoked
+      automatically.
+    - Fix_FTBFS_add-missing-include-dir.patch: Added to fix FTBFS due to
+      missing include directory.
+  * debian/control:
+    - Bumped B-D on debhelper to >= 8.9.8.
+    - Removed version requirements on kdelibs5-dev and pkg-kde-tools, required
+      versions are in stable.
+    - Removed now obsolete Breaks: and Replaces from plasma-widget-yawp
+      (binary package).
+    - Bumped Standards-Version to 3.9.2, no further changes required.
+  * debian/rules:
+    - Updated for debhelper 8.
+    - Added "--parallel" to dh_auto_configure invocation.
+  * debian/docs: Added new README.ion_accuweather.
+  * debian/source.lintian-overrides: Added for the time being (ie. before dh 9
+    is released).
+  * debian/plasma-dataengines-yawp.install: Install satellite_map.conf for
+    ion_accuweather.
+
+ -- Kai Wasserbäch <curan@debian.org>  Mon, 14 Nov 2011 10:28:30 +0100
+
+plasma-widget-yawp (0.3.6-2) unstable; urgency=low
+
+  The "Captured Sunlight" release.
+
+  * Upload to unstable (basically to make ready for a KDE SC >= 4.5.2).
+
+ -- Kai Wasserbäch <curan@debian.org>  Mon, 14 Feb 2011 09:56:30 +0100
+
+plasma-widget-yawp (0.3.6-1) experimental; urgency=low
+
+  The "Refreshing Rain" release.
+
+  * New upstream release:
+    - Fixes FTBFS with KDE SC 4.5.2/4.6 (due to unnecessary include of a now
+      deprecated header). No issue for Squeeze.
+  * debian/source/local-options: Added "unapply-patches".
+  * debian/watch:
+    - Added git-import-orig invocation.
+    - Escaped the dot inside the regular expression (we want a literal dot).
+  * debian/gbp.conf: Added, to ensure the git-import-orig invocation from
+    debian/watch uses pristine-tar.
+  * debian/control:
+    - Added plasma-widget-yawp-dbg to Suggests of the two binary packages.
+    - Removed DMUA in anticipation of me becoming a DD.
+    - Changed my e-mail address.
+  * debian/rules: Added .PHONY line.
+  * debian/copyright:
+    - Fixed typo in name.
+    - Added more detailed information on logger/streamlogger.{h,cpp}.
+  * debian/patches/remove_CPack_invocations.patch: Refreshed.
+
+ -- Kai Wasserbäch <curan@debian.org>  Tue, 25 Jan 2011 17:10:25 +0100
+
+plasma-widget-yawp (0.3.5-1) unstable; urgency=low
+
+  The "Elite Vanguard" release.
+
+  * New upstream release, including:
+    - Fix of a potential legal issue, and
+    - several data-handling issues (e.g. pressure and sunset/-rise).
+  * debian/rules:
+    - Removed override_dh_strip and added --dbg-package to general dh
+      invocation.
+    - Made (almost all) overrides --parallel aware.
+  * debian/source/options: Ensure BZip2 compression.
+  * debian/control: Bumped Standards-Version to 3.9.1, no further changes
+    needed.
+  * debian/copyright: Added Shawn Starr as another upstream author (for Ions).
+
+ -- Kai Wasserbäch <debian@carbon-project.org>  Fri, 12 Nov 2010 23:16:50 +0100
+
+plasma-widget-yawp (0.3.4-1) unstable; urgency=low
+
+  The "Mana Leak" release.
+
+  * New upstream release, including:
+    - Translation updates for several languages.
+    - Fixes problems with some Ions when using the Russian locale.
+
+ -- Kai Wasserbäch <debian@carbon-project.org>  Sat, 10 Jul 2010 22:57:02 +0200
+
+plasma-widget-yawp (0.3.3-2) unstable; urgency=low
+
+  The "Azure Drake" release.
+
+  * debian/control:
+    - Added Suggests on plasma-widget-yawp in the plasma-dataengines-yawp
+      entry.
+    - Bumped Build-Depends on:
+      + debhelper to >= 7.3.16~ to ensure we've got sequence support.
+      + pkg-kde-tools to >= 0.9 to ensure "3.0 (quilt)" support.
+    - Bumped Standards-Version to 3.9.0.
+      + debian/copyright: Updated to correspond to section 12.5.
+      + debian/control: Added Breaks to plasma-dataengines-yawp entry to
+        correspond with sections 7.3, 7.6.1.
+  * debian/*.install: Remove the "debian/tmp/" prefix, not needed, since dh
+    defaults to look into debian/tmp with compat level seven or higher.
+
+ -- Kai Wasserbäch <debian@carbon-project.org>  Mon, 28 Jun 2010 21:41:37 +0200
+
+plasma-widget-yawp (0.3.3-1) unstable; urgency=low
+
+  The "Traumatic Visions" release.
+
+  * New upstream release.
+  * debian/rules: Added override for dh_strip to "install" the debugging
+    symbols into the new plasma-widgets-yawp-dbg package.
+  * debian/control: Added new debugging symbols package.
+  * debian/patches/remove_CPack_invocations.patch: Refreshed.
+
+ -- Kai Wasserbäch <debian@carbon-project.org>  Sun, 13 Jun 2010 19:33:19 +0200
+
+plasma-widget-yawp (0.3.3~svn376-1) unstable; urgency=low
+
+  The "Royal Decree" release.
+
+  * Synced to upstream SVN revision 376:
+    - This should fix a crash which could occur while adding a new city.
+    - Updates all l10n strings and adds a new translation.
+  * debian/patches:
+    - Removed patches, which were merged upstream:
+      + add_upstream_changelog.patch
+      + cherry_pick_wunderground_ion.patch
+      + correct_spelling.patch
+      + fix_desktop_file.patch
+      + fix_gcc45_FTBFS_countrymap.patch
+      + fix_gcc45_FTBFS_streamlogger.patch
+      + fix_gcc45_ftbfs.patch
+      + remove_unneeded_includes.patch
+      + rename_to_debian_naming_scheme.patch
+    - remove_CPack_invocations.patch: Updated.
+  * debian/plasma-widget-yawp.install: Updated.
+  * debian/rules: Added override for dh_installchangelogs, so it installs the
+    new upstream changelog file.
+
+ -- Kai Wasserbäch <debian@carbon-project.org>  Wed, 19 May 2010 11:46:48 +0000
+
+plasma-widget-yawp (0.3.2-4) unstable; urgency=low
+
+  The „Kalastria Highborn“ release.
+
+  * debian/patches:
+    - fix_possible_memleak.patch: Dropped again, should be cleaned out by Qt's
+      garbage collector. Thanks to Ulf for reminding me of that.
+    - fix_gcc45_ftbfs.patch, add_upstream_changelog.patch: Updated header.
+    - cherry_pick_wunderground_ion.patch: Added, until 0.3.3 gets released.
+    - fix_gcc45_FTBFS_{streamlogger,countrymap}.patch: Added (allows building
+      with stricter gcc/g++ 4.5).
+    - correct_spelling.patch: Added (minor spelling fix).
+    - remove_unneeded_includes.patch: Added ((incomplete) code clean-ups).
+  * debian/control:
+    - DM-Upload-Allowed set to yes.
+    - Add ${binary:Version} to dependency on plasma-dataengines-yawp.
+    - Improve short description of plasma-dataengines-yawp.
+    - Change Vcs-* information (now maintained with Git).
+  * debian/rules: Enable parallel building.
+
+ -- Kai Wasserbäch <debian@carbon-project.org>  Mon, 17 May 2010 12:01:02 +0200
+
+plasma-widget-yawp (0.3.2-3) unstable; urgency=low
+
+  The „Shattering Pulse“ release.
+
+  * debian/control:
+    - Added „Enhances: plasma-widgets-addons“ to plasma-dataengines-yawp.
+    - Bumped Standards-Version to 3.8.4, no further changes needed.
+    - Improved the long description of plasma-widget-yawp (Closes: #568012).
+  * debian/patches/fix_possible_memleak.patch: Added.
+
+ -- Kai Wasserbäch <debian@carbon-project.org>  Wed, 17 Feb 2010 19:43:52 +0100
+
+plasma-widget-yawp (0.3.2-2) unstable; urgency=low
+
+  The „Smother“ release.
+
+  * debian/patches:
+    - Rename „top_CMakeLists.txt_remove-CPack.patch“ to
+      „remove_CPack_invocations.patch“.
+    - remove_CPack_invocations.patch:
+      + Removed CPack invocation from „ions/CMakeLists.txt“.
+  * debian/rules: Pass a set of useful configuration options to CMake (as we
+    don't use the install.sh script, we'll pass them directly to CMake).
+  * debian/patches:
+    - fix_gcc45_ftbfs.patch:
+      + Added.
+      + Allow yaWP to be built with stricter gcc/g++ 4.5 (not released yet).
+    - add_upstream_changelog.patch:
+      + Added, as none is shipped with the tarball.
+  * debian/control:
+    - Improved long description of plasma-widget-yawp.
+    - Added „Suggests: plasma-dataengines-workspace“, because that package
+      ships three more weather Ions (BBC/UK-MET, NOAA and the Canadian weather
+      office).
+    - Added new binary package „plasma-dataengines-yawp“ for the Ions shipped
+      with yaWP. The split was done to allow other weather applets in Debian
+      to use yaWP's data engines without the need to pull in the entirety of
+      yaWP.
+    - Added an „Replaces“ to plasma-dataengines-yawp for the previous version
+      of plasma-widget-yawp to allow the overwriting of the moved files.
+  * debian/plasma-{widget,dataengines}-yawp.install:
+    - Added.
+    - Split up the files between the two binary packages.
+
+ -- Kai Wasserbäch <debian@carbon-project.org>  Tue, 19 Jan 2010 16:31:20 +0100
+
+plasma-widget-yawp (0.3.2-1) unstable; urgency=low
+
+  * Initial release (Closes: #529815)
+  * debian/control:
+    - Added pkg-kde-tools to Build-Depends.
+    - Declared explicit Build-Depends on gettext.
+    - Tighten Build-Depends on kdelibs5-dev: enforce version >=4:4.2.0
+    - Added Vcs-Svn field.
+    - Changed priority to »optional« (all other widgets are optional too).
+    - Standards-Version is 3.8.3.
+  * debian/patches:
+    - top_CMakeLists.txt_remove-CPack.patch:
+      + Added.
+      + Remove CPack invocation, we use Debian's tools for building the
+        package.
+    - rename_to_debian_naming_scheme.patch:
+      + Added.
+      + In Debian Plasmoids are named „plasma_applet_<name of Plasmoid>“.
+    - fix_desktop_file.patch:
+      + Added.
+      + Corrected the given version (0.3.2 instead of 0.3.0).
+  * debian/source/format: Added with „3.0 (quilt)“ as its content.
+
+ -- Kai Wasserbäch <debian@carbon-project.org>  Tue, 12 Jan 2010 17:51:54 +0100

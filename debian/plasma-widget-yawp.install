@@ -1,0 +1,4 @@
+usr/lib/kde4/plasma_applet_yawp.so
+usr/share/locale/*/LC_MESSAGES/plasma_applet_yawp.mo
+usr/share/kde4/apps/desktoptheme/default/widgets/yawp_theme15.svg
+usr/share/kde4/services/plasma-applet-yawp.desktop

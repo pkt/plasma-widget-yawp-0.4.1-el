@@ -1,0 +1,134 @@
+This package was debianized by:
+
+    Kai Wasserbäch <debian@carbon-project.org> on Thu, 21 May 2009 14:12:41 +0200
+
+It was downloaded from:
+
+    <http://sourceforge.net/project/showfiles.php?group_id=247777>
+
+Upstream Authors:
+
+    Shawn Starr <shawn.starr@rogers.com>
+    Pierpaolo Vittorini <pierpaolo.vittorini@gmail.com>
+    Marián Kyral <mkyral@email.cz>
+    Ezequiel Aguerre <ezeaguerre@gmail.com>
+    Ruan Strydom <ruans@kr8.co.za>
+    Ulf Kreissig <udev@gmx.net>
+    Thomas Luebking <thomas.luebking@web.de>
+
+Copyright:
+
+    Copyright (C) 2007-2008 Shawn Starr
+    Copyright (C) 2008-2009 Pierpaolo Vittorini
+    Copyright (C) 2008-2009 Marián Kyral
+    Copyright (C) 2008-2009 Ezequiel Aguerre
+    Copyright (C) 2008-2009 Ruan Strydom
+    Copyright (C)      2009 Ulf Kreissig
+    Copyright (C)      2007 Thomas Luebking
+
+License:
+
+   This program is free software; you can redistribute it and/or modify
+   it under the terms of the GNU General Public License as published by
+   the Free Software Foundation; either version 2 of the License, or
+   (at your option) any later version.
+
+   This package is distributed in the hope that it will be useful,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+   GNU General Public License for more details.
+
+   You should have received a copy of the GNU General Public License
+   along with this package; if not, write to the Free Software
+   Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301 USA
+
+On Debian systems, the complete text of the GNU General
+Public License version 2 can be found in `/usr/share/common-licenses/GPL-2'.
+
+For the following files, the license and copyright holders are different:
+   * unittest/plasmoidtest_fullview.cpp
+   * unittest/plasmoidtest_fullview.h
+   * unittest/plasmoidtest_main.cpp
+
+  Upstream Authors:
+    Copyright (C) 2007 Frerich Raabe <raabe@kde.org>
+    Copyright (C) 2007 Aaron Seigo <aseigo@kde.org>
+    Copyright (C) 2008 Aleix Pol <aleixpol@gmail.com>
+
+  License:
+
+    Copyright (c) The Regents of the University of California.
+    All rights reserved.
+
+    Redistribution and use in source and binary forms, with or without
+    modification, are permitted provided that the following conditions
+    are met:
+    1. Redistributions of source code must retain the above copyright
+       notice, this list of conditions and the following disclaimer.
+    2. Redistributions in binary form must reproduce the above copyright
+       notice, this list of conditions and the following disclaimer in the
+       documentation and/or other materials provided with the distribution.
+
+    THIS SOFTWARE IS PROVIDED BY THE REGENTS AND CONTRIBUTORS ``AS IS'' AND
+    ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+    IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+    ARE DISCLAIMED.  IN NO EVENT SHALL THE REGENTS OR CONTRIBUTORS BE LIABLE
+    FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+    DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
+    OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+    HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+    LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
+    OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+    SUCH DAMAGE.
+
+For the following files, the license and copyright holders are different:
+    * applet/pageanimator.h
+    * applet/pageanimator.cpp
+
+  Upstream Authors:
+    Copyright (C) 2007 Thomas Luebking <thomas.luebking@web.de>
+    Copyright (C) 2009 Ulf Kreissig <udev@gmx.net>
+
+  License:
+    The license for the two files named above is either LGPLv2, which can be
+    found in `/usr/share/common-licenses/LGPL-2' on Debian systems, or GPLv2 or
+    (at your option) any later version. The GPLv2 license can be found in
+    `/usr/share/common-licenses/GPL-2' on Debian systems.
+
+For the following files, the license and copyright holders are different:
+    * logger/streamlogger.h
+    * logger/streamlogger.cpp
+
+  Upstream Authors:
+    Copyright (C) 1992-2007 Trolltech ASA
+    Copyright (C) 2009 Ulf Kreissig <udev@gmx.net>
+
+  License:
+    This file may be used under the terms of the GNU General Public
+    License version 2.0 as published by the Free Software Foundation
+    and appearing in the file LICENSE.GPL included in the packaging of
+    this file.  Please review the following information to ensure GNU
+    General Public Licensing requirements will be met:
+    http://trolltech.com/products/qt/licenses/licensing/opensource/
+
+    In addition, as a special exception, Trolltech gives you certain
+    additional rights. These rights are described in the Trolltech GPL
+    Exception version 1.0, which can be found at
+    http://www.trolltech.com/products/qt/gplexception/ and in the file
+    GPL_EXCEPTION.txt in this package.
+   
+    In addition, as a special exception, Trolltech, as the sole copyright
+    holder for Qt Designer, grants users of the Qt/Eclipse Integration
+    plug-in the right for the Qt/Eclipse Integration to link to
+    functionality provided by Qt Designer and its related libraries.
+
+On Debian systems, the complete text of the GNU General
+Public License version 2 can be found in `/usr/share/common-licenses/GPL-2'.
+
+
+The Debian packaging is:
+
+    Copyright (C) 2009-2011 Kai Wasserbäch <debian@carbon-project.org>
+
+and is licensed under the GPL version 3, 
+see `/usr/share/common-licenses/GPL-3'.

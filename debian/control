@@ -1,0 +1,57 @@
+Source: plasma-widget-yawp
+Section: kde
+Priority: optional
+Maintainer: Kai Wasserbäch <curan@debian.org>
+Build-Depends: debhelper (>= 8.9.8), cmake, gettext, kdelibs5-dev, pkg-kde-tools,
+ kdebase-workspace-dev
+Standards-Version: 3.9.2
+Homepage: http://sourceforge.net/projects/yawp
+Vcs-Git: git://git.carbon-project.org/plasma-widget-yawp.git
+Vcs-Browser: http://gitweb.carbon-project.org/?p=plasma-widget-yawp.git;a=summary
+
+Package: plasma-widget-yawp
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+ plasma-dataengines-yawp (= ${binary:Version})
+Suggests: plasma-dataengines-workspace, plasma-widget-yawp-dbg
+Description: Yet Another Weather Plasmoid fetches weather forecasts for you
+ yaWP is a nice and simple plasmoid for KDE 4.x to show the weather forecast,
+ works with different weather sources, you can configure it to show several
+ days in advance, to display the current satellite image and it is also
+ possible to keep track of multiple cities.
+ .
+ This package contains the Plasmoid itself and the basic theme for yaWP.
+ .
+ yaWP can be considered to be the native KDE 4.x replacement for the
+ SuperKaramba script "LiquidWeather++".
+
+Package: plasma-dataengines-yawp
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Enhances: plasma-widgets-addons
+Suggests: plasma-widget-yawp, plasma-widget-yawp-dbg
+Description: yaWP's data engines (Ions) for different weather services
+ yaWP is a nice and simple plasmoid for KDE 4.x to show the weather forecast,
+ works with different weather sources, you can configure it to show several
+ days in advance, to display the current satellite image and it is also
+ possible to keep track of multiple cities.
+ .
+ This package contains the data engines, which are part of yaWP. At the moment
+ these are Ions for the following services:
+    * AccuWeather
+    * Google Weather Service
+    * Weather Underground (Wunderground)
+
+Package: plasma-widget-yawp-dbg
+Architecture: any
+Section: debug
+Priority: extra
+Depends: plasma-widget-yawp (= ${binary:Version}), 
+ plasma-dataengines-yawp (= ${binary:Version}), ${misc:Depends}
+Description: Debugging symbols for yaWP and its Ions
+ yaWP is a nice and simple plasmoid for KDE 4.x to show the weather forecast,
+ works with different weather sources, you can configure it to show several
+ days in advance, to display the current satellite image and it is also
+ possible to keep track of multiple cities.
+ .
+ This package contains the debugging symbols for yaWP and its Ions.

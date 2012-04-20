@@ -1,0 +1,91 @@
+Copyright:
+
+   Copyright (C) 2008-2010 Ruan Strydom
+   Copyright (C) 2008-2010 Pierpaolo Vittorini
+   Copyright (C) 2008-2010 Marian Kyral
+   Copyright (C) 2008-2010 Ezequiel Aguerre
+   Copyright (C) 2009-2010 Ulf Kreissig
+
+License:
+
+   This program is free software; you can redistribute it and/or modify
+   it under the terms of the GNU General Public License as published by
+   the Free Software Foundation; either version 2 of the License, or
+   (at your option) any later version.
+
+   This package is distributed in the hope that it will be useful,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+   GNU General Public License for more details.
+
+   You should have received a copy of the GNU General Public License
+   along with this package; if not, write to the Free Software
+   Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301 USA
+
+The complete text of the GNU General Public License version 2 has been shipped
+with this source-code-package and can be found in the file LICENSE-GPL2.
+You will find the GNU General Public License at the following url:
+
+   http://www.fsf.org/licensing/licenses/gpl.html
+
+For the following files, license and copyright holders are different:
+   * unittest/plasmoidtest_fullview.cpp
+   * unittest/plasmoidtest_fullview.h
+   * unittest/plasmoidtest_main.cpp
+
+  Upstream Authors:
+    Copyright (C) 2007 Frerich Raabe <raabe@kde.org>
+    Copyright (C) 2007 Aaron Seigo <aseigo@kde.org>
+    Copyright (C) 2008 Aleix Pol <aleixpol@gmail.com>
+
+  License:
+    The license for the three files named above is the 2-clause BSD license.
+    The complete text of the BSD License is shipped with with this
+    source-code-package and can be found in the file LICENSE-BSD.
+
+For the following files, license and copyright holders are different:
+    * applet/pageanimator.h
+    * applet/pageanimator.cpp
+
+  Upstream Authors:
+    Copyright (C) 2007 Thomas Luebking <thomas.luebking@web.de>
+    Copyright (C) 2009 Ulf Kreissig <udev@gmx.net>
+
+  License:
+    The license for the two files named above is either LGPLv2 or GPLv2.
+    The complete text of this two licenses has been shipped with this
+    source-code-package and can be found in the file LICENSE-GPL2 and
+    LICENSE-LGPL2.
+    You will find the this two license at the following url:
+
+       http://www.fsf.org/licensing/licenses/gpl.html
+
+For the following files, the license and copyright holders are different:
+    * logger/streamlogger.h
+    * logger/streamlogger.cpp
+
+  Upstream Authors:
+    Copyright (C) 1992-2007 Trolltech ASA
+    Copyright (C) 2009 Ulf Kreissig <udev@gmx.net>
+
+  License:
+    This file may be used under the terms of the GNU General Public
+    License version 2.0 as published by the Free Software Foundation
+    and appearing in the file LICENSE.GPL included in the packaging of
+    this file.  Please review the following information to ensure GNU
+    General Public Licensing requirements will be met:
+    http://trolltech.com/products/qt/licenses/licensing/opensource/
+
+    In addition, as a special exception, Trolltech gives you certain
+    additional rights. These rights are described in the Trolltech GPL
+    Exception version 1.0, which can be found at
+    http://www.trolltech.com/products/qt/gplexception/ and in the file
+    GPL_EXCEPTION.txt in this package.
+   
+    In addition, as a special exception, Trolltech, as the sole copyright
+    holder for Qt Designer, grants users of the Qt/Eclipse Integration
+    plug-in the right for the Qt/Eclipse Integration to link to
+    functionality provided by Qt Designer and its related libraries.
+
+The full license text of the GNU General Public License v2 can be found in
+the file LICENSE-GPL2.

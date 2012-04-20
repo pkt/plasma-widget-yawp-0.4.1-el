@@ -1,0 +1,7 @@
+<RCC>
+  <qresource>
+    <file>us_states.lst</file>
+    <file>countries.lst</file>
+    <file>iconnames.conf</file>
+  </qresource>
+</RCC>

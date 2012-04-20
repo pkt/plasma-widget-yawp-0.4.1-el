@@ -1,0 +1,126 @@
+yawp (0.4.1)
+  * Add ability to open forecast in browser (if URL is provided by ION)
+  * ION wunderground is returning a sorted list of cities (airport stations are listed on top of list,
+    because in general terms this station type contains more weather information than the personal weather station type).
+  * ION Wunderground is supporting satellite maps as well
+  * ION accuweather is not using a config-file for satellite image mapping any longer (feature has been added in version 0.4.0
+    but I think this was a stupid idea). Satellite images will be hard coded mapped to location in ION.
+  * Translations updated (CZ, FR) 
+  * Several little bug fixes - including geometry issues
+ -- Plasma Factory <plasmafactory@jcell.co.za>  San, 03 Dec 2011 00:00:00 +0000
+
+yawp (0.4.0)
+
+  * Bugfix: text in animation area jumps up or down at start and at the end of animation
+  * applets painting methods has been extracted and rewritten, for re-use and hopefully the new painting methods are well structured
+  * yaWP supports externder items (in panel mode only) - extender item interacts with user like desktop mode.
+    In panel mode:
+        When user clicks on the applet (but not on the weather forecast icons) the extender pops up.
+        The behavior of the applet for clicking on the weather forecast icons can be configured in the config dialog on page "Panel"
+        option "Use interactive weather icons". When this option is checked the weather icon will toggle between day and night
+        (in case we have weather information for day and night) otherwise the extender will appear.
+  * Removes old files from cache directory $HOME/.cache/yawp on a regular base.
+  * The install script install.sh uses more CPU cores if available. Could be override by -j script option.
+  * Turkish translation (thanks to Hasan Kiran)
+  * Czech, Slovak and French translation updated
+  * Changing unit system in config dialog will force auto-update.
+  * AccuWeather will use a config file for satellite mapping.
+ -- Plasma Factory <plasmafactory@jcell.co.za>  Sun, 13 Nov 2011 00:00:00 +0000
+
+yawp (0.3.6)
+
+  * Traverse through all locations periodically (optional)
+  * Page 'Settings' from config-dialog has been redesigned to gain more space
+  * Fixing bug in Ion Wunderground: Wunderground will now trigger dataUpdate event only when at least one update job has been succeded.
+    Wunderground is using two update jobs, one to receive the current information and one for the forecast information.
+  * Algorithm that is doing the text layout for the details area has been simplified
+  * Fix API breakage in 4.5.2/4.6
+ -- Plasma Factory <plasmafactory@jcell.co.za>  Fri, 12 Dec 2010 00:00:00 +0000
+
+yawp (0.3.5)
+
+  * Fix compilation error on KDE 4.5.2
+  * Patching ions to work with new weather-data-engine, thanks to Raymond Wooninck
+  * Fixing legal issues (The source code of the standard ions has used as base)
+  * Ion is checking state of pressure, instead of just coping the data
+  * Fix issues with sunrise/sunset
+  * Prefer millimeters of mecrcury to torr on KDE 4.5
+  * Fix KDE version check - consistently use KDE_IS_VERSION
+ -- Plasma Factory <plasmafactory@jcell.co.za>  Fri, 8 Oct 2010 00:00:00 +0000
+
+yawp (0.3.4)
+
+  * Fix torr description.
+  * Fix problems with some ions when yawp runs under ru locale
+  * Fix compilation error on PCBSD (thanks vvheritagevv) for patch.
+  * Update translations cs, fr, sk
+ -- Plasma Factory <plasmafactory@jcell.co.za>  Thu, 12 Jun 2010 00:00:00 +0000
+
+yawp (0.3.3)
+
+  * Added word-wrap for details-property.
+  * Added new ion for wunderground weather service
+  * Showing observation time (the time when weather-service-provider has been updated the weather data) on details page,
+    when specific ion supports this feature.
+    Ion Google, AccuWeather and Wunderground returning observation time, as well.
+  * timestamps for sunrise and sunset will be returned in the new timestamp format
+    (when compiling with kde 4.3 and above - timestamps in the standard ions had been changed)
+  * Google is returning more information of location to show the right flag. User needs to entered a more specific search text to add a new city.
+  * Timezone management
+  * Fix compilation problems with gcc 4.5 (thanks to Kai Wasserbäch)
+  * Translations updated: fr, pl(Maciej Bulik), sk, de, cs
+  * Added Ukrainian translation (thanks to Yuri Chornoivan)
+  * Various bugfixes and small improvements
+ -- Plasma Factory <plasmafactory@jcell.co.za>  Thu, 12 Jun 2010 00:00:00 +0000
+
+yawp (0.3.2)
+
+  * Added support for KDE 4.4 (including docking in systray)
+  * Fix text shadow for light themes
+  * A new Compact panel layout
+  * Translations updated: cs, fr, ru
+  * Some small fixes
+ -- Plasma Factory <plasmafactory@jcell.co.za>  Sun, 6 Dec 2009 00:00:00 +0000
+
+yawp (0.3.1)
+
+  * Fixed bug in accuweather engine.
+ -- Plasma Factory <plasmafactory@jcell.co.za>  Thu, 3 Dec 2009 00:00:00 +0000
+
+yawp (0.3.0)
+
+  * Totally rewritten - Big thanks to udev.
+  * Plasma weather engines support - accuweather and google engines included
+  * Multicity support
+ -- Plasma Factory <plasmafactory@jcell.co.za>  Sun, 29 Nov 2009 00:00:00 +0000
+
+yawp (0.2.3)
+
+  * Satellite image in tooltip can be dissabled
+  * Polish translation added - thanks to Maciej Bulik
+  * Fixed unit conversion functions to be on sync with accuweather.com - Thanks to Maciej Bulik for report.
+  * Russian, French and Czech translation updated.
+  * Licence mess cleaned.
+ -- Plasma Factory <plasmafactory@jcell.co.za>  Thu, 5 May 2009 00:00:00 +0000
+
+yawp (0.2.2)
+
+  * Fix for the icon sizing issue in KDE 4.2.2 and 4.2.67 - thanks to Daniel Rocher
+  * Solid support for network - thanks to John Stamp
+  * Panel tooltip redesign, show much more informations now
+  * Dialog sizing issue fixed
+  * Removed obsolete KIO workaround
+  * Translations updated: French, Slovak, Czech and Russian
+ -- Plasma Factory <plasmafactory@jcell.co.za>  Tue, 31 May 2009 00:00:00 +0000
+
+yawp (0.2.1)
+
+  * Fixed several panel sizing issues
+  * Custom colors support
+  * YaWP should be now usable with light themes (like Aya)
+ -- Plasma Factory <plasmafactory@jcell.co.za>  Mon, 16 May 2009 00:00:00 +0000
+
+yawp (0.2.0)
+  * Panel support
+  * Many bugfixes and improvements
+ -- Plasma Factory <plasmafactory@jcell.co.za>  Mon, 16 May 2009 00:00:00 +0000

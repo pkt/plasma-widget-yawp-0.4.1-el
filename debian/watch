@@ -1,0 +1,3 @@
+version=3
+
+http://sf.net/yawp/yawp-([\d\.]+)\.tar\.bz2 debian git-import-orig

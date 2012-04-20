@@ -1,0 +1,169 @@
+
+* DEPENDENCIES
+* INSTALLATION
+* CACHING
+* LICENCE
+* USER MANUAL
+* THANKS TO
+* DEVELOPER INFORMATIONS
+
+
+/********************************************************************************************\
+*                                  D E P E N D E N C I E S                                   *
+\********************************************************************************************/
+
+The following libraries and development packages are needed:
+KDE >=4.2.x
+QT  >=4.5.x	(i do not know if this plasmoid can be compiled with an older version of qt or kde.)
+cmake >= 2.6 is needed to start the configure/build/install process
+gzip   on debian based systems, we need gzip to create some files for /usr/share/doc/plasma-widget-yawp/
+       during the build process
+
+/********************************************************************************************\
+*                                  I N S T A L L A T I O N                                  *
+\********************************************************************************************/
+
+Packages:
+    Debian:  yaWP is in Debian since Squeeze.
+    Kubuntu: https://launchpad.net/~samrog131/+archive/ppa/
+
+
+Compile from source:
+     run ./install.sh
+or
+     mkdir build
+     cd build
+     cmake -DCMAKE_INSTALL_PREFIX=`kde4-config --prefix` ..
+     make
+     sudo make install
+     kbuildsycoca4 (to update plasma or restart kde, otherwise you will not find the applet in the plasma-applet-list)
+
+You have to restart plasma after installation
+
+kquitapp plasma; sleep 3; plasma # For KDE 4.2
+kquitapp plasma-desktop; sleep 3; plasma-desktop # For KDE 4.3
+
+
+/********************************************************************************************\
+*                                       C A C H I N G                                        *
+\********************************************************************************************/
+
+Yawp caches weather information for all locations which are shown on the applet. It creates a file for each
+location and updates the file every time, it receives new information from the ion-weather-engine.
+This weather information will be stored to directory: $HOME/.cache/yawp
+
+When yawp will be started and every time a new city will be added to the applet, it tries to load old data from
+this directory and extracts information for today and the next few days. This old values will be shown until new weather
+information has been passed to the applet (from the weather engine). To indicate that this informations
+are not up to date, yawp will show the the string "(Cached)" right next to the city name (e.g.: "Milwaukee, WI (Cached)").
+Yawp will remove old files from this cache directory on a regular base while applet is running (since version 0.4.0).
+But when applet has been removed or is not used anymore, this directory will not be removed or kept clean. In this case the user has to
+remove it manual.
+
+
+/********************************************************************************************\
+*                                       L I C E N C E                                        *
+\********************************************************************************************/
+
+Take a look at the file COPYRIGHT for more informations.
+
+
+/********************************************************************************************\
+*                                   U S E R   M A N U A L                                    *
+\********************************************************************************************/
+
+This plasmoid is a redesign of yaWP 0.2.X with the following main focus:
+
+* multi-city and multi-provider support
+* simple user interface
+* more animations
+
+
+This plasmoid shows the informations from the weatherproviders on three different pages:
+Clicking on one of the marbles/balles in the top-left will change the current page.
+
+* Preview
+  You will see the some informations of the current day in the top
+    - high and low temperature
+    - weather-condition-icon
+    - current temperature and windcondition
+    - cityname
+
+     When the weather-data-xml of the selected provider supports informations for day and night
+     you can switch between them clicking on the weathericon. All informations of the current day
+     you see in the top depends on the state of the weathericon. So, the current temperature is not always visible.
+
+* Details
+  You will find the weatherinformations of the selected day in the top of this plasmoid (like in the Preview-Page).
+  In the bottom you will find the
+    - description of the weathercondition
+    - sunrise and sunset
+    - realfeel high and low temperature
+    - pressure
+    - visibility
+    - Providerinformations and date of the last update.
+   Yawp is using a line-wrap to show the details text. Due to the reason that space is limited, you will not see all
+   details at once. Clicking in the details-area that contains the above listed informations will show the next details-page.
+
+   The information in the bottom of this page also depends on the state of the weathericon (in the top of this page).
+   This informations depends on what data we get from the selected provider.
+   Par example: Google does not send sunrise/sunset and the realfeel temperature at all.
+
+   Clicking on the left and the right arrow-button (in the middle of this plasmoid and below the city name) will switch to another day.
+
+* Satelite
+  This page shows a satelitemap of the location (right now, accuweather is the only provider that supports this feature).
+
+
+When you configured more than one city, than you will find arrow-buttons on the left and the right side of the city name.
+Clicking on this button will switch to another city, this is on all pages possible.
+You also can switch to another city through the popup-menu (this is very helpfull in panel-mode).
+
+
+* Config-Dialog
+  * Page Locations
+      - here you can add and delete cities.
+      When you wants to add a city, click on the button <Add City>, select one provider, enter the city name and click on the button <Find>
+
+  * Settings
+      Here you can select
+      - the unit system for temperature and windspeed
+      - update time. 
+      - Animation styles
+        I like the Qt4 style Bespin <http://cloudcity.sourceforge.net/> and was inspired by Bespins-Tab-Change-Algorithms
+        So i added a slightly modified version of this algorithm to yaWP for all animation-sequences.
+
+  * Panel
+      - Panel informations (like in yaWP 0.2.X)
+
+  * Theme
+      - Theme settings (background style, custom theme file and font color) (like in yaWP 0.2.X)
+
+
+*** THANKS TO ***
+
+  Thomas Lübking 
+    - for the Tab-Change-Algorithms    <http://cloudcity.sourceforge.net/>
+
+
+
+/********************************************************************************************\
+*                         D E V E L O P E R   I N F O R M A T I O N S                        *
+\********************************************************************************************/
+
+Rootlevel CMakeLists.txt contains the Versioninformations used in this plasmoid (line 44-47)
+
+SET(MAJOR_VERSION 0)
+SET(MINOR_VERSION 3)
+SET(PATCH_VERSION 0)
+SET(YAWP_VERSION_STRING "${MAJOR_VERSION}.${MINOR_VERSION}.${PATCH_VERSION}")
+
+The Archive contains a folder unittest. This is disabled by the normal cmake-process but might be usefull for
+testing and/or modifing some stuff.
+
+WeatherServiceModel (src/weatherservice.h) manages all cities for this plasmoid using a simple interface for yawp.
+Due to the fact that this object has all informations of all cities, this object received an QAbstractTableModel-Interface to
+be used in the config-dialog as well.
+This class also receives the weather-data-informations from the weather-engine and provides this data to the widget.
+To update the weather-informations for each city the class WeatherServiceModel is using the helper-class WeatherDataProcessor.
+

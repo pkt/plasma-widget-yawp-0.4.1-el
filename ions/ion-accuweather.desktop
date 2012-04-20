@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=AccuWeather Weather Service
+Comment=XML Data from AccuWeather
+Name[cs]=Počasí Accuweather.com
+Comment[cs]=XML data od Accuweather.com
+Name[sk]=Počasie Accuweather.com
+Comment[sk]=XML dáta od Accuweather.com
+X-KDE-ServiceTypes=WeatherEngine/Ion
+Type=Service
+Icon=noneyet
+X-KDE-Library=ion_accuweather
+X-IonName=accuweather
+X-Ubuntu-Gettext-Domain=desktop_kdebase-workspace

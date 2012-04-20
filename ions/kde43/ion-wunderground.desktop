@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Wunderground Weather Service
+Comment=XML Data from Wunderground
+Name[sk]=Počasie Wunderground
+Comment[sk]=XML dáta od Wunderground
+X-KDE-ServiceTypes=Plasma/DataEngine
+X-KDE-ParentApp=weatherengine
+Type=Service
+Icon=noneyet
+X-KDE-Library=ion_wunderground
+X-KDE-PluginInfo-Name=wunderground
+X-Ubuntu-Gettext-Domain=desktop_kdebase-workspace

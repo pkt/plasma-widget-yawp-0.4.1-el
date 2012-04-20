@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Google Weather Service
+Comment=XML Data from Google
+Name[cs]=Počasí Google
+Comment[cs]=XML data od Google
+Name[sk]=Počasie Google
+Comment[sk]=XML dáta od Google
+X-KDE-ServiceTypes=WeatherEngine/Ion
+Type=Service
+Icon=noneyet
+X-KDE-Library=ion_google
+X-IonName=google
+X-Ubuntu-Gettext-Domain=desktop_kdebase-workspace

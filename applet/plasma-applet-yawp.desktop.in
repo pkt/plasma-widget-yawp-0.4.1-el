@@ -1,0 +1,21 @@
+[Desktop Entry]
+Name=${YAWP_NAME}
+Comment=Yet Another Weather Plasmoid
+Type=Service
+ServiceTypes=Plasma/Applet
+Icon=weather-clear
+
+X-KDE-Library=plasma_applet_yawp
+X-KDE-PluginInfo-Author=PlasmaFactory
+X-KDE-PluginInfo-Email=plasmafactory@jcell.co.za
+X-KDE-PluginInfo-Name=${YAWP_NAME}
+X-KDE-PluginInfo-Version=${MAJOR_VERSION}.${MINOR_VERSION}.${PATCH_VERSION}
+X-KDE-PluginInfo-Website=http://www.kde-look.org/content/show.php?content=94106
+X-KDE-PluginInfo-Category=Environment and Weather
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-NotificationArea=true
+
+Comment[cs]=Ještě jeden plasmoid zobrazující počasí
+Comment[sk]=Ďaľší plasmoid zobrazujúci počasie

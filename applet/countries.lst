@@ -1,0 +1,240 @@
+AD | Andorra | Europe/Andorra
+AE | United Arab Emirates | Asia/Dubai
+AF | Afghanistan | Asia/Kabul
+AG | Antigua and Barbuda | America/Antigua
+AI | Anguilla | America/Anguilla
+AL | Albania | Europe/Tirane
+AM | Armenia | Asia/Yerevan
+AN | Netherlands Antilles | America/Curacao
+AO | Angola | Africa/Luanda
+AQ | Antarctica | Antarctica/Casey | Antarctica/Davis | Antarctica/DumontDUrville | Antarctica/Mawson | Antarctica/McMurdo | Antarctica/Palmer | Antarctica/Rothera | Antarctica/South_Pole | Antarctica/Syowa | Antarctica/Vostok
+AR | Argentina | America/Argentina/Buenos_Aires | America/Argentina/Catamarca | America/Argentina/Cordoba | America/Argentina/Jujuy | America/Argentina/La_Rioja | America/Argentina/Mendoza | America/Argentina/Rio_Gallegos | America/Argentina/Salta | America/Argentina/San_Juan | America/Argentina/San_Luis | America/Argentina/Tucuman | America/Argentina/Ushuaia
+AS | American Samoa | Pacific/Pago_Pago
+AT | Austria | Europe/Vienna
+AU | Australia | Australia/Adelaide | Australia/Brisbane | Australia/Broken_Hill | Australia/Currie | Australia/Darwin | Australia/Eucla | Australia/Hobart | Australia/Lindeman | Australia/Lord_Howe | Australia/Melbourne | Australia/Perth | Australia/Sydney
+AW | Aruba | America/Aruba
+AX | Åland Islands | Europe/Mariehamn
+AZ | Azerbaijan | Asia/Baku
+BA | Bosnia and Herzegovina | Europe/Sarajevo
+BB | Barbados | America/Barbados
+BD | Bangladesh | Asia/Dhaka
+BE | Belgium | Europe/Brussels
+BF | Burkina Faso | Africa/Ouagadougou
+BG | Bulgaria | Europe/Sofia
+BH | Bahrain | Asia/Bahrain
+BI | Burundi | Africa/Bujumbura
+BJ | Benin | Africa/Porto-Novo
+BM | Bermuda | Atlantic/Bermuda
+BN | Brunei Darussalam | Asia/Brunei
+BO | Bolivia | America/La_Paz
+BR | Brazil | America/Araguaina | America/Bahia | America/Belem | America/Boa_Vista | America/Campo_Grande | America/Cuiaba | America/Eirunepe | America/Fortaleza | America/Maceio | America/Manaus | America/Noronha | America/Porto_Velho | America/Recife | America/Rio_Branco | America/Santarem | America/Sao_Paulo
+BS | Bahamas | America/Nassau
+BT | Bhutan | Asia/Thimphu
+BW | Botswana | Africa/Gaborone
+BY | Belarus | Europe/Minsk
+BZ | Belize | America/Belize
+CA | Canada | America/Atikokan | America/Blanc-Sablon | America/Cambridge_Bay | America/Dawson | America/Dawson_Creek | America/Edmonton | America/Glace_Bay | America/Goose_Bay | America/Halifax | America/Inuvik | America/Iqaluit | America/Moncton | America/Montreal | America/Nipigon | America/Pangnirtung | America/Rainy_River | America/Rankin_Inlet | America/Regina | America/Resolute | America/St_Johns | America/Swift_Current | America/Thunder_Bay | America/Toronto | America/Vancouver | America/Whitehorse | America/Winnipeg | America/Yellowknife
+CC | Cocos (Keeling) Islands | Indian/Cocos
+CD | Congo, The Democratic Republic of the | Africa/Kinshasa | Africa/Lubumbashi
+CF | Central African Republic | Africa/Bangui
+CG | Congo | Africa/Brazzaville
+CH | Switzerland | Europe/Zurich
+CI | Cote d'ivoire | Africa/Abidjan
+CK | Cook islands | Pacific/Rarotonga
+CL | Chile | America/Santiago | Pacific/Easter
+CM | Cameroon | Africa/Douala
+CN | China | Asia/Chongqing | Asia/Harbin | Asia/Kashgar | Asia/Shanghai | Asia/Urumqi
+CO | Colombia | America/Bogota
+CR | Costa Rica | America/Costa_Rica
+CU | Cuba | America/Havana
+CV | Cape Verde | Atlantic/Cape_Verde
+CX | Christmas Island | Indian/Christmas
+CY | Cyprus | Asia/Nicosia
+CZ | Czech Republic | Europe/Prague
+DE | Germany | Europe/Berlin
+DJ | Djibouti | Africa/Djibouti
+DK | Denmark | Europe/Copenhagen
+DM | Dominica | America/Dominica
+DO | Dominican Republic | America/Santo_Domingo
+DZ | Algeria | Africa/Algiers
+EC | Ecuador | America/Guayaquil | Pacific/Galapagos
+EE | Estonia | Europe/Tallinn
+EG | Egypt | Africa/Cairo
+EH | Western Sahara | Africa/El_Aaiun
+ER | Eritrea | Africa/Asmara
+ES | Spain | Africa/Ceuta | Atlantic/Canary | Europe/Madrid
+ET | Ethiopia | Africa/Addis_Ababa
+FI | Finland | Europe/Helsinki
+FJ | Fiji | Pacific/Fiji
+FK | Falkland Islands (Malvinas) | Atlantic/Stanley
+FM | Micronesia, Federated States of | Pacific/Kosrae | Pacific/Ponape | Pacific/Truk
+FO | Faroe Islands | Atlantic/Faroe
+FR | France | Europe/Paris
+GA | Gabon | Africa/Libreville
+GB | United Kingdom | Europe/London
+GD | Grenada | America/Grenada
+GE | Georgia | Asia/Tbilisi
+GF | French Guiana | America/Cayenne
+GH | Ghana | Africa/Accra
+GI | Gibraltar | Europe/Gibraltar
+GL | Greenland | America/Danmarkshavn | America/Godthab | America/Scoresbysund | America/Thule
+GM | Gambia | Africa/Banjul
+GN | Guinea | Africa/Conakry
+GP | Guadeloupe | America/Guadeloupe
+GQ | Equatorial Guinea | Africa/Malabo
+GR | Greece | Europe/Athens
+GS | South Georgia and the South Sandwich Islands | Atlantic/South_Georgia
+GT | Guatemala | America/Guatemala
+GU | Guam | Pacific/Guam
+GW | Guinea-Bissau | Africa/Bissau
+GY | Guyana | America/Guyana
+HK | Hong Kong SAR(China) | Asia/Hong_Kong
+HN | Honduras | America/Tegucigalpa
+HR | Croatia | Europe/Zagreb
+HT | Haiti | America/Port-au-Prince
+HU | Hungary | Europe/Budapest
+ID | Indonesia | Asia/Jakarta | Asia/Jayapura | Asia/Makassar | Asia/Pontianak
+IE | Ireland | Europe/Dublin
+IL | Israel | Asia/Jerusalem
+IN | India | Asia/Kolkata
+IO | British Indian Ocean Territory | Indian/Chagos
+IQ | Iraq | Asia/Baghdad
+IR | Iran | Asia/Tehran
+IS | Iceland | Atlantic/Reykjavik
+IT | Italy | Europe/Rome
+JM | Jamaica | America/Jamaica
+JO | Jordan | Asia/Amman
+JP | Japan | Asia/Tokyo
+KE | Kenya | Africa/Nairobi
+KG | Kyrgyzstan | Asia/Bishkek
+KH | Cambodia | Asia/Phnom_Penh
+KI | Kiribati | Pacific/Enderbury | Pacific/Kiritimati | Pacific/Tarawa
+KM | Comoros | Indian/Comoro
+KN | St. Kitts and Nevis | America/St_Kitts
+KP | North Korea | Asia/Pyongyang
+KR | South Korea | Asia/Seoul
+KW | Kuwait | Asia/Kuwait
+KY | Cayman Islands | America/Cayman
+KZ | Kazakhstan | Asia/Almaty | Asia/Aqtau | Asia/Aqtobe | Asia/Oral | Asia/Qyzylorda
+LA | Laos | Asia/Vientiane
+LB | Lebanon | Asia/Beirut
+LC | St. Lucia | America/St_Lucia
+LI | Liechtenstein | Europe/Vaduz
+LK | Sri Lanka | Asia/Colombo
+LR | Liberia | Africa/Monrovia
+LS | Lesotho | Africa/Maseru
+LT | Lithuania | Europe/Vilnius
+LU | Luxembourg | Europe/Luxembourg
+LV | Latvia | Europe/Riga
+LY | Libya | Africa/Tripoli
+MA | Morocco | Africa/Casablanca
+MC | Monaco | Europe/Monaco
+MD | Moldova | Europe/Chisinau
+ME | Montenegro | Europe/Podgorica
+MG | Madagascar | Indian/Antananarivo
+MH | Marshall Islands | Pacific/Kwajalein | Pacific/Majuro
+MK | Macedonia | Europe/Skopje
+ML | Mali | Africa/Bamako
+MM | Myanmar | Asia/Rangoon
+MN | Mongolia | Asia/Choibalsan | Asia/Hovd | Asia/Ulaanbaatar
+MO | Macau SAR(China) | Asia/Macau
+MP | Northern Mariana Islands | Pacific/Saipan
+MQ | Martinique | America/Martinique
+MR | Mauritania | Africa/Nouakchott
+MS | Montserrat | America/Montserrat
+MT | Malta | Europe/Malta
+MU | Mauritius | Indian/Mauritius
+MV | Maldives | Indian/Maldives
+MW | Malawi | Africa/Blantyre
+MX | Mexico | America/Cancun | America/Chihuahua | America/Hermosillo | America/Mazatlan | America/Merida | America/Mexico_City | America/Monterrey | America/Tijuana
+MY | Malaysia | Asia/Kuala_Lumpur | Asia/Kuching
+MZ | Mozambique | Africa/Maputo
+NA | Namibia | Africa/Windhoek
+NC | New Caledonia | Pacific/Noumea
+NE | Niger | Africa/Niamey
+NF | Norfolk Island | Pacific/Norfolk
+NG | Nigeria | Africa/Lagos
+NI | Nicaragua | America/Managua
+NL | Netherlands | Europe/Amsterdam
+NO | Norway | Europe/Oslo
+NP | Nepal | Asia/Kathmandu
+NR | Nauru | Pacific/Nauru
+NU | Niue | Pacific/Niue
+NZ | New Zealand | Pacific/Auckland | Pacific/Chatham
+OM | Oman | Asia/Muscat
+PA | Panama | America/Panama
+PE | Peru | America/Lima
+PF | French Polynesia | Pacific/Gambier | Pacific/Marquesas | Pacific/Tahiti
+PG | Papua New Guinea | Pacific/Port_Moresby
+PH | Philippines | Asia/Manila
+PK | Pakistan | Asia/Karachi
+PL | Poland | Europe/Warsaw
+PM | Saint Pierre and Miquelon | America/Miquelon
+PN | Pitcairn | Pacific/Pitcairn
+PR | Puerto Rico | America/Puerto_Rico
+PS | Palestinian Territory | Asia/Gaza
+PT | Portugal | Atlantic/Azores | Atlantic/Madeira | Europe/Lisbon
+PW | Palau | Pacific/Palau
+PY | Paraguay | America/Asuncion
+QA | Qatar | Asia/Qatar
+RE | Réunion | Indian/Reunion
+RO | Romania | Europe/Bucharest
+RS | Serbia | Europe/Belgrade
+RU | Russia | Asia/Anadyr | Asia/Irkutsk | Asia/Kamchatka | Asia/Krasnoyarsk | Asia/Magadan | Asia/Novokuznetsk | Asia/Novosibirsk | Asia/Omsk | Asia/Sakhalin | Asia/Vladivostok | Asia/Yakutsk | Asia/Yekaterinburg | Europe/Kaliningrad | Europe/Moscow | Europe/Samara | Europe/Volgograd
+RW | Rwanda | Africa/Kigali
+SA | Saudi Arabia | Asia/Riyadh
+SB | Solomon Islands | Pacific/Guadalcanal
+SC | Seychelles | Indian/Mahe
+SD | Sudan | Africa/Khartoum
+SE | Sweden | Europe/Stockholm
+SG | Singapore | Asia/Singapore
+SH | Saint Helena | Atlantic/St_Helena
+SI | Slovenia | Europe/Ljubljana
+SJ | Svalbard & Jan Mayen Islands | Arctic/Longyearbyen
+SK | Slovakia | Europe/Bratislava
+SL | Sierra Leone | Africa/Freetown
+SM | San Marino | Europe/San_Marino
+SN | Senegal | Africa/Dakar
+SO | Somalia | Africa/Mogadishu
+SR | Suriname | America/Paramaribo
+ST | Sao Tome and Principe | Africa/Sao_Tome
+SV | El Salvador | America/El_Salvador
+SY | Syria | Asia/Damascus
+SZ | Swaziland | Africa/Mbabane
+TC | Turks and Caicos Islands | America/Grand_Turk
+TD | Chad | Africa/Ndjamena
+TF | French Southern Territories | Indian/Kerguelen
+TG | Togo | Africa/Lome
+TH | Thailand | Asia/Bangkok
+TJ | Tajikistan | Asia/Dushanbe
+TK | Tokelau | Pacific/Fakaofo
+TL | Timor-Leste | Asia/Dili
+TM | Turkmenistan | Asia/Ashgabat
+TN | Tunisia | Africa/Tunis
+TO | Tonga | Pacific/Tongatapu
+TP | East Timor | Timur/Eastern_Indonesia
+TR | Turkey | Europe/Istanbul
+TT | Trinidad and Tobago | America/Port_of_Spain
+TV | Tuvalu | Pacific/Funafuti
+TW | Taiwan | Asia/Taipei
+TZ | Tanzania, United Republic of | Africa/Dar_es_Salaam
+UA | Ukraine | Europe/Kiev | Europe/Simferopol | Europe/Uzhgorod | Europe/Zaporozhye
+UG | Uganda | Africa/Kampala | EAT
+UM | United States Minor Outlying Islands | Pacific/Johnston | Pacific/Midway | Pacific/Wake
+US | United States of America | America/Adak | America/Anchorage | America/Boise | America/Chicago | America/Denver | America/Detroit | America/Indiana/Indianapolis | America/Indiana/Knox | America/Indiana/Marengo | America/Indiana/Petersburg | America/Indiana/Tell_City | America/Indiana/Vevay | America/Indiana/Vincennes | America/Indiana/Winamac | America/Juneau | America/Kentucky/Louisville | America/Kentucky/Monticello | America/Los_Angeles | America/Menominee | America/New_York | America/Nome | America/North_Dakota/Center | America/North_Dakota/New_Salem | America/Phoenix | America/Shiprock | America/Yakutat | Pacific/Honolulu
+UY | Uruguay | America/Montevideo
+UZ | Uzbekistan | Asia/Samarkand | Asia/Tashkent
+VA | Vatican City | Europe/Vatican
+VC | St. Vincent and the Grenadines | America/St_Vincent
+VE | Venezuela | America/Caracas
+VG | Virgin Islands, British | America/Tortola
+VI | Virgin Islands, U.S. | America/St_Thomas
+VN | Vietnam | Asia/Ho_Chi_Minh
+VU | Vanuatu | Pacific/Efate
+WF | Wallis and Futuna | Pacific/Wallis
+WS | Samoa | Pacific/Apia
+YE | Yemen | Asia/Aden
+YT | Mayotte | Indian/Mayotte
+ZA | South Africa | Africa/Johannesburg
+ZM | Zambia | Africa/Lusaka
+ZW | Zimbabwe | Africa/Harare
